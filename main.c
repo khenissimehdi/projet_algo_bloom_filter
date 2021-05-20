@@ -4,9 +4,8 @@
 #include "time.h"
 #include "filter.h"
 
-
-
-int main(int argc, char *argv[]){
+int main(int argc, char *argv[])
+{
 
   /*int SIZE = 10000;
 
@@ -30,7 +29,7 @@ int main(int argc, char *argv[]){
   filter *f = create_filter(5, 1);
   unsigned hashes[1];
   hash(f, "a", hashes);
-  printf("%d ", hashes[1]);
+  printf("%d ", hashes[0]);
 
   return 0;
 }
