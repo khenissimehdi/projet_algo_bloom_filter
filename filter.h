@@ -7,6 +7,7 @@ typedef struct _filter
 {
   bitarray *bitarray;
   int k; /* number of hash functions */
+  int weights[];
 } filter;
 /* Return a pointer to an empty filter with parameters m and k */
 filter *create_filter(int m, int k);

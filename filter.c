@@ -18,6 +18,12 @@ filter *create_filter(int m, int k)
   {
     new_filter->bitarray = create_bitarray(m);
     new_filter->k = k;
+    int i;
+    for(i = 0; i < new_filter->k; i++)
+    {
+      int r = rand() % 254 + 2;
+      new_filter->weights[i] = r;
+    }
   }
   return new_filter;
 }
@@ -30,22 +36,16 @@ void free_filter(filter *f)
 
 void hash(filter *f, char *str, unsigned hashes[])
 {
-  int rands[f->k], n, i, j, hash;
+  int i, j, hash;
   int len = strlen(str);
   srand(time(NULL));
 
-  for (n = 0; n < f->k; n++)
-  {
-    int r = rand() % 254 + 2;
-    rands[n] = r;
-  }
-
-  for (i = 0; i < f->k; i++)
+  for(i = 0; i < f->k; i++)
   {
     hash = 0;
-    for (j = 0; str[j] != '\0'; j++)
+    for(j = 0; str[j] != '\0'; j++)
     {
-      hash += str[j] * pow((rands[i]), len - (j + 1));
+      hash += str[j] * pow((f->weights[i]), len - (j + 1));
     }
     hashes[i] = hash;
   }
@@ -55,8 +55,8 @@ void add_filter(filter *f, char *str)
 {
   unsigned hashes[f->k];
   hash(f, str, hashes);
-
-  for (int i = 0; i < f->k; i++)
+  int i;
+  for(i = 0; i < f->k; i++)
   {
     set_bitarray(f->bitarray, hashes[i] % f->bitarray->size);
   }
@@ -69,4 +69,18 @@ void print_filter(filter *f)
   {
     printf("%d \n", f->bitarray->array[i]);
   }
+}
+
+int is_member_filter(filter *f, char *str)
+{
+  int i;
+  int res = 1;
+  unsigned hashes[f->k];
+  hash(f, str, hashes);
+  for(i = 0; i < f->k; i++){
+    if(get_bitarray(f->bitarray, hashes[i]%f->bitarray->size) != 1){
+      res = 0;
+    }
+  }
+  return res;
 }

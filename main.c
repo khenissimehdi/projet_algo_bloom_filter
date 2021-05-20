@@ -35,7 +35,10 @@ int main(int argc, char *argv[])
   hash(f, "abc", hashes);
   printf("%d \n", hashes[0]);
   add_filter(f, "abc");
+  add_filter(f, "dce");
   print_filter(f);
+  printf("is_member_filter : %d\n", is_member_filter(f, "abc"));
+  printf("is_member_filter : %d\n", is_member_filter(f, "dce"));
 
   return 0;
 }
