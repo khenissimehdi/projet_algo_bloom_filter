@@ -61,3 +61,12 @@ void add_filter(filter *f, char *str)
     set_bitarray(f->bitarray, hashes[i] % f->bitarray->size);
   }
 }
+
+void print_filter(filter *f)
+{
+  int i;
+  for (i = 0; i < f->bitarray->size; i++)
+  {
+    printf("%d \n", f->bitarray->array[i]);
+  }
+}

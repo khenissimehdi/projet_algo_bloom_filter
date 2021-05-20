@@ -5,6 +5,7 @@
 #include "time.h"
 #include "filter.h"
 
+
 int main(int argc, char *argv[])
 {
 
@@ -33,6 +34,8 @@ int main(int argc, char *argv[])
   unsigned hashes[len];
   hash(f, "abc", hashes);
   printf("%d \n", hashes[0]);
+  add_filter(f, "abc");
+  print_filter(f);
 
   return 0;
 }
