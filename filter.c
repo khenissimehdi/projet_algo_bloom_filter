@@ -36,11 +36,7 @@ void hash(filter *f, char *str, unsigned hashes[])
 
   for (n = 0; n < f->k; n++)
   {
-    int r = rand() % 256;
-    while (r < 2)
-    {
-      r = rand() % 256;
-    }
+    int r = rand() % 254 + 2;
     rands[n] = r;
   }
 
@@ -49,12 +45,19 @@ void hash(filter *f, char *str, unsigned hashes[])
     hash = 0;
     for (j = 0; str[j] != '\0'; j++)
     {
-      n = pow((rands[i]), 1);
-      /* n = str[j] * pow((rands[i]), 1);*/
-      printf("%d \n", n);
-      hash += str[j] * pow((rands[i]), len - j + 1);
-      printf("j : %d + %d : %d\n", str[j], rands[i], hash);
+      hash += str[j] * pow((rands[i]), len - (j + 1));
     }
     hashes[i] = hash;
+  }
+}
+
+void add_filter(filter *f, char *str)
+{
+  unsigned hashes[f->k];
+  hash(f, str, hashes);
+
+  for (int i = 0; i < f->k; i++)
+  {
+    set_bitarray(f->bitarray, hashes[i] % f->bitarray->size);
   }
 }
