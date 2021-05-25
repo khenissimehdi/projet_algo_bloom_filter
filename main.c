@@ -86,7 +86,6 @@ int main(int argc, char *argv[])
       launched = 1;
       }
     }
-    free(line);
     putchar('\n');
   }
   if(launched){
@@ -98,19 +97,24 @@ int main(int argc, char *argv[])
     }
     printf("Filter display: \n");
     print_filter(f);
+    putchar('\n');
     fclose(fin);
 
-
-
-
-
-
-
-
-
+    printf(" -If you want to check if a password might be in the database or not, type it below :\n");
+    printf(" -To quit the program , type 'q'.\n");
+    while(line[0] != 'q'){
+      line = readline(">>>");
+      if(is_member_filter(f, line)){
+        printf("%s is maybe in the database   (MAYBE).\n", line);
+      }
+      else{
+        printf("%s is not in the database     (NO)\n", line);
+      }
+    }
 
 
     free_filter(f);
+    free(line);
   }
 
 
