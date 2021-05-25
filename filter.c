@@ -65,10 +65,14 @@ void add_filter(filter *f, char *str)
 void print_filter(filter *f)
 {
   int i;
-  for (i = 0; i < f->bitarray->size; i++)
+  putchar('[');
+  for (i = 0; i < f->bitarray->size-1; i++)
   {
-    printf("%d \n", f->bitarray->array[i]);
+  /*  printf("%d \n", f->bitarray->array[i]);*/
+    printf("%d, ", f->bitarray->array[i]);
   }
+  printf("%d", f->bitarray->array[f->bitarray->size-1]);
+  printf("]\n");
 }
 
 int is_member_filter(filter *f, char *str)

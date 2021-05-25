@@ -7,6 +7,7 @@
 #include <readline/readline.h>
 #include <readline/history.h>
 
+#define MAX_WORD_LENGTH 80
 
 int main(int argc, char *argv[])
 {
@@ -43,20 +44,20 @@ int main(int argc, char *argv[])
   printf("is_member_filter : %d\n", is_member_filter(f, "dce"));*/
   char* line;
   FILE  *fin = NULL;
-  int m = 69420;
-  int k = 777;
+  int m = 20;
+  int k = 5;
   int launched = 0;
   /* readline = ? = fgets ou bien ??? */
   printf("Bloom filter : choose between the following options :\n\n");
   while(!launched || fin == NULL){
     if(fin == NULL)
-      printf("Load up a password file : 		     	 'f <password file path>' (mandatory)\n");
+      printf(" - Load up a password file : 		     	 'f <password file path>' (mandatory)\n");
     else{
-      printf("Load up a password file : 		     	 'f <password file path>' (file loaded)\n");
+      printf(" - Load up a password file : 		     	 'f <password file path>' (file loaded)\n");
     }
-    printf("Define m the number of bits in the bitarray 	  enter 'm' then '<number of bits>' (default value: %d)\n", m);
-    printf("Define k the number of different hash functions enter 'k' then '<number of hash f>' (default value: %d)\n", k);
-    printf("Run the bloom filter program 'r', must have a password file loaded up first !\n");
+    printf(" - Define m the number of bits in the bitarray 	  enter 'm' then '<number of bits>' (default value: %d)\n", m);
+    printf(" - Define k the number of different hash functions   enter 'k' then '<number of hash f>' (default value: %d)\n", k);
+    printf(" - Run the bloom filter program 'r', must have a password file loaded up first !\n");
     line = readline(">>>");
     if(line[0] == 'f'){
       char* filename = readline("file name :");
@@ -87,16 +88,50 @@ int main(int argc, char *argv[])
     }
     free(line);
     putchar('\n');
-  }/*
+  }
+  if(launched){
+    char* mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
+    filter *f = create_filter(m, k);
+    while(fscanf(fin, "%s ", mdp) != -1){
+      add_filter(f, mdp);
+      /*printf("%s\n",mdp);*/
+    }
+    printf("Filter display: \n");
+    print_filter(f);
+    fclose(fin);
+
+
+
+
+
+
+
+
+
+
+
+    free_filter(f);
+  }
+
+
+
+
+
+
+
+
+
+
+
+  /*
   while((line = readline (">>>"))){
     add_history(line);
     printf("%s\n", line);
     if (strcmp("quit", line) == 0)
       break;
     free(line);
-  }*/
-  clear_history();
-  return 0;
+  }
+  clear_history();*/
 
   return 0;
 }
