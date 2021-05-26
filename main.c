@@ -51,13 +51,13 @@ int main(int argc, char *argv[])
   printf("Bloom filter : choose between the following options :\n\n");
   while(!launched || fin == NULL){
     if(fin == NULL)
-      printf(" - Load up a password file : 		     	 'f <password file path>' (mandatory)\n");
+      printf(" - Load a password file up : 		     	     enter 'f' then '<password file path>' (mandatory)\n");
     else{
-      printf(" - Load up a password file : 		     	 'f <password file path>' (file loaded)\n");
+      printf(" - Load a password file up : 		     	     enter 'f' then '<password file path>' (file loaded)\n");
     }
-    printf(" - Define m the number of bits in the bitarray 	  enter 'm' then '<number of bits>' (default value: %d)\n", m);
+    printf(" - Define m the number of bits in the bitarray 	     enter 'm' then '<number of bits>' (default value: %d)\n", m);
     printf(" - Define k the number of different hash functions   enter 'k' then '<number of hash f>' (default value: %d)\n", k);
-    printf(" - Run the bloom filter program 'r', must have a password file loaded up first !\n");
+    printf(" - Run the bloom filter program                      enter 'r', must have a password file loaded up first !\n");
     line = readline(">>>");
     if(line[0] == 'f'){
       char* filename = readline("file name :");
