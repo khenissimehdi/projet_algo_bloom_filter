@@ -95,6 +95,8 @@ int main(int argc, char *argv[])
       add_filter(f, mdp);
       /*printf("%s\n",mdp);*/
     }
+
+    free(mdp);
     printf("Filter display: \n");
     print_filter(f);
     putchar('\n');
@@ -115,6 +117,8 @@ int main(int argc, char *argv[])
 
     free_filter(f);
     free(line);
+
+    return 0;
   }
 
 
