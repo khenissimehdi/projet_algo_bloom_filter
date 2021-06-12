@@ -42,56 +42,68 @@ int main(int argc, char *argv[])
   print_filter(f);
   printf("is_member_filter : %d\n", is_member_filter(f, "abc"));
   printf("is_member_filter : %d\n", is_member_filter(f, "dce"));*/
-  char* line;
-  FILE  *fin = NULL;
+  char *line;
+  FILE *fin = NULL;
   int m = 20;
   int k = 5;
   int launched = 0;
   /* readline = ? = fgets ou bien ??? */
   printf("Bloom filter : choose between the following options :\n\n");
-  while(!launched || fin == NULL){
-    if(fin == NULL)
+  while (!launched || fin == NULL)
+  {
+    if (fin == NULL)
       printf(" - Load a password file up : 		     	     enter 'f' then '<password file path>' (mandatory)\n");
-    else{
+    else
+    {
       printf(" - Load a password file up : 		     	     enter 'f' then '<password file path>' (file loaded)\n");
     }
     printf(" - Define m the number of bits in the bitarray 	     enter 'm' then '<number of bits>' (default value: %d)\n", m);
     printf(" - Define k the number of different hash functions   enter 'k' then '<number of hash f>' (default value: %d)\n", k);
     printf(" - Run the bloom filter program                      enter 'r', must have a password file loaded up first !\n");
     line = readline(">>>");
-    if(line[0] == 'f'){
-      char* filename = readline("file name :");
-      if(filename != NULL){
-      filename[strlen(filename)-1] = '\0';
+    if (line[0] == 'f')
+    {
+      char *filename = readline("file name :");
+      if (filename != NULL)
+      {
+        filename[strlen(filename) - 1] = '\0';
       }
       putchar('\n');
-      fin = fopen(filename,"r");
-      if(fin == NULL){
+      fin = fopen(filename, "r");
+      if (fin == NULL)
+      {
         /*fprintf(stderr, "Error opening file for reading: %s\n", argv[1]);
         return 1;*/
         printf("No file specified or incorrect format, please enter a valid txt password file.\n");
       }
     }
-    else if(line[0] == 'm'){
+    else if (line[0] == 'm')
+    {
       m = atoi(readline("m value : "));
     }
-    else if(line[0] == 'k'){
+    else if (line[0] == 'k')
+    {
       k = atoi(readline("k value : "));
     }
-    else if(line[0] == 'r'){
-      if(fin == NULL){
+    else if (line[0] == 'r')
+    {
+      if (fin == NULL)
+      {
         printf("Please load up a password file before running the program");
       }
-      else{
-      launched = 1;
+      else
+      {
+        launched = 1;
       }
     }
     putchar('\n');
   }
-  if(launched){
-    char* mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
+  if (launched)
+  {
+    char *mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
     filter *f = create_filter(m, k);
-    while(fscanf(fin, "%s ", mdp) != -1){
+    while (fscanf(fin, "%s ", mdp) != -1)
+    {
       add_filter(f, mdp);
       /*printf("%s\n",mdp);*/
     }
@@ -104,32 +116,23 @@ int main(int argc, char *argv[])
 
     printf(" -If you want to check if a password might be in the database or not, type it below :\n");
     printf(" -To quit the program , type 'q'.\n");
-    while(line[0] != 'q'){
+    while (line[0] != 'q')
+    {
       line = readline(">>>");
-      if(is_member_filter(f, line)){
+      if (is_member_filter(f, line))
+      {
         printf("%s is maybe in the database   (MAYBE).\n", line);
       }
-      else{
+      else
+      {
         printf("%s is not in the database     (NO)\n", line);
       }
     }
 
-
+        free(line);
     free_filter(f);
-    free(line);
-
-    return 0;
+    rl_clear_history();
   }
-
-
-
-
-
-
-
-
-
-
 
   /*
   while((line = readline (">>>"))){
