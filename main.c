@@ -120,9 +120,10 @@ int main(int argc, char *argv[])
       fileOut = fopen(fileOutName, "w+");
       size_t word_length;
       char *mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
-      hashtable *hash_table;
+      table *hash_table;
       filter *f = create_filter(m, k);
       hash_table = create_table(m);
+
       while (fscanf(fileIn, "%s ", mdp) != -1)
       {
 
@@ -137,16 +138,27 @@ int main(int argc, char *argv[])
       int yes = 0, maybe = 0, falseP = 0, no = 0;
       float n = 0.0;
       fclose(fileIn);
-
+      fileInName = readline("file input name :");
+      if (fileInName != NULL)
+      {
+        fileInName[strlen(fileInName) - 1] = '\0';
+      }
       fileIn = fopen(fileInName, "r");
+
       fileOut = fopen(fileOutName, "w+");
+
+      int i;
+
+      free(mdp);
+
       while (fscanf(fileIn, "%s ", mdp) != -1)
       {
+        n++;
 
         if (is_member_filter(f, mdp))
         {
 
-          if (find_table(hash_table, mdp))
+          if (find(hash_table, mdp))
           {
             fprintf(fileOut, "%s:  yes\n", mdp);
             yes++;

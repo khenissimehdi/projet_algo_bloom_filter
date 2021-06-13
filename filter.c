@@ -85,7 +85,7 @@ int is_member_filter(filter *f, char *str)
   hash(f, str, hashes);
   for (i = 0; i < f->k; i++)
   {
-    if (get_bitarray(f->bitarray, hashes[i] % f->bitarray->size) != 1)
+    if (get_bitarray(f->bitarray, hashes[i] % f->bitarray->size) == 0)
     {
       res = 0;
     }
