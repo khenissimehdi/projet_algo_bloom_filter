@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include "hashTable.h"
 #include <readline/readline.h>
 #include <readline/history.h>
 
@@ -44,6 +45,8 @@ int main(int argc, char *argv[])
   printf("is_member_filter : %d\n", is_member_filter(f, "dce"));*/
   char *line;
   FILE *fin = NULL;
+  FILE *fileIn = NULL;
+  FILE *fileOut = NULL;
   int m = 20;
   int k = 5;
   int launched = 0;
@@ -58,6 +61,8 @@ int main(int argc, char *argv[])
       printf(" - Load a password file up : 		     	     enter 'f' then '<password file path>' (file loaded)\n");
     }
     printf(" - Define m the number of bits in the bitarray 	     enter 'm' then '<number of bits>' (default value: %d)\n", m);
+    printf(" - Run stats using s \n");
+    printf(" - Define stats files using g \n");
     printf(" - Define k the number of different hash functions   enter 'k' then '<number of hash f>' (default value: %d)\n", k);
     printf(" - Run the bloom filter program                      enter 'r', must have a password file loaded up first !\n");
     line = readline(">>>");
@@ -96,9 +101,40 @@ int main(int argc, char *argv[])
         launched = 1;
       }
     }
+    else if (line[0] == 'g')
+    {
+      char *fileInName = readline("file input name :");
+      char *fileOutName = readline("file ouput name :");
+      if (fileInName != NULL)
+      {
+        fileInName[strlen(fileInName) - 1] = '\0';
+      }
+      if (fileOutName != NULL)
+      {
+        fileOutName[strlen(fileOutName) - 1] = '\0';
+      }
+
+      putchar('\n');
+      fileIn = fopen(fileInName, "r");
+      fileOut = fopen(fileOutName, "r");
+    }
+
+    else if (line[0] == 's')
+    {
+
+      if (fileIn == NULL || fileOut == NULL)
+      {
+        printf("Please load up a password file before running the program");
+      }
+      else
+      {
+
+        launched = 2;
+      }
+    }
     putchar('\n');
   }
-  if (launched)
+  if (launched == 1)
   {
     char *mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
     filter *f = create_filter(m, k);
@@ -116,22 +152,74 @@ int main(int argc, char *argv[])
 
     printf(" -If you want to check if a password might be in the database or not, type it below :\n");
     printf(" -To quit the program , type 'q'.\n");
-    while (line[0] != 'q')
+
+    line = readline(">>>");
+    if (is_member_filter(f, line))
     {
-      line = readline(">>>");
-      if (is_member_filter(f, line))
+      printf("%s is maybe in the database   (MAYBE).\n", line);
+    }
+    else
+    {
+      printf("%s is not in the database     (NO)\n", line);
+    }
+
+    free(line);
+    free_filter(f);
+  }
+  if (launched == 2)
+  {
+    printf("hello");
+    size_t word_length;
+    char *mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
+    table *hash_table;
+    filter *f = create_filter(m, k);
+    hash_table = create_table(m);
+    while (fscanf(fileIn, "%s ", mdp) != -1)
+    {
+
+      word_length = strlen(mdp);
+      if (word_length == 4 || word_length == 5)
       {
-        printf("%s is maybe in the database   (MAYBE).\n", line);
-      }
-      else
-      {
-        printf("%s is not in the database     (NO)\n", line);
+        add_filter(f, mdp);
+        add_occ_table(hash_table, mdp);
       }
     }
 
-        free(line);
+    free(mdp);
+    putchar('\n');
+
+    int yes = 0, maybe = 0, falseP = 0, no = 0;
+    float n = 0.0;
+    while (fscanf(fileIn, "%s ", mdp) != -1)
+    {
+
+      if (is_member_filter(f, mdp))
+      {
+        if (find(hash_table, mdp))
+        {
+          fprintf(fileOut, "%s:  yes\n", mdp);
+          yes++;
+        }
+        else
+        {
+          fprintf(fileOut, "%s:  False positive\n", mdp);
+          falseP++;
+        }
+
+        maybe++;
+      }
+      else
+      {
+        fprintf(fileOut, "%s:  non\n", mdp);
+        no++;
+      }
+    }
+
+    printf(" maybes : %d   no : %d,   false positives :  %d ,  percentage of false positive : %f \n",
+           maybe, no, falseP, (float)(falseP * 100.0) / n);
+
+    free(line);
     free_filter(f);
-    rl_clear_history();
   }
 
   /*
