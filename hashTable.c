@@ -143,7 +143,7 @@ void free_list(link *lst)
   }
 }
 
-int equal(char *w1, char *w2)
+int equal2(char *w1, char *w2)
 {
   return strcmp(w1, w2) == 0;
 }
@@ -151,7 +151,7 @@ int equal(char *w1, char *w2)
 link *find_list(link *lst, char word[])
 {
   link *ptr = lst;
-  while (ptr != NULL && !equal(ptr->word, word))
+  while (ptr != NULL && !equal2(ptr->word, word))
     ptr = ptr->next;
   return ptr;
 }

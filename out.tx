@@ -1,0 +1,9910 @@
+a:  non
+aa:  non
+aaa:  non
+aaron:  False positive
+ab:  non
+abandoned:  non
+abc:  non
+aberdeen:  non
+abilities:  non
+ability:  non
+able:  yes
+aboriginal:  non
+abortion:  non
+about:  yes
+above:  yes
+abraham:  non
+abroad:  non
+abs:  non
+absence:  non
+absent:  non
+absolute:  non
+absolutely:  non
+absorption:  non
+abstract:  non
+abstracts:  non
+abu:  non
+abuse:  False positive
+ac:  non
+academic:  non
+academics:  non
+academy:  non
+acc:  non
+accent:  non
+accept:  non
+acceptable:  non
+acceptance:  non
+accepted:  non
+accepting:  non
+accepts:  non
+access:  non
+accessed:  non
+accessibility:  non
+accessible:  non
+accessing:  non
+accessories:  non
+accessory:  non
+accident:  non
+accidents:  non
+accommodate:  non
+accommodation:  non
+accommodations:  non
+accompanied:  non
+accompanying:  non
+accomplish:  non
+accomplished:  non
+accordance:  non
+according:  non
+accordingly:  non
+account:  non
+accountability:  non
+accounting:  non
+accounts:  non
+accreditation:  non
+accredited:  non
+accuracy:  non
+accurate:  non
+accurately:  non
+accused:  non
+acdbentity:  non
+ace:  non
+acer:  non
+achieve:  non
+achieved:  non
+achievement:  non
+achievements:  non
+achieving:  non
+acid:  non
+acids:  False positive
+acknowledge:  non
+acknowledged:  non
+acm:  non
+acne:  non
+acoustic:  non
+acquire:  non
+acquired:  non
+acquisition:  non
+acquisitions:  non
+acre:  non
+acres:  False positive
+acrobat:  non
+across:  non
+acrylic:  non
+act:  non
+acting:  non
+action:  non
+actions:  non
+activated:  non
+activation:  non
+active:  non
+actively:  non
+activists:  non
+activities:  non
+activity:  non
+actor:  False positive
+actors:  non
+actress:  non
+acts:  non
+actual:  non
+actually:  non
+acute:  False positive
+ad:  non
+ada:  non
+adam:  False positive
+adams:  False positive
+adaptation:  non
+adapted:  non
+adapter:  non
+adapters:  non
+adaptive:  non
+adaptor:  non
+add:  non
+added:  False positive
+addiction:  non
+adding:  non
+addition:  non
+additional:  non
+additionally:  non
+additions:  non
+address:  non
+addressed:  non
+addresses:  non
+addressing:  non
+adds:  False positive
+adelaide:  non
+adequate:  non
+adidas:  non
+adipex:  non
+adjacent:  non
+adjust:  non
+adjustable:  non
+adjusted:  non
+adjustment:  non
+adjustments:  non
+admin:  False positive
+administered:  non
+administration:  non
+administrative:  non
+administrator:  non
+administrators:  non
+admission:  non
+admissions:  non
+admit:  yes
+admitted:  non
+adobe:  False positive
+adolescent:  non
+adopt:  False positive
+adopted:  non
+adoption:  non
+adrian:  non
+ads:  non
+adsl:  False positive
+adult:  yes
+adults:  non
+advance:  non
+advanced:  non
+advancement:  non
+advances:  non
+advantage:  non
+advantages:  non
+adventure:  non
+adventures:  non
+adverse:  non
+advert:  non
+advertise:  non
+advertisement:  non
+advertisements:  non
+advertiser:  non
+advertisers:  non
+advertising:  non
+advice:  non
+advise:  non
+advised:  non
+advisor:  non
+advisors:  non
+advisory:  non
+advocacy:  non
+advocate:  non
+adware:  non
+ae:  non
+aerial:  non
+aerospace:  non
+af:  non
+affair:  non
+affairs:  non
+affect:  non
+affected:  non
+affecting:  non
+affects:  non
+affiliate:  non
+affiliated:  non
+affiliates:  non
+affiliation:  non
+afford:  non
+affordable:  non
+afghanistan:  non
+afraid:  non
+africa:  non
+african:  non
+after:  yes
+afternoon:  non
+afterwards:  non
+ag:  non
+again:  yes
+against:  non
+age:  non
+aged:  non
+agencies:  non
+agency:  non
+agenda:  non
+agent:  yes
+agents:  non
+ages:  non
+aggregate:  non
+aggressive:  non
+aging:  False positive
+ago:  non
+agree:  yes
+agreed:  non
+agreement:  non
+agreements:  non
+agrees:  non
+agricultural:  non
+agriculture:  non
+ah:  non
+ahead:  yes
+ai:  non
+aid:  non
+aids:  False positive
+aim:  non
+aimed:  False positive
+aims:  False positive
+air:  non
+aircraft:  non
+airfare:  non
+airline:  non
+airlines:  non
+airplane:  non
+airport:  non
+airports:  non
+aj:  non
+ak:  non
+aka:  non
+al:  non
+ala:  non
+alabama:  non
+alan:  False positive
+alarm:  False positive
+alaska:  non
+albania:  non
+albany:  non
+albert:  non
+alberta:  non
+album:  False positive
+albums:  non
+albuquerque:  non
+alcohol:  non
+alert:  False positive
+alerts:  non
+alex:  False positive
+alexander:  non
+alexandria:  non
+alfred:  non
+algebra:  non
+algeria:  non
+algorithm:  non
+algorithms:  non
+ali:  non
+alias:  False positive
+alice:  False positive
+alien:  False positive
+align:  False positive
+alignment:  non
+alike:  False positive
+alive:  False positive
+all:  non
+allah:  False positive
+allan:  False positive
+alleged:  non
+allen:  False positive
+allergy:  non
+alliance:  non
+allied:  non
+allocated:  non
+allocation:  non
+allow:  yes
+allowance:  non
+allowed:  non
+allowing:  non
+allows:  non
+alloy:  False positive
+almost:  non
+alone:  yes
+along:  yes
+alot:  False positive
+alpha:  False positive
+alphabetical:  non
+alpine:  non
+already:  non
+also:  yes
+alt:  non
+alter:  False positive
+altered:  non
+alternate:  non
+alternative:  non
+alternatively:  non
+alternatives:  non
+although:  non
+alto:  False positive
+aluminium:  non
+aluminum:  non
+alumni:  non
+always:  non
+am:  non
+amanda:  non
+amateur:  non
+amazing:  non
+amazon:  non
+amazoncom:  non
+amazoncouk:  non
+ambassador:  non
+amber:  False positive
+ambien:  non
+ambient:  non
+amd:  non
+amend:  False positive
+amended:  non
+amendment:  non
+amendments:  non
+amenities:  non
+america:  non
+american:  non
+americans:  non
+americas:  non
+amino:  False positive
+among:  yes
+amongst:  non
+amount:  non
+amounts:  non
+amp:  non
+ampland:  non
+amplifier:  non
+amsterdam:  non
+amy:  non
+an:  non
+ana:  non
+anaheim:  non
+anal:  False positive
+analog:  non
+analyses:  non
+analysis:  non
+analyst:  non
+analysts:  non
+analytical:  non
+analyze:  non
+analyzed:  non
+anatomy:  non
+anchor:  non
+ancient:  non
+and:  non
+andale:  non
+anderson:  non
+andorra:  non
+andrea:  non
+andreas:  non
+andrew:  non
+andrews:  non
+andy:  False positive
+angel:  False positive
+angela:  non
+angeles:  non
+angels:  non
+anger:  False positive
+angle:  False positive
+angola:  non
+angry:  False positive
+animal:  non
+animals:  non
+animated:  non
+animation:  non
+anime:  False positive
+ann:  non
+anna:  False positive
+anne:  False positive
+annex:  False positive
+annie:  False positive
+anniversary:  non
+annotated:  non
+annotation:  non
+announce:  non
+announced:  non
+announcement:  non
+announcements:  non
+announces:  non
+annoying:  non
+annual:  non
+annually:  non
+anonymous:  non
+another:  non
+answer:  non
+answered:  non
+answering:  non
+answers:  non
+ant:  non
+antarctica:  non
+antenna:  non
+anthony:  non
+anthropology:  non
+anti:  False positive
+antibodies:  non
+antibody:  non
+anticipated:  non
+antigua:  non
+antique:  non
+antiques:  non
+antivirus:  non
+antonio:  non
+anxiety:  non
+any:  non
+anybody:  non
+anymore:  non
+anyone:  non
+anything:  non
+anytime:  non
+anyway:  non
+anywhere:  non
+aol:  non
+ap:  non
+apache:  non
+apart:  False positive
+apartment:  non
+apartments:  non
+api:  non
+apnic:  False positive
+apollo:  non
+app:  non
+apparatus:  non
+apparel:  non
+apparent:  non
+apparently:  non
+appeal:  non
+appeals:  non
+appear:  non
+appearance:  non
+appeared:  non
+appearing:  non
+appears:  non
+appendix:  non
+apple:  False positive
+appliance:  non
+appliances:  non
+applicable:  non
+applicant:  non
+applicants:  non
+application:  non
+applications:  non
+applied:  non
+applies:  non
+apply:  yes
+applying:  non
+appointed:  non
+appointment:  non
+appointments:  non
+appraisal:  non
+appreciate:  non
+appreciated:  non
+appreciation:  non
+approach:  non
+approaches:  non
+appropriate:  non
+appropriations:  non
+approval:  non
+approve:  non
+approved:  non
+approx:  non
+approximate:  non
+approximately:  non
+apps:  False positive
+apr:  non
+april:  False positive
+apt:  non
+aqua:  non
+aquarium:  non
+aquatic:  non
+ar:  non
+arab:  False positive
+arabia:  non
+arabic:  non
+arbitrary:  non
+arbitration:  non
+arc:  non
+arcade:  non
+arch:  False positive
+architect:  non
+architects:  non
+architectural:  non
+architecture:  non
+archive:  non
+archived:  non
+archives:  non
+arctic:  non
+are:  non
+area:  yes
+areas:  False positive
+arena:  False positive
+arg:  non
+argentina:  non
+argue:  yes
+argued:  non
+argument:  non
+arguments:  non
+arise:  False positive
+arising:  non
+arizona:  non
+arkansas:  non
+arlington:  non
+arm:  non
+armed:  False positive
+armenia:  non
+armor:  False positive
+arms:  False positive
+armstrong:  non
+army:  False positive
+arnold:  non
+around:  non
+arrange:  non
+arranged:  non
+arrangement:  non
+arrangements:  non
+array:  False positive
+arrest:  non
+arrested:  non
+arrival:  non
+arrivals:  non
+arrive:  non
+arrived:  non
+arrives:  non
+arrow:  False positive
+art:  non
+arthritis:  non
+arthur:  non
+article:  non
+articles:  non
+artificial:  non
+artist:  non
+artistic:  non
+artists:  non
+arts:  False positive
+artwork:  non
+aruba:  False positive
+as:  non
+asbestos:  non
+ascii:  False positive
+ash:  non
+ashley:  non
+asia:  non
+asian:  False positive
+aside:  False positive
+asin:  non
+ask:  non
+asked:  non
+asking:  non
+asks:  non
+asn:  non
+asp:  non
+aspect:  non
+aspects:  non
+aspnet:  non
+ass:  non
+assault:  non
+assembled:  non
+assembly:  non
+assess:  non
+assessed:  non
+assessing:  non
+assessment:  non
+assessments:  non
+asset:  False positive
+assets:  non
+assign:  non
+assigned:  non
+assignment:  non
+assignments:  non
+assist:  non
+assistance:  non
+assistant:  non
+assisted:  non
+assists:  non
+associate:  non
+associated:  non
+associates:  non
+association:  non
+associations:  non
+assume:  non
+assumed:  non
+assumes:  non
+assuming:  non
+assumption:  non
+assumptions:  non
+assurance:  non
+assure:  non
+assured:  non
+asthma:  non
+astrology:  non
+astronomy:  non
+asus:  non
+at:  non
+ata:  non
+ate:  non
+athens:  non
+athletes:  non
+athletic:  non
+athletics:  non
+ati:  non
+atlanta:  non
+atlantic:  non
+atlas:  False positive
+atm:  non
+atmosphere:  non
+atmospheric:  non
+atom:  False positive
+atomic:  non
+attach:  non
+attached:  non
+attachment:  non
+attachments:  non
+attack:  non
+attacked:  non
+attacks:  non
+attempt:  non
+attempted:  non
+attempting:  non
+attempts:  non
+attend:  non
+attendance:  non
+attended:  non
+attending:  non
+attention:  non
+attitude:  non
+attitudes:  non
+attorney:  non
+attorneys:  non
+attract:  non
+attraction:  non
+attractions:  non
+attractive:  non
+attribute:  non
+attributes:  non
+au:  non
+auburn:  non
+auckland:  non
+auction:  non
+auctions:  non
+aud:  non
+audi:  False positive
+audience:  non
+audio:  False positive
+audit:  False positive
+auditor:  non
+aug:  non
+august:  non
+aurora:  non
+aus:  non
+austin:  non
+australia:  non
+australian:  non
+austria:  non
+authentic:  non
+authentication:  non
+author:  non
+authorities:  non
+authority:  non
+authorization:  non
+authorized:  non
+authors:  non
+auto:  False positive
+automated:  non
+automatic:  non
+automatically:  non
+automation:  non
+automobile:  non
+automobiles:  non
+automotive:  non
+autos:  False positive
+autumn:  non
+av:  non
+availability:  non
+available:  non
+avatar:  non
+ave:  non
+avenue:  non
+average:  non
+avg:  non
+avi:  non
+aviation:  non
+avoid:  yes
+avoiding:  non
+avon:  False positive
+aw:  non
+award:  False positive
+awarded:  non
+awards:  non
+aware:  False positive
+awareness:  non
+away:  yes
+awesome:  non
+awful:  False positive
+axis:  non
+aye:  non
+az:  non
+azerbaijan:  non
+b:  non
+ba:  non
+babe:  False positive
+babes:  False positive
+babies:  non
+baby:  yes
+bachelor:  non
+back:  yes
+backed:  non
+background:  non
+backgrounds:  non
+backing:  non
+backup:  non
+bacon:  False positive
+bacteria:  non
+bacterial:  non
+bad:  non
+badge:  False positive
+badly:  False positive
+bag:  non
+baghdad:  non
+bags:  False positive
+bahamas:  non
+bahrain:  non
+bailey:  non
+baker:  non
+baking:  non
+balance:  non
+balanced:  non
+bald:  False positive
+bali:  False positive
+ball:  yes
+ballet:  non
+balloon:  non
+ballot:  non
+balls:  False positive
+baltimore:  non
+ban:  non
+banana:  non
+band:  False positive
+bands:  False positive
+bandwidth:  non
+bang:  False positive
+bangbus:  non
+bangkok:  non
+bangladesh:  non
+bank:  yes
+banking:  non
+bankruptcy:  non
+banks:  False positive
+banned:  non
+banner:  non
+banners:  non
+baptist:  non
+bar:  non
+barbados:  non
+barbara:  non
+barbie:  non
+barcelona:  non
+bare:  False positive
+barely:  non
+bargain:  non
+bargains:  non
+barn:  False positive
+barnes:  non
+barrel:  non
+barrier:  non
+barriers:  non
+barry:  False positive
+bars:  False positive
+base:  yes
+baseball:  non
+based:  False positive
+baseline:  non
+basement:  non
+basename:  non
+bases:  False positive
+basic:  False positive
+basically:  non
+basics:  non
+basin:  False positive
+basis:  False positive
+basket:  non
+basketball:  non
+baskets:  non
+bass:  False positive
+bat:  non
+batch:  False positive
+bath:  False positive
+bathroom:  non
+bathrooms:  non
+baths:  False positive
+batman:  non
+batteries:  non
+battery:  non
+battle:  non
+battlefield:  non
+bay:  non
+bb:  non
+bbc:  non
+bbs:  non
+bbw:  non
+bc:  non
+bd:  non
+bdsm:  False positive
+be:  non
+beach:  False positive
+beaches:  non
+beads:  False positive
+beam:  False positive
+bean:  False positive
+beans:  False positive
+bear:  False positive
+bearing:  non
+bears:  False positive
+beast:  False positive
+beastality:  non
+beastiality:  non
+beat:  yes
+beatles:  non
+beats:  False positive
+beautiful:  non
+beautifully:  non
+beauty:  non
+beaver:  non
+became:  non
+because:  non
+become:  non
+becomes:  non
+becoming:  non
+bed:  non
+bedding:  non
+bedford:  non
+bedroom:  non
+bedrooms:  non
+beds:  False positive
+bee:  non
+beef:  False positive
+been:  False positive
+beer:  False positive
+before:  non
+began:  False positive
+begin:  yes
+beginner:  non
+beginners:  non
+beginning:  non
+begins:  non
+begun:  False positive
+behalf:  non
+behavior:  non
+behavioral:  non
+behaviour:  non
+behind:  non
+beijing:  non
+being:  False positive
+beings:  non
+belarus:  non
+belfast:  non
+belgium:  non
+belief:  non
+beliefs:  non
+believe:  non
+believed:  non
+believes:  non
+belize:  non
+belkin:  non
+bell:  False positive
+belle:  False positive
+belly:  False positive
+belong:  non
+belongs:  non
+below:  False positive
+belt:  False positive
+belts:  False positive
+ben:  non
+bench:  False positive
+benchmark:  non
+bend:  False positive
+beneath:  non
+beneficial:  non
+benefit:  non
+benefits:  non
+benjamin:  non
+bennett:  non
+benz:  False positive
+berkeley:  non
+berlin:  non
+bermuda:  non
+bernard:  non
+berry:  False positive
+beside:  non
+besides:  non
+best:  yes
+bestiality:  non
+bestsellers:  non
+bet:  non
+beta:  False positive
+beth:  False positive
+better:  non
+betting:  non
+betty:  False positive
+between:  non
+beverage:  non
+beverages:  non
+beverly:  non
+beyond:  non
+bg:  non
+bhutan:  non
+bi:  non
+bias:  False positive
+bible:  False positive
+biblical:  non
+bibliographic:  non
+bibliography:  non
+bicycle:  non
+bid:  non
+bidder:  non
+bidding:  non
+bids:  False positive
+big:  non
+bigger:  non
+biggest:  non
+bike:  False positive
+bikes:  non
+bikini:  non
+bill:  yes
+billing:  non
+billion:  non
+bills:  False positive
+billy:  False positive
+bin:  non
+binary:  non
+bind:  False positive
+binding:  non
+bingo:  False positive
+bio:  non
+biodiversity:  non
+biographies:  non
+biography:  non
+biol:  False positive
+biological:  non
+biology:  non
+bios:  False positive
+biotechnology:  non
+bird:  False positive
+birds:  False positive
+birmingham:  non
+birth:  False positive
+birthday:  non
+bishop:  non
+bit:  non
+bitch:  False positive
+bite:  False positive
+bits:  False positive
+biz:  non
+bizarre:  non
+bizrate:  non
+bk:  non
+bl:  non
+black:  yes
+blackberry:  non
+blackjack:  non
+blacks:  non
+blade:  False positive
+blades:  non
+blah:  False positive
+blair:  False positive
+blake:  False positive
+blame:  False positive
+blank:  False positive
+blanket:  non
+blast:  False positive
+bleeding:  non
+blend:  False positive
+bless:  False positive
+blessed:  non
+blind:  False positive
+blink:  False positive
+block:  False positive
+blocked:  non
+blocking:  non
+blocks:  non
+blog:  False positive
+blogger:  non
+bloggers:  non
+blogging:  non
+blogs:  False positive
+blond:  False positive
+blonde:  non
+blood:  yes
+bloody:  non
+bloom:  False positive
+bloomberg:  non
+blow:  False positive
+blowing:  non
+blowjob:  non
+blowjobs:  non
+blue:  yes
+blues:  False positive
+bluetooth:  non
+blvd:  False positive
+bm:  non
+bmw:  non
+bo:  non
+board:  yes
+boards:  non
+boat:  False positive
+boating:  non
+boats:  False positive
+bob:  non
+bobby:  False positive
+boc:  non
+bodies:  non
+body:  yes
+bold:  False positive
+bolivia:  non
+bolt:  False positive
+bomb:  False positive
+bon:  non
+bond:  False positive
+bondage:  non
+bonds:  False positive
+bone:  False positive
+bones:  False positive
+bonus:  False positive
+boob:  False positive
+boobs:  False positive
+book:  yes
+booking:  non
+bookings:  non
+bookmark:  non
+bookmarks:  non
+books:  False positive
+bookstore:  non
+bool:  False positive
+boolean:  non
+boom:  False positive
+boost:  False positive
+boot:  False positive
+booth:  False positive
+boots:  False positive
+booty:  False positive
+border:  non
+borders:  non
+bored:  False positive
+boring:  non
+born:  yes
+borough:  non
+bosnia:  non
+boss:  False positive
+boston:  non
+both:  yes
+bother:  non
+botswana:  non
+bottle:  non
+bottles:  non
+bottom:  non
+bought:  non
+boulder:  non
+boulevard:  non
+bound:  False positive
+boundaries:  non
+boundary:  non
+bouquet:  non
+boutique:  non
+bow:  non
+bowl:  False positive
+bowling:  non
+box:  non
+boxed:  non
+boxes:  non
+boxing:  non
+boy:  non
+boys:  non
+bp:  non
+br:  non
+bra:  non
+bracelet:  non
+bracelets:  non
+bracket:  non
+brad:  False positive
+bradford:  non
+bradley:  non
+brain:  False positive
+brake:  False positive
+brakes:  non
+branch:  non
+branches:  non
+brand:  False positive
+brandon:  non
+brands:  non
+bras:  False positive
+brass:  False positive
+brave:  False positive
+brazil:  non
+brazilian:  non
+breach:  non
+bread:  False positive
+break:  yes
+breakdown:  non
+breakfast:  non
+breaking:  non
+breaks:  non
+breast:  non
+breasts:  non
+breath:  non
+breathing:  non
+breed:  False positive
+breeding:  non
+breeds:  non
+brian:  False positive
+brick:  False positive
+bridal:  non
+bride:  False positive
+bridge:  non
+bridges:  non
+brief:  False positive
+briefing:  non
+briefly:  non
+briefs:  non
+bright:  non
+brighton:  non
+brilliant:  non
+bring:  yes
+bringing:  non
+brings:  non
+brisbane:  non
+bristol:  non
+britain:  non
+britannica:  non
+british:  non
+britney:  non
+broad:  False positive
+broadband:  non
+broadcast:  non
+broadcasting:  non
+broader:  non
+broadway:  non
+brochure:  non
+brochures:  non
+broke:  False positive
+broken:  non
+broker:  non
+brokers:  non
+bronze:  non
+brook:  False positive
+brooklyn:  non
+brooks:  non
+bros:  False positive
+brother:  non
+brothers:  non
+brought:  non
+brown:  False positive
+browse:  non
+browser:  non
+browsers:  non
+browsing:  non
+bruce:  False positive
+brunei:  non
+brunette:  non
+brunswick:  non
+brush:  False positive
+brussels:  non
+brutal:  non
+bryan:  False positive
+bryant:  non
+bs:  non
+bt:  non
+bubble:  non
+buck:  False positive
+bucks:  False positive
+budapest:  non
+buddy:  False positive
+budget:  non
+budgets:  non
+buf:  non
+buffalo:  non
+buffer:  non
+bufing:  non
+bug:  non
+bugs:  False positive
+build:  yes
+builder:  non
+builders:  non
+building:  non
+buildings:  non
+builds:  non
+built:  False positive
+bukkake:  non
+bulgaria:  non
+bulgarian:  non
+bulk:  False positive
+bull:  False positive
+bullet:  non
+bulletin:  non
+bumper:  non
+bunch:  False positive
+bundle:  non
+bunny:  False positive
+burden:  non
+bureau:  non
+buried:  non
+burke:  False positive
+burlington:  non
+burn:  False positive
+burner:  non
+burning:  non
+burns:  False positive
+burst:  False positive
+burton:  non
+bus:  non
+buses:  False positive
+bush:  False positive
+business:  non
+businesses:  non
+busty:  False positive
+busy:  False positive
+but:  non
+butler:  non
+butt:  False positive
+butter:  non
+butterfly:  non
+button:  non
+buttons:  non
+butts:  False positive
+buy:  non
+buyer:  False positive
+buyers:  non
+buying:  non
+buys:  non
+buzz:  False positive
+bw:  non
+by:  non
+bye:  non
+byte:  False positive
+bytes:  non
+c:  non
+ca:  non
+cab:  non
+cabin:  False positive
+cabinet:  non
+cabinets:  non
+cable:  False positive
+cables:  non
+cache:  False positive
+cached:  non
+cad:  non
+cadillac:  non
+cafe:  False positive
+cage:  False positive
+cake:  False positive
+cakes:  non
+cal:  non
+calcium:  non
+calculate:  non
+calculated:  non
+calculation:  non
+calculations:  non
+calculator:  non
+calculators:  non
+calendar:  non
+calendars:  non
+calgary:  non
+calibration:  non
+calif:  False positive
+california:  non
+call:  yes
+called:  non
+calling:  non
+calls:  False positive
+calm:  False positive
+calvin:  non
+cam:  non
+cambodia:  non
+cambridge:  non
+camcorder:  non
+camcorders:  non
+came:  False positive
+camel:  False positive
+camera:  non
+cameras:  non
+cameron:  non
+cameroon:  non
+camp:  False positive
+campaign:  non
+campaigns:  non
+campbell:  non
+camping:  non
+camps:  False positive
+campus:  non
+cams:  False positive
+can:  non
+canada:  non
+canadian:  non
+canal:  False positive
+canberra:  non
+cancel:  non
+cancellation:  non
+cancelled:  non
+cancer:  non
+candidate:  non
+candidates:  non
+candle:  non
+candles:  non
+candy:  False positive
+cannon:  non
+canon:  False positive
+cant:  False positive
+canvas:  non
+canyon:  non
+cap:  non
+capabilities:  non
+capability:  non
+capable:  non
+capacity:  non
+cape:  False positive
+capital:  non
+capitol:  non
+caps:  False positive
+captain:  non
+capture:  non
+captured:  non
+car:  non
+carb:  False positive
+carbon:  non
+card:  yes
+cardiac:  non
+cardiff:  non
+cardiovascular:  non
+cards:  False positive
+care:  yes
+career:  non
+careers:  non
+careful:  non
+carefully:  non
+carey:  False positive
+cargo:  False positive
+caribbean:  non
+caring:  non
+carl:  False positive
+carlo:  False positive
+carlos:  non
+carmen:  non
+carnival:  non
+carol:  False positive
+carolina:  non
+caroline:  non
+carpet:  non
+carried:  non
+carrier:  non
+carriers:  non
+carries:  non
+carroll:  non
+carry:  yes
+carrying:  non
+cars:  False positive
+cart:  False positive
+carter:  non
+cartoon:  non
+cartoons:  non
+cartridge:  non
+cartridges:  non
+cas:  non
+casa:  False positive
+case:  yes
+cases:  False positive
+casey:  False positive
+cash:  False positive
+cashiers:  non
+casino:  non
+casinos:  non
+casio:  False positive
+cassette:  non
+cast:  False positive
+casting:  non
+castle:  non
+casual:  non
+cat:  non
+catalog:  non
+catalogs:  non
+catalogue:  non
+catalyst:  non
+catch:  yes
+categories:  non
+category:  non
+catering:  non
+cathedral:  non
+catherine:  non
+catholic:  non
+cats:  False positive
+cattle:  non
+caught:  non
+cause:  yes
+caused:  non
+causes:  non
+causing:  non
+caution:  non
+cave:  False positive
+cayman:  non
+cb:  non
+cbs:  non
+cc:  non
+ccd:  non
+cd:  non
+cdna:  False positive
+cds:  non
+cdt:  non
+ce:  non
+cedar:  False positive
+ceiling:  non
+celebrate:  non
+celebration:  non
+celebrities:  non
+celebrity:  non
+celebs:  non
+cell:  yes
+cells:  False positive
+cellular:  non
+celtic:  non
+cement:  non
+cemetery:  non
+census:  non
+cent:  False positive
+center:  non
+centered:  non
+centers:  non
+central:  non
+centre:  non
+centres:  non
+cents:  False positive
+centuries:  non
+century:  non
+ceo:  non
+ceramic:  non
+ceremony:  non
+certain:  non
+certainly:  non
+certificate:  non
+certificates:  non
+certification:  non
+certified:  non
+cest:  False positive
+cet:  non
+cf:  non
+cfr:  non
+cg:  non
+cgi:  non
+ch:  non
+chad:  False positive
+chain:  False positive
+chains:  non
+chair:  yes
+chairman:  non
+chairs:  non
+challenge:  non
+challenged:  non
+challenges:  non
+challenging:  non
+chamber:  non
+chambers:  non
+champagne:  non
+champion:  non
+champions:  non
+championship:  non
+championships:  non
+chan:  False positive
+chance:  non
+chancellor:  non
+chances:  non
+change:  non
+changed:  non
+changelog:  non
+changes:  non
+changing:  non
+channel:  non
+channels:  non
+chaos:  False positive
+chapel:  non
+chapter:  non
+chapters:  non
+char:  False positive
+character:  non
+characteristic:  non
+characteristics:  non
+characterization:  non
+characterized:  non
+characters:  non
+charge:  non
+charged:  non
+charger:  non
+chargers:  non
+charges:  non
+charging:  non
+charitable:  non
+charity:  non
+charles:  non
+charleston:  non
+charlie:  non
+charlotte:  non
+charm:  False positive
+charming:  non
+charms:  non
+chart:  False positive
+charter:  non
+charts:  non
+chase:  False positive
+chassis:  non
+chat:  False positive
+cheap:  False positive
+cheaper:  non
+cheapest:  non
+cheat:  False positive
+cheats:  non
+check:  yes
+checked:  non
+checking:  non
+checklist:  non
+checkout:  non
+checks:  non
+cheers:  non
+cheese:  non
+chef:  False positive
+chelsea:  non
+chem:  False positive
+chemical:  non
+chemicals:  non
+chemistry:  non
+chen:  False positive
+cheque:  non
+cherry:  non
+chess:  False positive
+chest:  False positive
+chester:  non
+chevrolet:  non
+chevy:  False positive
+chi:  non
+chicago:  non
+chick:  False positive
+chicken:  non
+chicks:  non
+chief:  False positive
+child:  yes
+childhood:  non
+children:  non
+childrens:  non
+chile:  False positive
+china:  False positive
+chinese:  non
+chip:  False positive
+chips:  False positive
+cho:  non
+chocolate:  non
+choice:  non
+choices:  non
+choir:  False positive
+cholesterol:  non
+choose:  non
+choosing:  non
+chorus:  non
+chose:  False positive
+chosen:  non
+chris:  False positive
+christ:  non
+christian:  non
+christianity:  non
+christians:  non
+christina:  non
+christine:  non
+christmas:  non
+christopher:  non
+chrome:  non
+chronic:  non
+chronicle:  non
+chronicles:  non
+chrysler:  non
+chubby:  non
+chuck:  False positive
+church:  non
+churches:  non
+ci:  non
+cia:  non
+cialis:  non
+ciao:  False positive
+cigarette:  non
+cigarettes:  non
+cincinnati:  non
+cindy:  False positive
+cinema:  non
+cingular:  non
+cio:  non
+cir:  non
+circle:  non
+circles:  non
+circuit:  non
+circuits:  non
+circular:  non
+circulation:  non
+circumstances:  non
+circus:  non
+cisco:  False positive
+citation:  non
+citations:  non
+cite:  False positive
+cited:  False positive
+cities:  non
+citizen:  non
+citizens:  non
+citizenship:  non
+city:  yes
+citysearch:  non
+civic:  False positive
+civil:  yes
+civilian:  non
+civilization:  non
+cj:  non
+cl:  non
+claim:  yes
+claimed:  non
+claims:  non
+claire:  non
+clan:  False positive
+clara:  False positive
+clarity:  non
+clark:  False positive
+clarke:  non
+class:  yes
+classes:  non
+classic:  non
+classical:  non
+classics:  non
+classification:  non
+classified:  non
+classifieds:  non
+classroom:  non
+clause:  non
+clay:  False positive
+clean:  False positive
+cleaner:  non
+cleaners:  non
+cleaning:  non
+cleanup:  non
+clear:  yes
+clearance:  non
+cleared:  non
+clearing:  non
+clearly:  non
+clerk:  False positive
+cleveland:  non
+click:  False positive
+clicking:  non
+clicks:  non
+client:  non
+clients:  non
+cliff:  False positive
+climate:  non
+climb:  False positive
+climbing:  non
+clinic:  non
+clinical:  non
+clinics:  non
+clinton:  non
+clip:  False positive
+clips:  False positive
+clock:  False positive
+clocks:  non
+clone:  False positive
+close:  yes
+closed:  non
+closely:  non
+closer:  non
+closes:  non
+closest:  non
+closing:  non
+closure:  non
+cloth:  False positive
+clothes:  non
+clothing:  non
+cloud:  False positive
+clouds:  non
+cloudy:  non
+club:  False positive
+clubs:  False positive
+cluster:  non
+clusters:  non
+cm:  non
+cms:  non
+cn:  non
+cnet:  False positive
+cnetcom:  non
+cnn:  non
+co:  non
+coach:  yes
+coaches:  non
+coaching:  non
+coal:  False positive
+coalition:  non
+coast:  False positive
+coastal:  non
+coat:  False positive
+coated:  non
+coating:  non
+cock:  False positive
+cocks:  False positive
+cod:  non
+code:  False positive
+codes:  False positive
+coding:  non
+coffee:  non
+cognitive:  non
+cohen:  False positive
+coin:  False positive
+coins:  False positive
+col:  non
+cold:  yes
+cole:  False positive
+coleman:  non
+colin:  False positive
+collaboration:  non
+collaborative:  non
+collapse:  non
+collar:  non
+colleague:  non
+colleagues:  non
+collect:  non
+collectables:  non
+collected:  non
+collectible:  non
+collectibles:  non
+collecting:  non
+collection:  non
+collections:  non
+collective:  non
+collector:  non
+collectors:  non
+college:  non
+colleges:  non
+collins:  non
+cologne:  non
+colombia:  non
+colon:  False positive
+colonial:  non
+colony:  non
+color:  yes
+colorado:  non
+colored:  non
+colors:  non
+colour:  non
+colours:  non
+columbia:  non
+columbus:  non
+column:  non
+columnists:  non
+columns:  non
+com:  non
+combat:  non
+combination:  non
+combinations:  non
+combine:  non
+combined:  non
+combines:  non
+combining:  non
+combo:  False positive
+come:  yes
+comedy:  non
+comes:  False positive
+comfort:  non
+comfortable:  non
+comic:  False positive
+comics:  non
+coming:  non
+comm:  False positive
+command:  non
+commander:  non
+commands:  non
+comment:  non
+commentary:  non
+commented:  non
+comments:  non
+commerce:  non
+commercial:  non
+commission:  non
+commissioner:  non
+commissioners:  non
+commissions:  non
+commit:  non
+commitment:  non
+commitments:  non
+committed:  non
+committee:  non
+committees:  non
+commodities:  non
+commodity:  non
+common:  non
+commonly:  non
+commons:  non
+commonwealth:  non
+communicate:  non
+communication:  non
+communications:  non
+communist:  non
+communities:  non
+community:  non
+comp:  False positive
+compact:  non
+companies:  non
+companion:  non
+company:  non
+compaq:  non
+comparable:  non
+comparative:  non
+compare:  non
+compared:  non
+comparing:  non
+comparison:  non
+comparisons:  non
+compatibility:  non
+compatible:  non
+compensation:  non
+compete:  non
+competent:  non
+competing:  non
+competition:  non
+competitions:  non
+competitive:  non
+competitors:  non
+compilation:  non
+compile:  non
+compiled:  non
+compiler:  non
+complaint:  non
+complaints:  non
+complement:  non
+complete:  non
+completed:  non
+completely:  non
+completing:  non
+completion:  non
+complex:  non
+complexity:  non
+compliance:  non
+compliant:  non
+complicated:  non
+complications:  non
+complimentary:  non
+comply:  non
+component:  non
+components:  non
+composed:  non
+composer:  non
+composite:  non
+composition:  non
+compound:  non
+compounds:  non
+comprehensive:  non
+compressed:  non
+compression:  non
+compromise:  non
+computation:  non
+computational:  non
+compute:  non
+computed:  non
+computer:  non
+computers:  non
+computing:  non
+con:  non
+concentrate:  non
+concentration:  non
+concentrations:  non
+concept:  non
+concepts:  non
+conceptual:  non
+concern:  non
+concerned:  non
+concerning:  non
+concerns:  non
+concert:  non
+concerts:  non
+conclude:  non
+concluded:  non
+conclusion:  non
+conclusions:  non
+concord:  non
+concrete:  non
+condition:  non
+conditional:  non
+conditioning:  non
+conditions:  non
+condo:  False positive
+condos:  non
+conduct:  non
+conducted:  non
+conducting:  non
+conf:  False positive
+conference:  non
+conferences:  non
+conferencing:  non
+confidence:  non
+confident:  non
+confidential:  non
+confidentiality:  non
+config:  non
+configuration:  non
+configure:  non
+configured:  non
+configuring:  non
+confirm:  non
+confirmation:  non
+confirmed:  non
+conflict:  non
+conflicts:  non
+confused:  non
+confusion:  non
+congo:  False positive
+congratulations:  non
+congress:  non
+congressional:  non
+conjunction:  non
+connect:  non
+connected:  non
+connecticut:  non
+connecting:  non
+connection:  non
+connections:  non
+connectivity:  non
+connector:  non
+connectors:  non
+cons:  False positive
+conscious:  non
+consciousness:  non
+consecutive:  non
+consensus:  non
+consent:  non
+consequence:  non
+consequences:  non
+consequently:  non
+conservation:  non
+conservative:  non
+consider:  non
+considerable:  non
+consideration:  non
+considerations:  non
+considered:  non
+considering:  non
+considers:  non
+consist:  non
+consistency:  non
+consistent:  non
+consistently:  non
+consisting:  non
+consists:  non
+console:  non
+consoles:  non
+consolidated:  non
+consolidation:  non
+consortium:  non
+conspiracy:  non
+const:  False positive
+constant:  non
+constantly:  non
+constitute:  non
+constitutes:  non
+constitution:  non
+constitutional:  non
+constraint:  non
+constraints:  non
+construct:  non
+constructed:  non
+construction:  non
+consult:  non
+consultancy:  non
+consultant:  non
+consultants:  non
+consultation:  non
+consulting:  non
+consumer:  non
+consumers:  non
+consumption:  non
+contact:  non
+contacted:  non
+contacting:  non
+contacts:  non
+contain:  non
+contained:  non
+container:  non
+containers:  non
+containing:  non
+contains:  non
+contamination:  non
+contemporary:  non
+content:  non
+contents:  non
+contest:  non
+contests:  non
+context:  non
+continent:  non
+continental:  non
+continually:  non
+continue:  non
+continued:  non
+continues:  non
+continuing:  non
+continuity:  non
+continuous:  non
+continuously:  non
+contract:  non
+contracting:  non
+contractor:  non
+contractors:  non
+contracts:  non
+contrary:  non
+contrast:  non
+contribute:  non
+contributed:  non
+contributing:  non
+contribution:  non
+contributions:  non
+contributor:  non
+contributors:  non
+control:  non
+controlled:  non
+controller:  non
+controllers:  non
+controlling:  non
+controls:  non
+controversial:  non
+controversy:  non
+convenience:  non
+convenient:  non
+convention:  non
+conventional:  non
+conventions:  non
+convergence:  non
+conversation:  non
+conversations:  non
+conversion:  non
+convert:  non
+converted:  non
+converter:  non
+convertible:  non
+convicted:  non
+conviction:  non
+convinced:  non
+cook:  False positive
+cookbook:  non
+cooked:  non
+cookie:  non
+cookies:  non
+cooking:  non
+cool:  False positive
+cooler:  non
+cooling:  non
+cooper:  non
+cooperation:  non
+cooperative:  non
+coordinate:  non
+coordinated:  non
+coordinates:  non
+coordination:  non
+coordinator:  non
+cop:  non
+cope:  False positive
+copied:  non
+copies:  non
+copper:  non
+copy:  False positive
+copying:  non
+copyright:  non
+copyrighted:  non
+copyrights:  non
+coral:  False positive
+cord:  False positive
+cordless:  non
+core:  False positive
+cork:  False positive
+corn:  False positive
+cornell:  non
+corner:  non
+corners:  non
+cornwall:  non
+corp:  False positive
+corporate:  non
+corporation:  non
+corporations:  non
+corps:  False positive
+corpus:  non
+correct:  non
+corrected:  non
+correction:  non
+corrections:  non
+correctly:  non
+correlation:  non
+correspondence:  non
+corresponding:  non
+corruption:  non
+cos:  non
+cosmetic:  non
+cosmetics:  non
+cost:  yes
+costa:  False positive
+costs:  False positive
+costume:  non
+costumes:  non
+cottage:  non
+cottages:  non
+cotton:  non
+could:  yes
+council:  non
+councils:  non
+counsel:  non
+counseling:  non
+count:  False positive
+counted:  non
+counter:  non
+counters:  non
+counties:  non
+counting:  non
+countries:  non
+country:  non
+counts:  non
+county:  non
+couple:  non
+coupled:  non
+couples:  non
+coupon:  non
+coupons:  non
+courage:  non
+courier:  non
+course:  non
+courses:  non
+court:  yes
+courtesy:  non
+courts:  non
+cove:  False positive
+cover:  yes
+coverage:  non
+covered:  non
+covering:  non
+covers:  non
+cow:  non
+cowboy:  non
+cox:  non
+cp:  non
+cpu:  non
+cr:  non
+crack:  False positive
+cradle:  non
+craft:  False positive
+crafts:  non
+craig:  False positive
+crap:  False positive
+craps:  False positive
+crash:  False positive
+crawford:  non
+crazy:  False positive
+cream:  False positive
+create:  non
+created:  non
+creates:  non
+creating:  non
+creation:  non
+creations:  non
+creative:  non
+creativity:  non
+creator:  non
+creature:  non
+creatures:  non
+credit:  non
+credits:  non
+creek:  False positive
+crest:  False positive
+crew:  False positive
+cricket:  non
+crime:  yes
+crimes:  non
+criminal:  non
+crisis:  non
+criteria:  non
+criterion:  non
+critical:  non
+criticism:  non
+critics:  non
+crm:  non
+croatia:  non
+crop:  False positive
+crops:  False positive
+cross:  False positive
+crossing:  non
+crossword:  non
+crowd:  False positive
+crown:  False positive
+crucial:  non
+crude:  False positive
+cruise:  non
+cruises:  non
+cruz:  False positive
+cry:  non
+crystal:  non
+cs:  non
+css:  non
+cst:  non
+ct:  non
+cu:  non
+cuba:  False positive
+cube:  False positive
+cubic:  False positive
+cuisine:  non
+cult:  False positive
+cultural:  non
+culture:  non
+cultures:  non
+cum:  non
+cumshot:  non
+cumshots:  non
+cumulative:  non
+cunt:  False positive
+cup:  non
+cups:  False positive
+cure:  False positive
+curious:  non
+currencies:  non
+currency:  non
+current:  non
+currently:  non
+curriculum:  non
+cursor:  non
+curtis:  non
+curve:  False positive
+curves:  non
+custody:  non
+custom:  non
+customer:  non
+customers:  non
+customise:  non
+customize:  non
+customized:  non
+customs:  non
+cut:  non
+cute:  False positive
+cuts:  False positive
+cutting:  non
+cv:  non
+cvs:  non
+cw:  non
+cyber:  non
+cycle:  non
+cycles:  non
+cycling:  non
+cylinder:  non
+cyprus:  non
+cz:  non
+czech:  non
+d:  non
+da:  non
+dad:  non
+daddy:  False positive
+daily:  False positive
+dairy:  False positive
+daisy:  False positive
+dakota:  non
+dale:  False positive
+dallas:  non
+dam:  non
+damage:  non
+damaged:  non
+damages:  non
+dame:  False positive
+damn:  False positive
+dan:  non
+dana:  False positive
+dance:  False positive
+dancing:  non
+danger:  non
+dangerous:  non
+daniel:  non
+danish:  non
+danny:  False positive
+dans:  False positive
+dare:  False positive
+dark:  yes
+darkness:  non
+darwin:  non
+das:  non
+dash:  False positive
+dat:  non
+data:  yes
+database:  non
+databases:  non
+date:  False positive
+dated:  False positive
+dates:  False positive
+dating:  non
+daughter:  non
+daughters:  non
+dave:  False positive
+david:  False positive
+davidson:  non
+davis:  False positive
+dawn:  False positive
+day:  non
+days:  non
+dayton:  non
+db:  non
+dc:  non
+dd:  non
+ddr:  non
+de:  non
+dead:  yes
+deadline:  non
+deadly:  non
+deaf:  False positive
+deal:  yes
+dealer:  non
+dealers:  non
+dealing:  non
+deals:  False positive
+dealt:  False positive
+dealtime:  non
+dean:  False positive
+dear:  False positive
+death:  yes
+deaths:  non
+debate:  non
+debian:  non
+deborah:  non
+debt:  False positive
+debug:  False positive
+debut:  False positive
+dec:  non
+decade:  non
+decades:  non
+december:  non
+decent:  non
+decide:  non
+decided:  non
+decimal:  non
+decision:  non
+decisions:  non
+deck:  False positive
+declaration:  non
+declare:  non
+declared:  non
+decline:  non
+declined:  non
+decor:  False positive
+decorating:  non
+decorative:  non
+decrease:  non
+decreased:  non
+dedicated:  non
+dee:  non
+deemed:  non
+deep:  yes
+deeper:  non
+deeply:  non
+deer:  False positive
+def:  non
+default:  non
+defeat:  non
+defects:  non
+defence:  non
+defend:  non
+defendant:  non
+defense:  non
+defensive:  non
+deferred:  non
+deficit:  non
+define:  non
+defined:  non
+defines:  non
+defining:  non
+definitely:  non
+definition:  non
+definitions:  non
+degree:  non
+degrees:  non
+del:  non
+delaware:  non
+delay:  False positive
+delayed:  non
+delays:  non
+delegation:  non
+delete:  non
+deleted:  non
+delhi:  False positive
+delicious:  non
+delight:  non
+deliver:  non
+delivered:  non
+delivering:  non
+delivers:  non
+delivery:  non
+dell:  False positive
+delta:  False positive
+deluxe:  non
+dem:  non
+demand:  non
+demanding:  non
+demands:  non
+demo:  False positive
+democracy:  non
+democrat:  non
+democratic:  non
+democrats:  non
+demographic:  non
+demonstrate:  non
+demonstrated:  non
+demonstrates:  non
+demonstration:  non
+den:  non
+denial:  non
+denied:  non
+denmark:  non
+dennis:  non
+dense:  False positive
+density:  non
+dental:  non
+dentists:  non
+denver:  non
+deny:  False positive
+department:  non
+departmental:  non
+departments:  non
+departure:  non
+depend:  non
+dependence:  non
+dependent:  non
+depending:  non
+depends:  non
+deployment:  non
+deposit:  non
+deposits:  non
+depot:  False positive
+depression:  non
+dept:  False positive
+depth:  False positive
+deputy:  non
+der:  non
+derby:  False positive
+derek:  False positive
+derived:  non
+des:  non
+descending:  non
+describe:  non
+described:  non
+describes:  non
+describing:  non
+description:  non
+descriptions:  non
+desert:  non
+deserve:  non
+design:  non
+designated:  non
+designation:  non
+designed:  non
+designer:  non
+designers:  non
+designing:  non
+designs:  non
+desirable:  non
+desire:  non
+desired:  non
+desk:  False positive
+desktop:  non
+desktops:  non
+desperate:  non
+despite:  non
+destination:  non
+destinations:  non
+destiny:  non
+destroy:  non
+destroyed:  non
+destruction:  non
+detail:  non
+detailed:  non
+details:  non
+detect:  non
+detected:  non
+detection:  non
+detective:  non
+detector:  non
+determination:  non
+determine:  non
+determined:  non
+determines:  non
+determining:  non
+detroit:  non
+deutsch:  non
+deutsche:  non
+deutschland:  non
+dev:  non
+devel:  False positive
+develop:  non
+developed:  non
+developer:  non
+developers:  non
+developing:  non
+development:  non
+developmental:  non
+developments:  non
+develops:  non
+deviant:  non
+deviation:  non
+device:  non
+devices:  non
+devil:  False positive
+devon:  False positive
+devoted:  non
+df:  non
+dg:  non
+dh:  non
+di:  non
+diabetes:  non
+diagnosis:  non
+diagnostic:  non
+diagram:  non
+dial:  False positive
+dialog:  non
+dialogue:  non
+diameter:  non
+diamond:  non
+diamonds:  non
+diana:  False positive
+diane:  False positive
+diary:  False positive
+dice:  False positive
+dick:  False positive
+dicke:  False positive
+dicks:  False positive
+dictionaries:  non
+dictionary:  non
+did:  non
+die:  non
+died:  False positive
+diego:  False positive
+dies:  False positive
+diesel:  non
+diet:  False positive
+dietary:  non
+diff:  False positive
+differ:  non
+difference:  non
+differences:  non
+different:  non
+differential:  non
+differently:  non
+difficult:  non
+difficulties:  non
+difficulty:  non
+diffs:  False positive
+dig:  non
+digest:  non
+digit:  False positive
+digital:  non
+dildo:  False positive
+dildos:  non
+dim:  non
+dimension:  non
+dimensional:  non
+dimensions:  non
+dining:  non
+dinner:  non
+dip:  non
+diploma:  non
+dir:  non
+direct:  non
+directed:  non
+direction:  non
+directions:  non
+directive:  non
+directly:  non
+director:  non
+directories:  non
+directors:  non
+directory:  non
+dirt:  False positive
+dirty:  False positive
+dis:  non
+disabilities:  non
+disability:  non
+disable:  non
+disabled:  non
+disagree:  non
+disappointed:  non
+disaster:  non
+disc:  False positive
+discharge:  non
+disciplinary:  non
+discipline:  non
+disciplines:  non
+disclaimer:  non
+disclaimers:  non
+disclose:  non
+disclosure:  non
+disco:  False positive
+discount:  non
+discounted:  non
+discounts:  non
+discover:  non
+discovered:  non
+discovery:  non
+discrete:  non
+discretion:  non
+discrimination:  non
+discs:  False positive
+discuss:  non
+discussed:  non
+discusses:  non
+discussing:  non
+discussion:  non
+discussions:  non
+disease:  non
+diseases:  non
+dish:  False positive
+dishes:  non
+disk:  False positive
+disks:  False positive
+disney:  non
+disorder:  non
+disorders:  non
+dispatch:  non
+dispatched:  non
+display:  non
+displayed:  non
+displaying:  non
+displays:  non
+disposal:  non
+disposition:  non
+dispute:  non
+disputes:  non
+dist:  False positive
+distance:  non
+distances:  non
+distant:  non
+distinct:  non
+distinction:  non
+distinguished:  non
+distribute:  non
+distributed:  non
+distribution:  non
+distributions:  non
+distributor:  non
+distributors:  non
+district:  non
+districts:  non
+disturbed:  non
+div:  non
+dive:  False positive
+diverse:  non
+diversity:  non
+divide:  non
+divided:  non
+dividend:  non
+divine:  non
+diving:  non
+division:  non
+divisions:  non
+divorce:  non
+divx:  False positive
+diy:  non
+dj:  non
+dk:  non
+dl:  non
+dm:  non
+dna:  non
+dns:  non
+do:  non
+doc:  non
+dock:  False positive
+docs:  False positive
+doctor:  non
+doctors:  non
+doctrine:  non
+document:  non
+documentary:  non
+documentation:  non
+documentcreatetextnode:  non
+documented:  non
+documents:  non
+dod:  non
+dodge:  False positive
+doe:  non
+does:  False positive
+dog:  non
+dogs:  False positive
+doing:  False positive
+doll:  False positive
+dollar:  non
+dollars:  non
+dolls:  False positive
+dom:  non
+domain:  non
+domains:  non
+dome:  False positive
+domestic:  non
+dominant:  non
+dominican:  non
+don:  non
+donald:  non
+donate:  non
+donated:  non
+donation:  non
+donations:  non
+done:  False positive
+donna:  False positive
+donor:  False positive
+donors:  non
+dont:  False positive
+doom:  False positive
+door:  yes
+doors:  False positive
+dos:  non
+dosage:  non
+dose:  False positive
+dot:  non
+double:  non
+doubt:  False positive
+doug:  False positive
+douglas:  non
+dover:  False positive
+dow:  non
+down:  yes
+download:  non
+downloadable:  non
+downloadcom:  non
+downloaded:  non
+downloading:  non
+downloads:  non
+downtown:  non
+dozen:  non
+dozens:  non
+dp:  non
+dpi:  non
+dr:  non
+draft:  False positive
+drag:  False positive
+dragon:  non
+drain:  False positive
+drainage:  non
+drama:  False positive
+dramatic:  non
+dramatically:  non
+draw:  yes
+drawing:  non
+drawings:  non
+drawn:  False positive
+draws:  False positive
+dream:  yes
+dreams:  non
+dress:  False positive
+dressed:  non
+dresses:  non
+dressing:  non
+drew:  False positive
+dried:  False positive
+drill:  False positive
+drilling:  non
+drink:  False positive
+drinking:  non
+drinks:  non
+drive:  yes
+driven:  non
+driver:  non
+drivers:  non
+drives:  non
+driving:  non
+drop:  yes
+dropped:  non
+drops:  False positive
+drove:  False positive
+drug:  yes
+drugs:  False positive
+drum:  False positive
+drums:  False positive
+drunk:  False positive
+dry:  non
+dryer:  False positive
+ds:  non
+dsc:  non
+dsl:  non
+dt:  non
+dts:  non
+du:  non
+dual:  False positive
+dubai:  False positive
+dublin:  non
+duck:  False positive
+dude:  False positive
+due:  non
+dui:  non
+duke:  False positive
+dumb:  False positive
+dump:  False positive
+duncan:  non
+duo:  non
+duplicate:  non
+durable:  non
+duration:  non
+durham:  non
+during:  non
+dust:  False positive
+dutch:  False positive
+duties:  non
+duty:  False positive
+dv:  non
+dvd:  non
+dvds:  False positive
+dx:  non
+dying:  non
+dylan:  non
+dynamic:  non
+dynamics:  non
+e:  non
+ea:  non
+each:  yes
+eagle:  False positive
+eagles:  non
+ear:  non
+earl:  False positive
+earlier:  non
+earliest:  non
+early:  yes
+earn:  False positive
+earned:  non
+earning:  non
+earnings:  non
+earrings:  non
+ears:  False positive
+earth:  False positive
+earthquake:  non
+ease:  False positive
+easier:  non
+easily:  non
+east:  yes
+easter:  non
+eastern:  non
+easy:  yes
+eat:  non
+eating:  non
+eau:  non
+ebay:  False positive
+ebony:  False positive
+ebook:  False positive
+ebooks:  non
+ec:  non
+echo:  non
+eclipse:  non
+eco:  non
+ecological:  non
+ecology:  non
+ecommerce:  non
+economic:  non
+economics:  non
+economies:  non
+economy:  non
+ecuador:  non
+ed:  non
+eddie:  False positive
+eden:  False positive
+edgar:  False positive
+edge:  yes
+edges:  False positive
+edinburgh:  non
+edit:  False positive
+edited:  non
+editing:  non
+edition:  non
+editions:  non
+editor:  non
+editorial:  non
+editorials:  non
+editors:  non
+edmonton:  non
+eds:  non
+edt:  non
+educated:  non
+education:  non
+educational:  non
+educators:  non
+edward:  non
+edwards:  non
+ee:  non
+ef:  non
+effect:  non
+effective:  non
+effectively:  non
+effectiveness:  non
+effects:  non
+efficiency:  non
+efficient:  non
+efficiently:  non
+effort:  non
+efforts:  non
+eg:  non
+egg:  non
+eggs:  non
+egypt:  False positive
+egyptian:  non
+eh:  non
+eight:  yes
+either:  non
+ejaculation:  non
+el:  non
+elder:  False positive
+elderly:  non
+elect:  False positive
+elected:  non
+election:  non
+elections:  non
+electoral:  non
+electric:  non
+electrical:  non
+electricity:  non
+electro:  non
+electron:  non
+electronic:  non
+electronics:  non
+elegant:  non
+element:  non
+elementary:  non
+elements:  non
+elephant:  non
+elevation:  non
+eleven:  non
+eligibility:  non
+eligible:  non
+eliminate:  non
+elimination:  non
+elite:  False positive
+elizabeth:  non
+ellen:  False positive
+elliott:  non
+ellis:  False positive
+else:  yes
+elsewhere:  non
+elvis:  False positive
+em:  non
+emacs:  False positive
+email:  False positive
+emails:  non
+embassy:  non
+embedded:  non
+emerald:  non
+emergency:  non
+emerging:  non
+emily:  False positive
+eminem:  non
+emirates:  non
+emission:  non
+emissions:  non
+emma:  non
+emotional:  non
+emotions:  non
+emperor:  non
+emphasis:  non
+empire:  non
+empirical:  non
+employ:  non
+employed:  non
+employee:  non
+employees:  non
+employer:  non
+employers:  non
+employment:  non
+empty:  False positive
+en:  non
+enable:  non
+enabled:  non
+enables:  non
+enabling:  non
+enb:  non
+enclosed:  non
+enclosure:  non
+encoding:  non
+encounter:  non
+encountered:  non
+encourage:  non
+encouraged:  non
+encourages:  non
+encouraging:  non
+encryption:  non
+encyclopedia:  non
+end:  non
+endangered:  non
+ended:  False positive
+endif:  False positive
+ending:  non
+endless:  non
+endorsed:  non
+endorsement:  non
+ends:  False positive
+enemies:  non
+enemy:  False positive
+energy:  non
+enforcement:  non
+eng:  non
+engage:  non
+engaged:  non
+engagement:  non
+engaging:  non
+engine:  non
+engineer:  non
+engineering:  non
+engineers:  non
+engines:  non
+england:  non
+english:  non
+enhance:  non
+enhanced:  non
+enhancement:  non
+enhancements:  non
+enhancing:  non
+enjoy:  yes
+enjoyed:  non
+enjoying:  non
+enlarge:  non
+enlargement:  non
+enormous:  non
+enough:  non
+enquiries:  non
+enquiry:  non
+enrolled:  non
+enrollment:  non
+ensemble:  non
+ensure:  non
+ensures:  non
+ensuring:  non
+ent:  non
+enter:  yes
+entered:  non
+entering:  non
+enterprise:  non
+enterprises:  non
+enters:  non
+entertaining:  non
+entertainment:  non
+entire:  non
+entirely:  non
+entities:  non
+entitled:  non
+entity:  non
+entrance:  non
+entrepreneur:  non
+entrepreneurs:  non
+entries:  non
+entry:  False positive
+envelope:  non
+environment:  non
+environmental:  non
+environments:  non
+enzyme:  non
+eos:  non
+ep:  non
+epa:  non
+epic:  False positive
+epinions:  non
+epinionscom:  non
+episode:  non
+episodes:  non
+epson:  False positive
+eq:  non
+equal:  non
+equality:  non
+equally:  non
+equation:  non
+equations:  non
+equilibrium:  non
+equipment:  non
+equipped:  non
+equity:  non
+equivalent:  non
+er:  non
+era:  non
+eric:  False positive
+ericsson:  non
+erik:  False positive
+erotic:  non
+erotica:  non
+erp:  non
+error:  False positive
+errors:  non
+es:  non
+escape:  non
+escort:  non
+escorts:  non
+especially:  non
+espn:  non
+essay:  False positive
+essays:  non
+essence:  non
+essential:  non
+essentially:  non
+essentials:  non
+essex:  False positive
+est:  non
+establish:  non
+established:  non
+establishing:  non
+establishment:  non
+estate:  non
+estates:  non
+estimate:  non
+estimated:  non
+estimates:  non
+estimation:  non
+estonia:  non
+et:  non
+etc:  non
+eternal:  non
+ethernet:  non
+ethical:  non
+ethics:  non
+ethiopia:  non
+ethnic:  non
+eu:  non
+eugene:  non
+eur:  non
+euro:  False positive
+europe:  non
+european:  non
+euros:  False positive
+ev:  non
+eva:  non
+eval:  False positive
+evaluate:  non
+evaluated:  non
+evaluating:  non
+evaluation:  non
+evaluations:  non
+evanescence:  non
+evans:  False positive
+eve:  non
+even:  yes
+evening:  non
+event:  yes
+events:  non
+eventually:  non
+ever:  yes
+every:  yes
+everybody:  non
+everyday:  non
+everyone:  non
+everything:  non
+everywhere:  non
+evidence:  non
+evident:  non
+evil:  False positive
+evolution:  non
+ex:  non
+exact:  False positive
+exactly:  non
+exam:  non
+examination:  non
+examinations:  non
+examine:  non
+examined:  non
+examines:  non
+examining:  non
+example:  non
+examples:  non
+exams:  False positive
+exceed:  non
+excel:  False positive
+excellence:  non
+excellent:  non
+except:  non
+exception:  non
+exceptional:  non
+exceptions:  non
+excerpt:  non
+excess:  non
+excessive:  non
+exchange:  non
+exchanges:  non
+excited:  non
+excitement:  non
+exciting:  non
+exclude:  non
+excluded:  non
+excluding:  non
+exclusion:  non
+exclusive:  non
+exclusively:  non
+excuse:  non
+exec:  non
+execute:  non
+executed:  non
+execution:  non
+executive:  non
+executives:  non
+exempt:  non
+exemption:  non
+exercise:  non
+exercises:  non
+exhaust:  non
+exhibit:  non
+exhibition:  non
+exhibitions:  non
+exhibits:  non
+exist:  yes
+existed:  non
+existence:  non
+existing:  non
+exists:  non
+exit:  non
+exotic:  non
+exp:  non
+expand:  non
+expanded:  non
+expanding:  non
+expansion:  non
+expansys:  non
+expect:  non
+expectations:  non
+expected:  non
+expects:  non
+expedia:  non
+expenditure:  non
+expenditures:  non
+expense:  non
+expenses:  non
+expensive:  non
+experience:  non
+experienced:  non
+experiences:  non
+experiencing:  non
+experiment:  non
+experimental:  non
+experiments:  non
+expert:  non
+expertise:  non
+experts:  non
+expiration:  non
+expired:  non
+expires:  non
+explain:  non
+explained:  non
+explaining:  non
+explains:  non
+explanation:  non
+explicit:  non
+explicitly:  non
+exploration:  non
+explore:  non
+explorer:  non
+exploring:  non
+explosion:  non
+expo:  non
+export:  non
+exports:  non
+exposed:  non
+exposure:  non
+express:  non
+expressed:  non
+expression:  non
+expressions:  non
+ext:  non
+extend:  non
+extended:  non
+extending:  non
+extends:  non
+extension:  non
+extensions:  non
+extensive:  non
+extent:  non
+exterior:  non
+external:  non
+extra:  False positive
+extract:  non
+extraction:  non
+extraordinary:  non
+extras:  non
+extreme:  non
+extremely:  non
+eye:  non
+eyed:  False positive
+eyes:  False positive
+ez:  non
+f:  non
+fa:  non
+fabric:  non
+fabrics:  non
+fabulous:  non
+face:  yes
+faced:  False positive
+faces:  False positive
+facial:  non
+facilitate:  non
+facilities:  non
+facility:  non
+facing:  non
+fact:  yes
+factor:  non
+factors:  non
+factory:  non
+facts:  False positive
+faculty:  non
+fail:  yes
+failed:  non
+failing:  non
+fails:  False positive
+failure:  non
+failures:  non
+fair:  False positive
+fairfield:  non
+fairly:  non
+fairy:  False positive
+faith:  False positive
+fake:  False positive
+fall:  yes
+fallen:  non
+falling:  non
+falls:  False positive
+false:  False positive
+fame:  False positive
+familiar:  non
+families:  non
+family:  non
+famous:  non
+fan:  non
+fancy:  False positive
+fans:  False positive
+fantastic:  non
+fantasy:  non
+faq:  non
+faqs:  non
+far:  non
+fare:  False positive
+fares:  False positive
+farm:  False positive
+farmer:  non
+farmers:  non
+farming:  non
+farms:  False positive
+fascinating:  non
+fashion:  non
+fast:  yes
+faster:  non
+fastest:  non
+fat:  non
+fatal:  False positive
+fate:  False positive
+father:  non
+fathers:  non
+fatty:  False positive
+fault:  False positive
+favor:  False positive
+favorite:  non
+favorites:  non
+favors:  non
+favour:  non
+favourite:  non
+favourites:  non
+fax:  non
+fbi:  non
+fc:  non
+fcc:  non
+fd:  non
+fda:  non
+fe:  non
+fear:  yes
+fears:  False positive
+feat:  False positive
+feature:  non
+featured:  non
+features:  non
+featuring:  non
+feb:  non
+february:  non
+fed:  non
+federal:  non
+federation:  non
+fee:  non
+feed:  False positive
+feedback:  non
+feeding:  non
+feeds:  False positive
+feel:  yes
+feeling:  non
+feelings:  non
+feels:  False positive
+fees:  False positive
+feet:  False positive
+fell:  False positive
+fellow:  non
+fellowship:  non
+felt:  False positive
+female:  non
+females:  non
+fence:  False positive
+feof:  False positive
+ferrari:  non
+ferry:  False positive
+festival:  non
+festivals:  non
+fetish:  non
+fever:  False positive
+few:  non
+fewer:  False positive
+ff:  non
+fg:  non
+fi:  non
+fiber:  False positive
+fibre:  False positive
+fiction:  non
+field:  yes
+fields:  non
+fifteen:  non
+fifth:  False positive
+fifty:  False positive
+fig:  non
+fight:  yes
+fighter:  non
+fighters:  non
+fighting:  non
+figure:  non
+figured:  non
+figures:  non
+fiji:  non
+file:  False positive
+filed:  False positive
+filename:  non
+files:  False positive
+filing:  non
+fill:  yes
+filled:  non
+filling:  non
+film:  yes
+filme:  False positive
+films:  False positive
+filter:  non
+filtering:  non
+filters:  non
+fin:  non
+final:  yes
+finally:  non
+finals:  non
+finance:  non
+finances:  non
+financial:  non
+financing:  non
+find:  yes
+findarticles:  non
+finder:  non
+finding:  non
+findings:  non
+findlaw:  non
+finds:  False positive
+fine:  yes
+finest:  non
+finger:  non
+fingering:  non
+fingers:  non
+finish:  non
+finished:  non
+finishing:  non
+finite:  non
+finland:  non
+finnish:  non
+fioricet:  non
+fire:  yes
+fired:  False positive
+firefox:  non
+fireplace:  non
+fires:  False positive
+firewall:  non
+firewire:  non
+firm:  yes
+firms:  False positive
+firmware:  non
+first:  yes
+fiscal:  non
+fish:  yes
+fisher:  non
+fisheries:  non
+fishing:  non
+fist:  False positive
+fisting:  non
+fit:  non
+fitness:  non
+fits:  False positive
+fitted:  non
+fitting:  non
+five:  yes
+fix:  non
+fixed:  non
+fixes:  non
+fixtures:  non
+fl:  non
+fla:  non
+flag:  False positive
+flags:  False positive
+flame:  False positive
+flash:  False positive
+flashers:  non
+flashing:  non
+flat:  False positive
+flavor:  non
+fleece:  non
+fleet:  False positive
+flesh:  False positive
+flex:  False positive
+flexibility:  non
+flexible:  non
+flickr:  non
+flight:  non
+flights:  non
+flip:  False positive
+float:  False positive
+floating:  non
+flood:  False positive
+floor:  yes
+flooring:  non
+floors:  non
+floppy:  non
+floral:  non
+florence:  non
+florida:  non
+florist:  non
+florists:  non
+flour:  False positive
+flow:  False positive
+flower:  non
+flowers:  non
+flows:  False positive
+floyd:  False positive
+flu:  non
+fluid:  False positive
+flush:  False positive
+flux:  False positive
+fly:  non
+flyer:  False positive
+flying:  non
+fm:  non
+fo:  non
+foam:  False positive
+focal:  False positive
+focus:  yes
+focused:  non
+focuses:  non
+focusing:  non
+fog:  non
+fold:  False positive
+folder:  non
+folders:  non
+folding:  non
+folk:  False positive
+folks:  False positive
+follow:  non
+followed:  non
+following:  non
+follows:  non
+font:  False positive
+fonts:  False positive
+foo:  non
+food:  yes
+foods:  False positive
+fool:  False positive
+foot:  yes
+footage:  non
+football:  non
+footwear:  non
+for:  non
+forbes:  non
+forbidden:  non
+force:  yes
+forced:  non
+forces:  non
+ford:  False positive
+forecast:  non
+forecasts:  non
+foreign:  non
+forest:  non
+forestry:  non
+forests:  non
+forever:  non
+forge:  False positive
+forget:  non
+forgot:  non
+forgotten:  non
+fork:  False positive
+form:  yes
+formal:  non
+format:  non
+formation:  non
+formats:  non
+formatting:  non
+formed:  non
+former:  non
+formerly:  non
+forming:  non
+forms:  False positive
+formula:  non
+fort:  False positive
+forth:  False positive
+fortune:  non
+forty:  False positive
+forum:  False positive
+forums:  non
+forward:  non
+forwarding:  non
+fossil:  non
+foster:  non
+foto:  False positive
+fotos:  False positive
+fought:  non
+foul:  False positive
+found:  False positive
+foundation:  non
+foundations:  non
+founded:  non
+founder:  non
+fountain:  non
+four:  yes
+fourth:  non
+fox:  non
+fp:  non
+fr:  non
+fraction:  non
+fragrance:  non
+fragrances:  non
+frame:  False positive
+framed:  non
+frames:  non
+framework:  non
+framing:  non
+france:  non
+franchise:  non
+francis:  non
+francisco:  non
+frank:  False positive
+frankfurt:  non
+franklin:  non
+fraser:  non
+fraud:  False positive
+fred:  False positive
+frederick:  non
+free:  yes
+freebsd:  non
+freedom:  non
+freelance:  non
+freely:  non
+freeware:  non
+freeze:  non
+freight:  non
+french:  non
+frequencies:  non
+frequency:  non
+frequent:  non
+frequently:  non
+fresh:  False positive
+fri:  non
+friday:  non
+fridge:  non
+friend:  non
+friendly:  non
+friends:  non
+friendship:  non
+frog:  False positive
+from:  yes
+front:  yes
+frontier:  non
+frontpage:  non
+frost:  False positive
+frozen:  non
+fruit:  False positive
+fruits:  non
+fs:  non
+ft:  non
+ftp:  non
+fu:  non
+fuck:  False positive
+fucked:  non
+fucking:  non
+fuel:  False positive
+fuji:  non
+fujitsu:  non
+full:  yes
+fully:  False positive
+fun:  non
+function:  non
+functional:  non
+functionality:  non
+functioning:  non
+functions:  non
+fund:  yes
+fundamental:  non
+fundamentals:  non
+funded:  non
+funding:  non
+fundraising:  non
+funds:  False positive
+funeral:  non
+funk:  False positive
+funky:  False positive
+funny:  False positive
+fur:  non
+furnished:  non
+furnishings:  non
+furniture:  non
+further:  non
+furthermore:  non
+fusion:  non
+future:  non
+futures:  non
+fuzzy:  non
+fw:  non
+fwd:  non
+fx:  non
+fy:  non
+g:  non
+ga:  non
+gabriel:  non
+gadgets:  non
+gage:  False positive
+gain:  False positive
+gained:  non
+gains:  False positive
+galaxy:  non
+gale:  False positive
+galleries:  non
+gallery:  non
+gambling:  non
+game:  yes
+gamecube:  non
+games:  False positive
+gamespot:  non
+gaming:  non
+gamma:  False positive
+gang:  False positive
+gangbang:  non
+gap:  non
+gaps:  False positive
+garage:  non
+garbage:  non
+garcia:  non
+garden:  non
+gardening:  non
+gardens:  non
+garlic:  non
+garmin:  non
+gary:  False positive
+gas:  non
+gasoline:  non
+gate:  False positive
+gates:  False positive
+gateway:  non
+gather:  non
+gathered:  non
+gathering:  non
+gauge:  False positive
+gave:  False positive
+gay:  non
+gays:  non
+gazette:  non
+gb:  non
+gba:  non
+gbp:  non
+gc:  non
+gcc:  non
+gd:  non
+gdp:  non
+ge:  non
+gear:  False positive
+geek:  False positive
+gel:  non
+gem:  non
+gen:  non
+gender:  non
+gene:  False positive
+genealogy:  non
+general:  non
+generally:  non
+generate:  non
+generated:  non
+generates:  non
+generating:  non
+generation:  non
+generations:  non
+generator:  non
+generators:  non
+generic:  non
+generous:  non
+genes:  False positive
+genesis:  non
+genetic:  non
+genetics:  non
+geneva:  non
+genius:  non
+genome:  non
+genre:  False positive
+genres:  non
+gentle:  non
+gentleman:  non
+gently:  non
+genuine:  non
+geo:  non
+geographic:  non
+geographical:  non
+geography:  non
+geological:  non
+geology:  non
+geometry:  non
+george:  non
+georgia:  non
+gerald:  non
+german:  non
+germany:  non
+get:  non
+gets:  False positive
+getting:  non
+gg:  non
+ghana:  False positive
+ghost:  False positive
+ghz:  non
+gi:  non
+giant:  False positive
+giants:  non
+gibraltar:  non
+gibson:  non
+gif:  non
+gift:  False positive
+gifts:  False positive
+gig:  non
+gilbert:  non
+girl:  yes
+girlfriend:  non
+girls:  False positive
+gis:  non
+give:  yes
+given:  False positive
+gives:  False positive
+giving:  non
+gl:  non
+glad:  False positive
+glance:  non
+glasgow:  non
+glass:  yes
+glasses:  non
+glen:  False positive
+glenn:  False positive
+global:  non
+globe:  False positive
+glory:  False positive
+glossary:  non
+gloves:  non
+glow:  False positive
+glucose:  non
+gm:  non
+gmbh:  non
+gmc:  non
+gmt:  non
+gnome:  False positive
+gnu:  non
+go:  non
+goal:  yes
+goals:  False positive
+goat:  False positive
+god:  non
+gods:  False positive
+goes:  False positive
+going:  False positive
+gold:  False positive
+golden:  non
+golf:  False positive
+gone:  False positive
+gonna:  False positive
+good:  yes
+goods:  False positive
+google:  non
+gordon:  non
+gore:  False positive
+gorgeous:  non
+gospel:  non
+gossip:  non
+got:  non
+gothic:  non
+goto:  False positive
+gotta:  False positive
+gotten:  non
+gourmet:  non
+gov:  non
+governance:  non
+governing:  non
+government:  non
+governmental:  non
+governments:  non
+governor:  non
+govt:  False positive
+gp:  non
+gpl:  non
+gps:  non
+gr:  non
+grab:  False positive
+grace:  False positive
+grad:  False positive
+grade:  False positive
+grades:  non
+gradually:  non
+graduate:  non
+graduated:  non
+graduates:  non
+graduation:  non
+graham:  non
+grain:  False positive
+grammar:  non
+grams:  False positive
+grand:  False positive
+grande:  non
+granny:  non
+grant:  False positive
+granted:  non
+grants:  non
+graph:  False positive
+graphic:  non
+graphical:  non
+graphics:  non
+graphs:  non
+gras:  False positive
+grass:  False positive
+grateful:  non
+gratis:  non
+gratuit:  non
+grave:  False positive
+gravity:  non
+gray:  False positive
+great:  yes
+greater:  non
+greatest:  non
+greatly:  non
+greece:  non
+greek:  False positive
+green:  yes
+greene:  non
+greenhouse:  non
+greensboro:  non
+greeting:  non
+greetings:  non
+greg:  False positive
+gregory:  non
+grenada:  non
+grew:  False positive
+grey:  False positive
+grid:  False positive
+griffin:  non
+grill:  False positive
+grip:  False positive
+grocery:  non
+groove:  non
+gross:  False positive
+ground:  non
+grounds:  non
+groundwater:  non
+group:  yes
+groups:  non
+grove:  False positive
+grow:  yes
+growing:  non
+grown:  False positive
+grows:  False positive
+growth:  non
+gs:  non
+gsm:  non
+gst:  non
+gt:  non
+gtk:  non
+guam:  False positive
+guarantee:  non
+guaranteed:  non
+guarantees:  non
+guard:  False positive
+guardian:  non
+guards:  non
+guatemala:  non
+guess:  yes
+guest:  False positive
+guestbook:  non
+guests:  non
+gui:  non
+guidance:  non
+guide:  False positive
+guided:  non
+guidelines:  non
+guides:  non
+guild:  False positive
+guilty:  non
+guinea:  non
+guitar:  non
+guitars:  non
+gulf:  False positive
+gun:  non
+guns:  False positive
+guru:  False positive
+guy:  non
+guyana:  non
+guys:  non
+gym:  non
+gzip:  non
+h:  non
+ha:  non
+habitat:  non
+habits:  non
+hack:  False positive
+hacker:  non
+had:  non
+hair:  yes
+hairy:  False positive
+haiti:  False positive
+half:  yes
+halfcom:  non
+halifax:  non
+hall:  False positive
+halloween:  non
+halo:  False positive
+ham:  non
+hamburg:  non
+hamilton:  non
+hammer:  non
+hampshire:  non
+hampton:  non
+hand:  yes
+handbags:  non
+handbook:  non
+handed:  non
+handheld:  non
+handhelds:  non
+handjob:  non
+handjobs:  non
+handle:  non
+handled:  non
+handles:  non
+handling:  non
+handmade:  non
+hands:  False positive
+handy:  False positive
+hang:  yes
+hanging:  non
+hans:  False positive
+hansen:  non
+happen:  non
+happened:  non
+happening:  non
+happens:  non
+happiness:  non
+happy:  yes
+harassment:  non
+harbor:  non
+harbour:  non
+hard:  yes
+hardcore:  non
+hardcover:  non
+harder:  non
+hardly:  non
+hardware:  non
+hardwood:  non
+harley:  non
+harm:  False positive
+harmful:  non
+harmony:  non
+harold:  non
+harper:  non
+harris:  non
+harrison:  non
+harry:  False positive
+hart:  False positive
+hartford:  non
+harvard:  non
+harvest:  non
+harvey:  non
+has:  non
+hash:  False positive
+hat:  non
+hate:  False positive
+hats:  False positive
+have:  yes
+haven:  False positive
+having:  non
+hawaii:  non
+hawaiian:  non
+hawk:  False positive
+hay:  non
+hayes:  False positive
+hazard:  non
+hazardous:  non
+hazards:  non
+hb:  non
+hc:  non
+hd:  non
+hdtv:  False positive
+he:  non
+head:  yes
+headed:  non
+header:  non
+headers:  non
+heading:  non
+headline:  non
+headlines:  non
+headphones:  non
+headquarters:  non
+heads:  False positive
+headset:  non
+healing:  non
+health:  non
+healthcare:  non
+healthy:  non
+hear:  yes
+heard:  False positive
+hearing:  non
+hearings:  non
+heart:  yes
+hearts:  non
+heat:  yes
+heated:  non
+heater:  non
+heath:  False positive
+heather:  non
+heating:  non
+heaven:  non
+heavily:  non
+heavy:  yes
+hebrew:  non
+heel:  False positive
+height:  non
+heights:  non
+held:  False positive
+helen:  False positive
+helena:  non
+helicopter:  non
+hell:  False positive
+hello:  False positive
+helmet:  non
+help:  yes
+helped:  non
+helpful:  non
+helping:  non
+helps:  False positive
+hence:  False positive
+henderson:  non
+henry:  False positive
+hentai:  non
+hepatitis:  non
+her:  non
+herald:  non
+herb:  False positive
+herbal:  non
+herbs:  False positive
+here:  yes
+hereby:  non
+herein:  non
+heritage:  non
+hero:  False positive
+heroes:  non
+herself:  non
+hewlett:  non
+hey:  non
+hh:  non
+hi:  non
+hidden:  non
+hide:  False positive
+hierarchy:  non
+high:  yes
+higher:  non
+highest:  non
+highland:  non
+highlight:  non
+highlighted:  non
+highlights:  non
+highly:  non
+highs:  False positive
+highway:  non
+highways:  non
+hiking:  non
+hill:  False positive
+hills:  False positive
+hilton:  non
+him:  non
+himself:  non
+hindu:  False positive
+hint:  False positive
+hints:  False positive
+hip:  non
+hire:  False positive
+hired:  False positive
+hiring:  non
+his:  non
+hispanic:  non
+hist:  False positive
+historic:  non
+historical:  non
+history:  non
+hit:  non
+hitachi:  non
+hits:  False positive
+hitting:  non
+hiv:  non
+hk:  non
+hl:  non
+ho:  non
+hobbies:  non
+hobby:  False positive
+hockey:  non
+hold:  yes
+holdem:  non
+holder:  non
+holders:  non
+holding:  non
+holdings:  non
+holds:  False positive
+hole:  False positive
+holes:  False positive
+holiday:  non
+holidays:  non
+holland:  non
+hollow:  non
+holly:  False positive
+hollywood:  non
+holmes:  non
+holocaust:  non
+holy:  False positive
+home:  yes
+homeland:  non
+homeless:  non
+homepage:  non
+homes:  False positive
+hometown:  non
+homework:  non
+hon:  non
+honda:  False positive
+honduras:  non
+honest:  non
+honey:  False positive
+hong:  False positive
+honolulu:  non
+honor:  False positive
+honors:  non
+hood:  False positive
+hook:  False positive
+hop:  non
+hope:  yes
+hoped:  False positive
+hopefully:  non
+hopes:  False positive
+hoping:  non
+hopkins:  non
+horizon:  non
+horizontal:  non
+hormone:  non
+horn:  False positive
+horny:  False positive
+horrible:  non
+horror:  non
+horse:  False positive
+horses:  non
+hose:  False positive
+hospital:  non
+hospitality:  non
+hospitals:  non
+host:  False positive
+hosted:  non
+hostel:  non
+hostels:  non
+hosting:  non
+hosts:  False positive
+hot:  non
+hotel:  yes
+hotels:  non
+hotelscom:  non
+hotmail:  non
+hottest:  non
+hour:  yes
+hourly:  non
+hours:  False positive
+house:  yes
+household:  non
+households:  non
+houses:  non
+housewares:  non
+housewives:  non
+housing:  non
+houston:  non
+how:  non
+howard:  non
+however:  non
+howto:  False positive
+hp:  non
+hq:  non
+hr:  non
+href:  False positive
+hrs:  non
+hs:  non
+ht:  non
+html:  False positive
+http:  False positive
+hu:  non
+hub:  non
+hudson:  non
+huge:  yes
+hugh:  False positive
+hughes:  non
+hugo:  False positive
+hull:  False positive
+human:  yes
+humanitarian:  non
+humanities:  non
+humanity:  non
+humans:  non
+humidity:  non
+humor:  False positive
+hundred:  non
+hundreds:  non
+hung:  False positive
+hungarian:  non
+hungary:  non
+hunger:  non
+hungry:  non
+hunt:  False positive
+hunter:  non
+hunting:  non
+huntington:  non
+hurricane:  non
+hurt:  False positive
+husband:  non
+hwy:  non
+hybrid:  non
+hydraulic:  non
+hydrocodone:  non
+hydrogen:  non
+hygiene:  non
+hypothesis:  non
+hypothetical:  non
+hyundai:  non
+hz:  non
+i:  non
+ia:  non
+ian:  non
+ibm:  non
+ic:  non
+ice:  non
+iceland:  non
+icon:  non
+icons:  False positive
+icq:  non
+ict:  non
+id:  non
+idaho:  False positive
+ide:  non
+idea:  yes
+ideal:  False positive
+ideas:  False positive
+identical:  non
+identification:  non
+identified:  non
+identifier:  non
+identifies:  non
+identify:  non
+identifying:  non
+identity:  non
+idle:  False positive
+idol:  False positive
+ids:  non
+ie:  non
+ieee:  False positive
+if:  non
+ignore:  non
+ignored:  non
+ii:  non
+iii:  non
+il:  non
+ill:  non
+illegal:  non
+illinois:  non
+illness:  non
+illustrated:  non
+illustration:  non
+illustrations:  non
+im:  non
+ima:  non
+image:  yes
+images:  non
+imagination:  non
+imagine:  non
+imaging:  non
+img:  non
+immediate:  non
+immediately:  non
+immigrants:  non
+immigration:  non
+immune:  non
+immunology:  non
+impact:  non
+impacts:  non
+impaired:  non
+imperial:  non
+implement:  non
+implementation:  non
+implemented:  non
+implementing:  non
+implications:  non
+implied:  non
+implies:  non
+import:  non
+importance:  non
+important:  non
+importantly:  non
+imported:  non
+imports:  non
+impose:  non
+imposed:  non
+impossible:  non
+impressed:  non
+impression:  non
+impressive:  non
+improve:  non
+improved:  non
+improvement:  non
+improvements:  non
+improving:  non
+in:  non
+inappropriate:  non
+inbox:  False positive
+inc:  non
+incentive:  non
+incentives:  non
+incest:  non
+inch:  False positive
+inches:  non
+incidence:  non
+incident:  non
+incidents:  non
+incl:  False positive
+include:  non
+included:  non
+includes:  non
+including:  non
+inclusion:  non
+inclusive:  non
+income:  non
+incoming:  non
+incomplete:  non
+incorporate:  non
+incorporated:  non
+incorrect:  non
+increase:  non
+increased:  non
+increases:  non
+increasing:  non
+increasingly:  non
+incredible:  non
+incurred:  non
+ind:  non
+indeed:  non
+independence:  non
+independent:  non
+independently:  non
+index:  False positive
+indexed:  non
+indexes:  non
+india:  False positive
+indian:  non
+indiana:  non
+indianapolis:  non
+indians:  non
+indicate:  non
+indicated:  non
+indicates:  non
+indicating:  non
+indication:  non
+indicator:  non
+indicators:  non
+indices:  non
+indie:  False positive
+indigenous:  non
+indirect:  non
+individual:  non
+individually:  non
+individuals:  non
+indonesia:  non
+indonesian:  non
+indoor:  non
+induced:  non
+induction:  non
+industrial:  non
+industries:  non
+industry:  non
+inexpensive:  non
+inf:  non
+infant:  non
+infants:  non
+infected:  non
+infection:  non
+infections:  non
+infectious:  non
+infinite:  non
+inflation:  non
+influence:  non
+influenced:  non
+influences:  non
+info:  False positive
+inform:  non
+informal:  non
+information:  non
+informational:  non
+informative:  non
+informed:  non
+infrared:  non
+infrastructure:  non
+ing:  non
+ingredients:  non
+inherited:  non
+initial:  non
+initially:  non
+initiated:  non
+initiative:  non
+initiatives:  non
+injection:  non
+injured:  non
+injuries:  non
+injury:  non
+ink:  non
+inkjet:  non
+inline:  non
+inn:  non
+inner:  False positive
+innocent:  non
+innovation:  non
+innovations:  non
+innovative:  non
+inns:  False positive
+input:  False positive
+inputs:  non
+inquire:  non
+inquiries:  non
+inquiry:  non
+ins:  non
+insects:  non
+insert:  non
+inserted:  non
+insertion:  non
+inside:  non
+insider:  non
+insight:  non
+insights:  non
+inspection:  non
+inspections:  non
+inspector:  non
+inspiration:  non
+inspired:  non
+install:  non
+installation:  non
+installations:  non
+installed:  non
+installing:  non
+instance:  non
+instances:  non
+instant:  non
+instantly:  non
+instead:  non
+institute:  non
+institutes:  non
+institution:  non
+institutional:  non
+institutions:  non
+instruction:  non
+instructional:  non
+instructions:  non
+instructor:  non
+instructors:  non
+instrument:  non
+instrumental:  non
+instrumentation:  non
+instruments:  non
+insulin:  non
+insurance:  non
+insured:  non
+int:  non
+intake:  non
+integer:  non
+integral:  non
+integrate:  non
+integrated:  non
+integrating:  non
+integration:  non
+integrity:  non
+intel:  False positive
+intellectual:  non
+intelligence:  non
+intelligent:  non
+intend:  non
+intended:  non
+intense:  non
+intensity:  non
+intensive:  non
+intent:  non
+intention:  non
+inter:  False positive
+interact:  non
+interaction:  non
+interactions:  non
+interactive:  non
+interest:  non
+interested:  non
+interesting:  non
+interests:  non
+interface:  non
+interfaces:  non
+interference:  non
+interim:  non
+interior:  non
+intermediate:  non
+internal:  non
+international:  non
+internationally:  non
+internet:  non
+internship:  non
+interpretation:  non
+interpreted:  non
+interracial:  non
+intersection:  non
+interstate:  non
+interval:  non
+intervals:  non
+intervention:  non
+interventions:  non
+interview:  non
+interviews:  non
+intimate:  non
+intl:  False positive
+into:  yes
+intranet:  non
+intro:  False positive
+introduce:  non
+introduced:  non
+introduces:  non
+introducing:  non
+introduction:  non
+introductory:  non
+invalid:  non
+invasion:  non
+invention:  non
+inventory:  non
+invest:  non
+investigate:  non
+investigated:  non
+investigation:  non
+investigations:  non
+investigator:  non
+investigators:  non
+investing:  non
+investment:  non
+investments:  non
+investor:  non
+investors:  non
+invisible:  non
+invision:  non
+invitation:  non
+invitations:  non
+invite:  non
+invited:  non
+invoice:  non
+involve:  non
+involved:  non
+involvement:  non
+involves:  non
+involving:  non
+io:  non
+ion:  non
+iowa:  False positive
+ip:  non
+ipaq:  False positive
+ipod:  False positive
+ips:  non
+ir:  non
+ira:  non
+iran:  False positive
+iraq:  False positive
+iraqi:  False positive
+irc:  non
+ireland:  non
+irish:  False positive
+iron:  False positive
+irrigation:  non
+irs:  non
+is:  non
+isa:  non
+isaac:  False positive
+isbn:  non
+islam:  False positive
+islamic:  non
+island:  non
+islands:  non
+isle:  non
+iso:  non
+isolated:  non
+isolation:  non
+isp:  non
+israel:  non
+israeli:  non
+issn:  non
+issue:  yes
+issued:  non
+issues:  non
+ist:  non
+istanbul:  non
+it:  non
+italia:  non
+italian:  non
+italiano:  non
+italic:  non
+italy:  False positive
+item:  yes
+items:  False positive
+its:  non
+itsa:  False positive
+itself:  non
+itunes:  non
+iv:  non
+ivory:  False positive
+ix:  non
+j:  non
+ja:  non
+jack:  False positive
+jacket:  non
+jackets:  non
+jackie:  non
+jackson:  non
+jacksonville:  non
+jacob:  non
+jade:  False positive
+jaguar:  non
+jail:  False positive
+jake:  False positive
+jam:  non
+jamaica:  non
+james:  non
+jamie:  non
+jan:  non
+jane:  False positive
+janet:  non
+january:  non
+japan:  non
+japanese:  non
+jar:  non
+jason:  non
+java:  False positive
+javascript:  non
+jay:  non
+jazz:  False positive
+jc:  non
+jd:  non
+je:  non
+jean:  False positive
+jeans:  non
+jeep:  False positive
+jeff:  False positive
+jefferson:  non
+jeffrey:  non
+jelsoft:  non
+jennifer:  non
+jenny:  non
+jeremy:  non
+jerry:  non
+jersey:  non
+jerusalem:  non
+jesse:  non
+jessica:  non
+jesus:  non
+jet:  non
+jets:  False positive
+jewel:  non
+jewellery:  non
+jewelry:  non
+jewish:  non
+jews:  False positive
+jill:  False positive
+jim:  non
+jimmy:  non
+jj:  non
+jm:  non
+jo:  non
+joan:  False positive
+job:  non
+jobs:  False positive
+joe:  non
+joel:  False positive
+john:  non
+johnny:  non
+johns:  non
+johnson:  non
+johnston:  non
+join:  yes
+joined:  non
+joining:  non
+joins:  non
+joint:  non
+joke:  False positive
+jokes:  non
+jon:  non
+jonathan:  non
+jones:  non
+jordan:  non
+jose:  False positive
+joseph:  non
+josh:  False positive
+joshua:  non
+journal:  non
+journalism:  non
+journalist:  non
+journalists:  non
+journals:  non
+journey:  non
+joy:  non
+joyce:  non
+jp:  non
+jpeg:  False positive
+jpg:  non
+jr:  non
+js:  non
+juan:  False positive
+judge:  non
+judges:  non
+judgment:  non
+judicial:  non
+judy:  False positive
+juice:  non
+jul:  non
+julia:  non
+julian:  non
+julie:  non
+july:  False positive
+jump:  False positive
+jumping:  non
+jun:  non
+junction:  non
+june:  False positive
+jungle:  non
+junior:  non
+junk:  False positive
+jurisdiction:  non
+jury:  False positive
+just:  yes
+justice:  non
+justify:  non
+justin:  non
+juvenile:  non
+jvc:  non
+k:  non
+ka:  non
+kai:  non
+kansas:  non
+karaoke:  non
+karen:  non
+karl:  False positive
+karma:  non
+kate:  False positive
+kathy:  non
+katie:  non
+katrina:  non
+kay:  non
+kazakhstan:  non
+kb:  non
+kde:  non
+keen:  False positive
+keep:  yes
+keeping:  non
+keeps:  non
+keith:  non
+kelkoo:  non
+kelly:  non
+ken:  non
+kennedy:  non
+kenneth:  non
+kenny:  non
+keno:  False positive
+kent:  False positive
+kentucky:  non
+kenya:  non
+kept:  False positive
+kernel:  non
+kerry:  non
+kevin:  non
+key:  non
+keyboard:  non
+keyboards:  non
+keys:  non
+keyword:  non
+keywords:  non
+kg:  non
+kick:  False positive
+kid:  non
+kidney:  non
+kids:  False positive
+kijiji:  non
+kill:  yes
+killed:  non
+killer:  non
+killing:  non
+kills:  non
+kilometers:  non
+kim:  non
+kinase:  non
+kind:  yes
+kinda:  non
+kinds:  non
+king:  False positive
+kingdom:  non
+kings:  non
+kingston:  non
+kirk:  False positive
+kiss:  False positive
+kissing:  non
+kit:  non
+kitchen:  non
+kits:  False positive
+kitty:  non
+klein:  non
+km:  non
+knee:  False positive
+knew:  False positive
+knife:  non
+knight:  non
+knights:  non
+knit:  False positive
+knitting:  non
+knives:  non
+knock:  non
+know:  yes
+knowing:  non
+knowledge:  non
+knowledgestorm:  non
+known:  non
+knows:  non
+ko:  non
+kodak:  non
+kong:  False positive
+korea:  non
+korean:  non
+kruger:  non
+ks:  non
+kurt:  False positive
+kuwait:  non
+kw:  non
+ky:  non
+kyle:  False positive
+l:  non
+la:  non
+lab:  non
+label:  False positive
+labeled:  non
+labels:  non
+labor:  False positive
+laboratories:  non
+laboratory:  non
+labour:  non
+labs:  False positive
+lace:  False positive
+lack:  False positive
+ladder:  non
+laden:  False positive
+ladies:  non
+lady:  False positive
+lafayette:  non
+laid:  False positive
+lake:  False positive
+lakes:  non
+lamb:  False positive
+lambda:  non
+lamp:  False positive
+lamps:  False positive
+lan:  non
+lancaster:  non
+lance:  False positive
+land:  yes
+landing:  non
+lands:  False positive
+landscape:  non
+landscapes:  non
+lane:  False positive
+lanes:  False positive
+lang:  False positive
+language:  non
+languages:  non
+lanka:  False positive
+lap:  non
+laptop:  non
+laptops:  non
+large:  yes
+largely:  non
+larger:  non
+largest:  non
+larry:  False positive
+las:  non
+laser:  False positive
+last:  yes
+lasting:  non
+lat:  non
+late:  yes
+lately:  non
+later:  yes
+latest:  non
+latex:  False positive
+latin:  False positive
+latina:  non
+latinas:  non
+latino:  non
+latitude:  non
+latter:  non
+latvia:  non
+lauderdale:  non
+laugh:  yes
+laughing:  non
+launch:  non
+launched:  non
+launches:  non
+laundry:  non
+laura:  False positive
+lauren:  non
+law:  non
+lawn:  False positive
+lawrence:  non
+laws:  False positive
+lawsuit:  non
+lawyer:  non
+lawyers:  non
+lay:  non
+layer:  False positive
+layers:  non
+layout:  non
+lazy:  False positive
+lb:  non
+lbs:  non
+lc:  non
+lcd:  non
+ld:  non
+le:  non
+lead:  yes
+leader:  non
+leaders:  non
+leadership:  non
+leading:  non
+leads:  False positive
+leaf:  False positive
+league:  non
+lean:  False positive
+learn:  yes
+learned:  non
+learners:  non
+learning:  non
+lease:  False positive
+leasing:  non
+least:  yes
+leather:  non
+leave:  yes
+leaves:  non
+leaving:  non
+lebanon:  non
+lecture:  non
+lectures:  non
+led:  non
+lee:  non
+leeds:  False positive
+left:  yes
+leg:  non
+legacy:  non
+legal:  yes
+legally:  non
+legend:  non
+legendary:  non
+legends:  non
+legislation:  non
+legislative:  non
+legislature:  non
+legitimate:  non
+legs:  False positive
+leisure:  non
+lemon:  False positive
+len:  non
+lender:  non
+lenders:  non
+lending:  non
+length:  non
+lens:  False positive
+lenses:  non
+leo:  non
+leon:  False positive
+leonard:  non
+leone:  False positive
+les:  non
+lesbian:  non
+lesbians:  non
+leslie:  non
+less:  yes
+lesser:  non
+lesson:  non
+lessons:  non
+let:  non
+lets:  False positive
+letter:  non
+letters:  non
+letting:  non
+leu:  non
+level:  yes
+levels:  non
+levitra:  non
+levy:  False positive
+lewis:  False positive
+lexington:  non
+lexmark:  non
+lexus:  non
+lf:  non
+lg:  non
+li:  non
+liabilities:  non
+liability:  non
+liable:  non
+lib:  non
+liberal:  non
+liberia:  non
+liberty:  non
+librarian:  non
+libraries:  non
+library:  non
+libs:  False positive
+licence:  non
+license:  non
+licensed:  non
+licenses:  non
+licensing:  non
+licking:  non
+lid:  non
+lie:  non
+liechtenstein:  non
+lies:  False positive
+life:  yes
+lifestyle:  non
+lifetime:  non
+lift:  False positive
+light:  yes
+lighter:  non
+lighting:  non
+lightning:  non
+lights:  non
+lightweight:  non
+like:  yes
+liked:  non
+likelihood:  non
+likely:  non
+likes:  non
+likewise:  non
+lil:  non
+lime:  False positive
+limit:  False positive
+limitation:  non
+limitations:  non
+limited:  non
+limiting:  non
+limits:  non
+limousines:  non
+lincoln:  non
+linda:  False positive
+lindsay:  non
+line:  yes
+linear:  non
+lined:  False positive
+lines:  False positive
+lingerie:  non
+link:  False positive
+linked:  non
+linking:  non
+links:  False positive
+linux:  False positive
+lion:  False positive
+lions:  False positive
+lip:  non
+lips:  False positive
+liquid:  non
+lisa:  False positive
+list:  yes
+listed:  non
+listen:  non
+listening:  non
+listing:  non
+listings:  non
+listprice:  non
+lists:  False positive
+lit:  non
+lite:  False positive
+literacy:  non
+literally:  non
+literary:  non
+literature:  non
+lithuania:  non
+litigation:  non
+little:  non
+live:  yes
+livecam:  non
+lived:  False positive
+liver:  False positive
+liverpool:  non
+lives:  False positive
+livesex:  non
+livestock:  non
+living:  non
+liz:  non
+ll:  non
+llc:  non
+lloyd:  False positive
+llp:  non
+lm:  non
+ln:  non
+lo:  non
+load:  False positive
+loaded:  non
+loading:  non
+loads:  False positive
+loan:  False positive
+loans:  False positive
+lobby:  False positive
+loc:  non
+local:  yes
+locale:  non
+locally:  non
+locate:  non
+located:  non
+location:  non
+locations:  non
+locator:  non
+lock:  False positive
+locked:  non
+locking:  non
+locks:  False positive
+lodge:  False positive
+lodging:  non
+log:  non
+logan:  False positive
+logged:  non
+logging:  non
+logic:  False positive
+logical:  non
+login:  False positive
+logistics:  non
+logitech:  non
+logo:  False positive
+logos:  False positive
+logs:  False positive
+lol:  non
+lolita:  non
+london:  non
+lone:  False positive
+lonely:  non
+long:  yes
+longer:  non
+longest:  non
+longitude:  non
+look:  yes
+looked:  non
+looking:  non
+looks:  False positive
+looksmart:  non
+lookup:  non
+loop:  False positive
+loops:  False positive
+loose:  False positive
+lopez:  False positive
+lord:  False positive
+los:  non
+lose:  yes
+losing:  non
+loss:  yes
+losses:  non
+lost:  False positive
+lot:  non
+lots:  False positive
+lottery:  non
+lotus:  False positive
+lou:  non
+loud:  False positive
+louis:  False positive
+louise:  non
+louisiana:  non
+louisville:  non
+lounge:  non
+love:  yes
+loved:  False positive
+lovely:  non
+lover:  False positive
+lovers:  non
+loves:  False positive
+loving:  non
+low:  non
+lower:  False positive
+lowest:  non
+lows:  False positive
+lp:  non
+ls:  non
+lt:  non
+ltd:  non
+lu:  non
+lucas:  False positive
+lucia:  False positive
+luck:  False positive
+lucky:  False positive
+lucy:  False positive
+luggage:  non
+luis:  False positive
+luke:  False positive
+lunch:  False positive
+lung:  False positive
+luther:  non
+luxembourg:  non
+luxury:  non
+lycos:  non
+lying:  non
+lynn:  False positive
+lyric:  non
+lyrics:  non
+m:  non
+ma:  non
+mac:  non
+macedonia:  non
+machine:  non
+machinery:  non
+machines:  non
+macintosh:  non
+macro:  False positive
+macromedia:  non
+mad:  non
+madagascar:  non
+made:  False positive
+madison:  non
+madness:  non
+madonna:  non
+madrid:  non
+mae:  non
+mag:  non
+magazine:  non
+magazines:  non
+magic:  False positive
+magical:  non
+magnet:  non
+magnetic:  non
+magnificent:  non
+magnitude:  non
+mai:  non
+maiden:  non
+mail:  False positive
+mailed:  non
+mailing:  non
+mailman:  non
+mails:  False positive
+mailto:  non
+main:  yes
+maine:  False positive
+mainland:  non
+mainly:  non
+mainstream:  non
+maintain:  non
+maintained:  non
+maintaining:  non
+maintains:  non
+maintenance:  non
+major:  yes
+majority:  non
+make:  yes
+maker:  non
+makers:  non
+makes:  non
+makeup:  non
+making:  non
+malawi:  non
+malaysia:  non
+maldives:  non
+male:  False positive
+males:  False positive
+mali:  False positive
+mall:  False positive
+malpractice:  non
+malta:  False positive
+mambo:  False positive
+man:  non
+manage:  non
+managed:  non
+management:  non
+manager:  non
+managers:  non
+managing:  non
+manchester:  non
+mandate:  non
+mandatory:  non
+manga:  False positive
+manhattan:  non
+manitoba:  non
+manner:  non
+manor:  False positive
+manual:  non
+manually:  non
+manuals:  non
+manufacture:  non
+manufactured:  non
+manufacturer:  non
+manufacturers:  non
+manufacturing:  non
+many:  yes
+map:  non
+maple:  False positive
+mapping:  non
+maps:  False positive
+mar:  non
+marathon:  non
+marble:  non
+marc:  False positive
+march:  False positive
+marco:  False positive
+marcus:  non
+mardi:  False positive
+margaret:  non
+margin:  non
+maria:  False positive
+mariah:  non
+marie:  False positive
+marijuana:  non
+marilyn:  non
+marina:  non
+marine:  non
+mario:  False positive
+marion:  non
+maritime:  non
+mark:  False positive
+marked:  non
+marker:  non
+markers:  non
+market:  non
+marketing:  non
+marketplace:  non
+markets:  non
+marking:  non
+marks:  False positive
+marriage:  non
+married:  non
+marriott:  non
+mars:  False positive
+marshall:  non
+mart:  False positive
+martha:  non
+martial:  non
+martin:  non
+marvel:  non
+mary:  False positive
+maryland:  non
+mas:  non
+mask:  False positive
+mason:  False positive
+mass:  False positive
+massachusetts:  non
+massage:  non
+massive:  non
+master:  non
+mastercard:  non
+masters:  non
+masturbating:  non
+masturbation:  non
+mat:  non
+match:  False positive
+matched:  non
+matches:  non
+matching:  non
+mate:  False positive
+material:  non
+materials:  non
+maternity:  non
+math:  False positive
+mathematical:  non
+mathematics:  non
+mating:  non
+matrix:  non
+mats:  False positive
+matt:  False positive
+matter:  non
+matters:  non
+matthew:  non
+mattress:  non
+mature:  non
+maui:  False positive
+mauritius:  non
+max:  non
+maximize:  non
+maximum:  non
+may:  non
+maybe:  yes
+mayor:  False positive
+mazda:  non
+mb:  non
+mba:  non
+mc:  non
+mcdonald:  non
+md:  non
+me:  non
+meal:  False positive
+meals:  False positive
+mean:  yes
+meaning:  non
+meaningful:  non
+means:  False positive
+meant:  False positive
+meanwhile:  non
+measure:  non
+measured:  non
+measurement:  non
+measurements:  non
+measures:  non
+measuring:  non
+meat:  False positive
+mechanical:  non
+mechanics:  non
+mechanism:  non
+mechanisms:  non
+med:  non
+medal:  False positive
+media:  yes
+median:  non
+medicaid:  non
+medical:  non
+medicare:  non
+medication:  non
+medications:  non
+medicine:  non
+medicines:  non
+medieval:  non
+meditation:  non
+mediterranean:  non
+medium:  non
+medline:  non
+meet:  yes
+meeting:  non
+meetings:  non
+meets:  False positive
+meetup:  non
+mega:  False positive
+mel:  non
+melbourne:  non
+melissa:  non
+mem:  non
+member:  non
+members:  non
+membership:  non
+membrane:  non
+memo:  False positive
+memorabilia:  non
+memorial:  non
+memories:  non
+memory:  non
+memphis:  non
+men:  non
+mens:  False positive
+ment:  False positive
+mental:  non
+mention:  non
+mentioned:  non
+mentor:  non
+menu:  False positive
+menus:  False positive
+mercedes:  non
+merchandise:  non
+merchant:  non
+merchants:  non
+mercury:  non
+mercy:  False positive
+mere:  False positive
+merely:  non
+merge:  False positive
+merger:  non
+merit:  False positive
+merry:  False positive
+mesa:  False positive
+mesh:  False positive
+mess:  False positive
+message:  non
+messages:  non
+messaging:  non
+messenger:  non
+met:  non
+meta:  False positive
+metabolism:  non
+metadata:  non
+metal:  False positive
+metallic:  non
+metallica:  non
+metals:  non
+meter:  False positive
+meters:  non
+method:  non
+methodology:  non
+methods:  non
+metres:  non
+metric:  non
+metro:  False positive
+metropolitan:  non
+mexican:  non
+mexico:  non
+meyer:  False positive
+mf:  non
+mfg:  non
+mg:  non
+mh:  non
+mhz:  non
+mi:  non
+mia:  non
+miami:  False positive
+mic:  non
+mice:  False positive
+michael:  non
+michel:  non
+michelle:  non
+michigan:  non
+micro:  False positive
+microphone:  non
+microsoft:  non
+microwave:  non
+mid:  non
+middle:  non
+midi:  False positive
+midlands:  non
+midnight:  non
+midwest:  non
+might:  yes
+mighty:  non
+migration:  non
+mike:  False positive
+mil:  non
+milan:  False positive
+mild:  False positive
+mile:  False positive
+mileage:  non
+miles:  False positive
+milf:  False positive
+milfhunter:  non
+milfs:  False positive
+military:  non
+milk:  False positive
+mill:  False positive
+millennium:  non
+miller:  non
+million:  non
+millions:  non
+mills:  False positive
+milton:  non
+milwaukee:  non
+mime:  False positive
+min:  non
+mind:  yes
+minds:  False positive
+mine:  False positive
+mineral:  non
+minerals:  non
+mines:  False positive
+mini:  False positive
+miniature:  non
+minimal:  non
+minimize:  non
+minimum:  non
+mining:  non
+minister:  non
+ministers:  non
+ministries:  non
+ministry:  non
+minneapolis:  non
+minnesota:  non
+minolta:  non
+minor:  False positive
+minority:  non
+mins:  False positive
+mint:  False positive
+minus:  False positive
+minute:  non
+minutes:  non
+miracle:  non
+mirror:  non
+mirrors:  non
+misc:  False positive
+miscellaneous:  non
+miss:  yes
+missed:  non
+missile:  non
+missing:  non
+mission:  non
+missions:  non
+mississippi:  non
+missouri:  non
+mistake:  non
+mistakes:  non
+mistress:  non
+mit:  non
+mitchell:  non
+mitsubishi:  non
+mix:  non
+mixed:  non
+mixer:  non
+mixing:  non
+mixture:  non
+mj:  non
+ml:  non
+mlb:  non
+mls:  non
+mm:  non
+mn:  non
+mo:  non
+mobile:  non
+mobiles:  non
+mobility:  non
+mod:  non
+mode:  False positive
+model:  yes
+modeling:  non
+modelling:  non
+models:  non
+modem:  False positive
+modems:  non
+moderate:  non
+moderator:  non
+moderators:  non
+modern:  non
+modes:  False positive
+modification:  non
+modifications:  non
+modified:  non
+modify:  non
+mods:  False positive
+modular:  non
+module:  non
+modules:  non
+moisture:  non
+mold:  False positive
+moldova:  non
+molecular:  non
+molecules:  non
+mom:  non
+moment:  non
+moments:  non
+momentum:  non
+moms:  False positive
+mon:  non
+monaco:  non
+monday:  non
+monetary:  non
+money:  yes
+mongolia:  non
+monica:  non
+monitor:  non
+monitored:  non
+monitoring:  non
+monitors:  non
+monkey:  non
+mono:  False positive
+monroe:  non
+monster:  non
+montana:  non
+monte:  False positive
+montgomery:  non
+month:  yes
+monthly:  non
+months:  non
+montreal:  non
+mood:  False positive
+moon:  False positive
+moore:  False positive
+moral:  False positive
+more:  yes
+moreover:  non
+morgan:  non
+morning:  non
+morocco:  non
+morris:  non
+morrison:  non
+mortality:  non
+mortgage:  non
+mortgages:  non
+moscow:  non
+moses:  False positive
+moss:  False positive
+most:  yes
+mostly:  non
+motel:  False positive
+motels:  non
+mother:  non
+motherboard:  non
+mothers:  non
+motion:  non
+motivated:  non
+motivation:  non
+motor:  False positive
+motorcycle:  non
+motorcycles:  non
+motorola:  non
+motors:  non
+mount:  False positive
+mountain:  non
+mountains:  non
+mounted:  non
+mounting:  non
+mounts:  non
+mouse:  False positive
+mouth:  yes
+move:  yes
+moved:  False positive
+movement:  non
+movements:  non
+movers:  non
+moves:  False positive
+movie:  yes
+movies:  non
+moving:  non
+mozambique:  non
+mozilla:  non
+mp:  non
+mpeg:  False positive
+mpegs:  False positive
+mpg:  non
+mph:  non
+mr:  non
+mrna:  False positive
+mrs:  non
+ms:  non
+msg:  non
+msgid:  False positive
+msgstr:  non
+msie:  non
+msn:  non
+mt:  non
+mtv:  non
+mu:  non
+much:  yes
+mud:  non
+mug:  non
+multi:  False positive
+multimedia:  non
+multiple:  non
+mumbai:  non
+munich:  non
+municipal:  non
+municipality:  non
+murder:  non
+murphy:  non
+murray:  non
+muscle:  non
+muscles:  non
+museum:  non
+museums:  non
+music:  yes
+musical:  non
+musician:  non
+musicians:  non
+muslim:  non
+muslims:  non
+must:  yes
+mustang:  non
+mutual:  non
+muze:  False positive
+mv:  non
+mw:  non
+mx:  non
+my:  non
+myanmar:  non
+myers:  non
+myrtle:  non
+myself:  non
+mysimon:  non
+myspace:  non
+mysql:  non
+mysterious:  non
+mystery:  non
+myth:  False positive
+n:  non
+na:  non
+nail:  False positive
+nails:  False positive
+naked:  non
+nam:  non
+name:  yes
+named:  False positive
+namely:  non
+names:  False positive
+namespace:  non
+namibia:  non
+nancy:  False positive
+nano:  False positive
+naples:  non
+narrative:  non
+narrow:  non
+nasa:  False positive
+nascar:  non
+nasdaq:  non
+nashville:  non
+nasty:  False positive
+nat:  non
+nathan:  non
+nation:  non
+national:  non
+nationally:  non
+nations:  non
+nationwide:  non
+native:  non
+nato:  False positive
+natural:  non
+naturally:  non
+naturals:  non
+nature:  non
+naughty:  non
+nav:  non
+naval:  False positive
+navigate:  non
+navigation:  non
+navigator:  non
+navy:  False positive
+nb:  non
+nba:  non
+nbc:  non
+nc:  non
+ncaa:  non
+nd:  non
+ne:  non
+near:  yes
+nearby:  non
+nearest:  non
+nearly:  non
+nebraska:  non
+nec:  non
+necessarily:  non
+necessary:  non
+necessity:  non
+neck:  False positive
+necklace:  non
+need:  yes
+needed:  non
+needle:  non
+needs:  False positive
+negative:  non
+negotiation:  non
+negotiations:  non
+neighbor:  non
+neighborhood:  non
+neighbors:  non
+neil:  False positive
+neither:  non
+nelson:  non
+neo:  non
+neon:  False positive
+nepal:  False positive
+nerve:  False positive
+nervous:  non
+nest:  False positive
+nested:  non
+net:  non
+netherlands:  non
+netscape:  non
+network:  non
+networking:  non
+networks:  non
+neural:  non
+neutral:  non
+nevada:  non
+never:  yes
+nevertheless:  non
+new:  non
+newark:  non
+newbie:  non
+newcastle:  non
+newer:  False positive
+newest:  non
+newfoundland:  non
+newly:  False positive
+newport:  non
+news:  yes
+newscom:  non
+newsletter:  non
+newsletters:  non
+newspaper:  non
+newspapers:  non
+newton:  non
+next:  yes
+nextel:  non
+nfl:  non
+ng:  non
+nh:  non
+nhl:  non
+nhs:  non
+ni:  non
+niagara:  non
+nicaragua:  non
+nice:  yes
+nicholas:  non
+nick:  False positive
+nickel:  non
+nickname:  non
+nicole:  non
+niger:  False positive
+nigeria:  non
+night:  yes
+nightlife:  non
+nightmare:  non
+nights:  non
+nike:  False positive
+nikon:  non
+nil:  non
+nine:  False positive
+nintendo:  non
+nipple:  non
+nipples:  non
+nirvana:  non
+nissan:  non
+nitrogen:  non
+nj:  non
+nl:  non
+nm:  non
+nn:  non
+no:  non
+noble:  False positive
+nobody:  non
+node:  False positive
+nodes:  False positive
+noise:  False positive
+nokia:  non
+nominated:  non
+nomination:  non
+nominations:  non
+non:  non
+none:  yes
+nonprofit:  non
+noon:  False positive
+nor:  non
+norfolk:  non
+norm:  False positive
+normal:  non
+normally:  non
+norman:  non
+north:  yes
+northeast:  non
+northern:  non
+northwest:  non
+norton:  non
+norway:  non
+norwegian:  non
+nos:  non
+nose:  False positive
+not:  non
+note:  yes
+notebook:  non
+notebooks:  non
+noted:  False positive
+notes:  False positive
+nothing:  non
+notice:  non
+noticed:  non
+notices:  non
+notification:  non
+notifications:  non
+notified:  non
+notify:  non
+notion:  non
+notre:  False positive
+nottingham:  non
+nov:  non
+nova:  False positive
+novel:  False positive
+novels:  non
+novelty:  non
+november:  non
+now:  non
+nowhere:  non
+np:  non
+nr:  non
+ns:  non
+nsw:  non
+nt:  non
+ntsc:  False positive
+nu:  non
+nuclear:  non
+nude:  False positive
+nudist:  non
+nudity:  non
+nuke:  False positive
+null:  False positive
+number:  non
+numbers:  non
+numeric:  non
+numerical:  non
+numerous:  non
+nurse:  False positive
+nursery:  non
+nurses:  non
+nursing:  non
+nut:  non
+nutrition:  non
+nutritional:  non
+nuts:  False positive
+nutten:  non
+nv:  non
+nvidia:  non
+nw:  non
+ny:  non
+nyc:  non
+nylon:  non
+nz:  non
+o:  non
+oak:  non
+oakland:  non
+oaks:  False positive
+oasis:  False positive
+ob:  non
+obesity:  non
+obituaries:  non
+obj:  non
+object:  non
+objective:  non
+objectives:  non
+objects:  non
+obligation:  non
+obligations:  non
+observation:  non
+observations:  non
+observe:  non
+observed:  non
+observer:  non
+obtain:  non
+obtained:  non
+obtaining:  non
+obvious:  non
+obviously:  non
+oc:  non
+occasion:  non
+occasional:  non
+occasionally:  non
+occasions:  non
+occupation:  non
+occupational:  non
+occupations:  non
+occupied:  non
+occur:  yes
+occurred:  non
+occurrence:  non
+occurring:  non
+occurs:  non
+ocean:  False positive
+oclc:  non
+oct:  non
+october:  non
+odd:  non
+odds:  False positive
+oe:  non
+oecd:  False positive
+oem:  non
+of:  non
+off:  non
+offense:  non
+offensive:  non
+offer:  yes
+offered:  non
+offering:  non
+offerings:  non
+offers:  non
+office:  non
+officer:  non
+officers:  non
+offices:  non
+official:  non
+officially:  non
+officials:  non
+offline:  non
+offset:  non
+offshore:  non
+often:  yes
+og:  non
+oh:  non
+ohio:  False positive
+oil:  non
+oils:  False positive
+ok:  non
+okay:  False positive
+oklahoma:  non
+ol:  non
+old:  non
+older:  False positive
+oldest:  non
+olive:  False positive
+oliver:  non
+olympic:  non
+olympics:  non
+olympus:  non
+om:  non
+omaha:  False positive
+oman:  non
+omega:  False positive
+omissions:  non
+on:  non
+once:  yes
+one:  non
+ones:  False positive
+ongoing:  non
+onion:  False positive
+online:  non
+only:  yes
+ons:  non
+ontario:  non
+onto:  yes
+oo:  non
+ooo:  non
+oops:  False positive
+op:  non
+open:  yes
+opened:  non
+opening:  non
+openings:  non
+opens:  False positive
+opera:  False positive
+operate:  non
+operated:  non
+operates:  non
+operating:  non
+operation:  non
+operational:  non
+operations:  non
+operator:  non
+operators:  non
+opinion:  non
+opinions:  non
+opponent:  non
+opponents:  non
+opportunities:  non
+opportunity:  non
+opposed:  non
+opposite:  non
+opposition:  non
+opt:  non
+optical:  non
+optics:  non
+optimal:  non
+optimization:  non
+optimize:  non
+optimum:  non
+option:  non
+optional:  non
+options:  non
+or:  non
+oracle:  non
+oral:  False positive
+orange:  non
+orbit:  False positive
+orchestra:  non
+order:  yes
+ordered:  non
+ordering:  non
+orders:  non
+ordinance:  non
+ordinary:  non
+oregon:  non
+org:  non
+organ:  False positive
+organic:  non
+organisation:  non
+organisations:  non
+organised:  non
+organisms:  non
+organization:  non
+organizational:  non
+organizations:  non
+organize:  non
+organized:  non
+organizer:  non
+organizing:  non
+orgasm:  non
+orgy:  False positive
+oriental:  non
+orientation:  non
+oriented:  non
+origin:  non
+original:  non
+originally:  non
+origins:  non
+orlando:  non
+orleans:  non
+os:  non
+oscar:  False positive
+ot:  non
+other:  yes
+others:  non
+otherwise:  non
+ottawa:  non
+ou:  non
+ought:  False positive
+our:  non
+ours:  False positive
+ourselves:  non
+out:  non
+outcome:  non
+outcomes:  non
+outdoor:  non
+outdoors:  non
+outer:  False positive
+outlet:  non
+outline:  non
+outlined:  non
+outlook:  non
+output:  non
+outputs:  non
+outreach:  non
+outside:  non
+outsourcing:  non
+outstanding:  non
+oval:  False positive
+oven:  False positive
+over:  yes
+overall:  non
+overcome:  non
+overhead:  non
+overnight:  non
+overseas:  non
+overview:  non
+owen:  False positive
+own:  non
+owned:  False positive
+owner:  yes
+owners:  non
+ownership:  non
+owns:  False positive
+oxford:  non
+oxide:  False positive
+oxygen:  non
+oz:  non
+ozone:  non
+p:  non
+pa:  non
+pac:  non
+pace:  False positive
+pacific:  non
+pack:  False positive
+package:  non
+packages:  non
+packaging:  non
+packard:  non
+packed:  non
+packet:  non
+packets:  non
+packing:  non
+packs:  False positive
+pad:  non
+pads:  False positive
+page:  yes
+pages:  False positive
+paid:  False positive
+pain:  yes
+painful:  non
+paint:  False positive
+paintball:  non
+painted:  non
+painting:  non
+paintings:  non
+pair:  False positive
+pairs:  False positive
+pakistan:  non
+pal:  non
+palace:  non
+pale:  False positive
+palestine:  non
+palestinian:  non
+palm:  False positive
+palmer:  non
+pam:  non
+pamela:  non
+pan:  non
+panama:  non
+panasonic:  non
+panel:  False positive
+panels:  non
+panic:  False positive
+panties:  non
+pants:  False positive
+pantyhose:  non
+paper:  yes
+paperback:  non
+paperbacks:  non
+papers:  non
+papua:  False positive
+par:  non
+para:  False positive
+parade:  non
+paradise:  non
+paragraph:  non
+paragraphs:  non
+paraguay:  non
+parallel:  non
+parameter:  non
+parameters:  non
+parcel:  non
+parent:  non
+parental:  non
+parenting:  non
+parents:  non
+paris:  False positive
+parish:  non
+park:  False positive
+parker:  non
+parking:  non
+parks:  False positive
+parliament:  non
+parliamentary:  non
+part:  yes
+partial:  non
+partially:  non
+participant:  non
+participants:  non
+participate:  non
+participated:  non
+participating:  non
+participation:  non
+particle:  non
+particles:  non
+particular:  non
+particularly:  non
+parties:  non
+partition:  non
+partly:  non
+partner:  non
+partners:  non
+partnership:  non
+partnerships:  non
+parts:  False positive
+party:  yes
+pas:  non
+paso:  False positive
+pass:  yes
+passage:  non
+passed:  non
+passenger:  non
+passengers:  non
+passes:  non
+passing:  non
+passion:  non
+passive:  non
+passport:  non
+password:  non
+passwords:  non
+past:  yes
+pasta:  False positive
+paste:  False positive
+pastor:  non
+pat:  non
+patch:  False positive
+patches:  non
+patent:  non
+patents:  non
+path:  False positive
+pathology:  non
+paths:  False positive
+patient:  non
+patients:  non
+patio:  False positive
+patricia:  non
+patrick:  non
+patrol:  non
+pattern:  non
+patterns:  non
+paul:  False positive
+pavilion:  non
+paxil:  non
+pay:  non
+payable:  non
+payday:  non
+paying:  non
+payment:  non
+payments:  non
+paypal:  non
+payroll:  non
+pays:  non
+pb:  non
+pc:  non
+pci:  non
+pcs:  non
+pct:  non
+pd:  non
+pda:  non
+pdas:  False positive
+pdf:  non
+pdt:  non
+pe:  non
+peace:  yes
+peaceful:  non
+peak:  False positive
+pearl:  False positive
+peas:  False positive
+pediatric:  non
+pee:  non
+peeing:  non
+peer:  False positive
+peers:  False positive
+pen:  non
+penalties:  non
+penalty:  non
+pencil:  non
+pendant:  non
+pending:  non
+penetration:  non
+penguin:  non
+peninsula:  non
+penis:  False positive
+penn:  False positive
+pennsylvania:  non
+penny:  False positive
+pens:  False positive
+pension:  non
+pensions:  non
+pentium:  non
+people:  non
+peoples:  non
+pepper:  non
+per:  non
+perceived:  non
+percent:  non
+percentage:  non
+perception:  non
+perfect:  non
+perfectly:  non
+perform:  non
+performance:  non
+performances:  non
+performed:  non
+performer:  non
+performing:  non
+performs:  non
+perfume:  non
+perhaps:  non
+period:  non
+periodic:  non
+periodically:  non
+periods:  non
+peripheral:  non
+peripherals:  non
+perl:  False positive
+permalink:  non
+permanent:  non
+permission:  non
+permissions:  non
+permit:  non
+permits:  non
+permitted:  non
+perry:  False positive
+persian:  non
+persistent:  non
+person:  non
+personal:  non
+personality:  non
+personalized:  non
+personally:  non
+personals:  non
+personnel:  non
+persons:  non
+perspective:  non
+perspectives:  non
+perth:  False positive
+peru:  False positive
+pest:  False positive
+pet:  non
+pete:  False positive
+peter:  False positive
+petersburg:  non
+peterson:  non
+petite:  non
+petition:  non
+petroleum:  non
+pets:  False positive
+pf:  non
+pg:  non
+pgp:  non
+ph:  non
+phantom:  non
+pharmaceutical:  non
+pharmaceuticals:  non
+pharmacies:  non
+pharmacology:  non
+pharmacy:  non
+phase:  False positive
+phases:  non
+phd:  non
+phenomenon:  non
+phentermine:  non
+phi:  non
+phil:  False positive
+philadelphia:  non
+philip:  non
+philippines:  non
+philips:  non
+phillips:  non
+philosophy:  non
+phoenix:  non
+phone:  yes
+phones:  non
+photo:  False positive
+photograph:  non
+photographer:  non
+photographers:  non
+photographic:  non
+photographs:  non
+photography:  non
+photos:  non
+photoshop:  non
+php:  non
+phpbb:  False positive
+phrase:  non
+phrases:  non
+phys:  non
+physical:  non
+physically:  non
+physician:  non
+physicians:  non
+physics:  non
+physiology:  non
+pi:  non
+piano:  False positive
+pic:  non
+pichunter:  non
+pick:  yes
+picked:  non
+picking:  non
+picks:  False positive
+pickup:  non
+picnic:  non
+pics:  False positive
+picture:  non
+pictures:  non
+pie:  non
+piece:  yes
+pieces:  non
+pierce:  non
+pierre:  non
+pig:  non
+pike:  False positive
+pill:  False positive
+pillow:  non
+pills:  False positive
+pilot:  False positive
+pin:  non
+pine:  False positive
+ping:  False positive
+pink:  False positive
+pins:  False positive
+pioneer:  non
+pipe:  False positive
+pipeline:  non
+pipes:  False positive
+pirates:  non
+piss:  False positive
+pissing:  non
+pit:  non
+pitch:  False positive
+pittsburgh:  non
+pix:  non
+pixel:  non
+pixels:  non
+pizza:  non
+pj:  non
+pk:  non
+pl:  non
+place:  yes
+placed:  non
+placement:  non
+places:  non
+placing:  non
+plain:  False positive
+plains:  non
+plaintiff:  non
+plan:  yes
+plane:  False positive
+planes:  non
+planet:  non
+planets:  non
+planned:  non
+planner:  non
+planners:  non
+planning:  non
+plans:  False positive
+plant:  yes
+plants:  non
+plasma:  non
+plastic:  non
+plastics:  non
+plate:  False positive
+plates:  non
+platform:  non
+platforms:  non
+platinum:  non
+play:  yes
+playback:  non
+playboy:  non
+played:  non
+player:  non
+players:  non
+playing:  non
+playlist:  non
+plays:  False positive
+playstation:  non
+plaza:  False positive
+plc:  non
+pleasant:  non
+please:  non
+pleased:  non
+pleasure:  non
+pledge:  non
+plenty:  non
+plot:  False positive
+plots:  False positive
+plug:  False positive
+plugin:  non
+plugins:  non
+plumbing:  non
+plus:  False positive
+plymouth:  non
+pm:  non
+pmc:  non
+pmid:  non
+pn:  non
+po:  non
+pocket:  non
+pockets:  non
+pod:  non
+podcast:  non
+podcasts:  non
+poem:  False positive
+poems:  False positive
+poet:  False positive
+poetry:  non
+point:  yes
+pointed:  non
+pointer:  non
+pointing:  non
+points:  non
+pokemon:  non
+poker:  non
+poland:  non
+polar:  False positive
+pole:  False positive
+police:  non
+policies:  non
+policy:  non
+polish:  non
+polished:  non
+political:  non
+politicians:  non
+politics:  non
+poll:  False positive
+polls:  False positive
+pollution:  non
+polo:  False positive
+poly:  False positive
+polyester:  non
+polymer:  non
+polyphonic:  non
+pond:  False positive
+pontiac:  non
+pool:  False positive
+pools:  False positive
+poor:  yes
+pop:  non
+pope:  False positive
+popular:  non
+popularity:  non
+population:  non
+populations:  non
+por:  non
+porcelain:  non
+pork:  False positive
+porn:  False positive
+porno:  False positive
+porsche:  non
+port:  False positive
+portable:  non
+portal:  non
+porter:  non
+portfolio:  non
+portion:  non
+portions:  non
+portland:  non
+portrait:  non
+portraits:  non
+ports:  False positive
+portsmouth:  non
+portugal:  non
+portuguese:  non
+pos:  non
+pose:  False positive
+posing:  non
+position:  non
+positioning:  non
+positions:  non
+positive:  non
+possess:  non
+possession:  non
+possibilities:  non
+possibility:  non
+possible:  non
+possibly:  non
+post:  False positive
+postage:  non
+postal:  non
+postcard:  non
+postcards:  non
+posted:  non
+poster:  non
+posters:  non
+posting:  non
+postings:  non
+postposted:  non
+posts:  False positive
+pot:  non
+potato:  non
+potatoes:  non
+potential:  non
+potentially:  non
+potter:  non
+pottery:  non
+poultry:  non
+pound:  False positive
+pounds:  non
+pour:  False positive
+poverty:  non
+powder:  non
+powell:  non
+power:  yes
+powered:  non
+powerful:  non
+powerpoint:  non
+powers:  non
+powerseller:  non
+pp:  non
+ppc:  non
+ppm:  non
+pr:  non
+practical:  non
+practice:  non
+practices:  non
+practitioner:  non
+practitioners:  non
+prague:  non
+prairie:  non
+praise:  non
+pray:  False positive
+prayer:  non
+prayers:  non
+pre:  non
+preceding:  non
+precious:  non
+precipitation:  non
+precise:  non
+precisely:  non
+precision:  non
+predict:  non
+predicted:  non
+prediction:  non
+predictions:  non
+prefer:  non
+preference:  non
+preferences:  non
+preferred:  non
+prefers:  non
+prefix:  non
+pregnancy:  non
+pregnant:  non
+preliminary:  non
+premier:  non
+premiere:  non
+premises:  non
+premium:  non
+prep:  False positive
+prepaid:  non
+preparation:  non
+prepare:  non
+prepared:  non
+preparing:  non
+prerequisite:  non
+prescribed:  non
+prescription:  non
+presence:  non
+present:  non
+presentation:  non
+presentations:  non
+presented:  non
+presenting:  non
+presently:  non
+presents:  non
+preservation:  non
+preserve:  non
+president:  non
+presidential:  non
+press:  False positive
+pressed:  non
+pressing:  non
+pressure:  non
+preston:  non
+pretty:  non
+prev:  False positive
+prevent:  non
+preventing:  non
+prevention:  non
+preview:  non
+previews:  non
+previous:  non
+previously:  non
+price:  yes
+priced:  non
+prices:  non
+pricing:  non
+pride:  False positive
+priest:  non
+primarily:  non
+primary:  non
+prime:  False positive
+prince:  non
+princess:  non
+princeton:  non
+principal:  non
+principle:  non
+principles:  non
+print:  False positive
+printable:  non
+printed:  non
+printer:  non
+printers:  non
+printing:  non
+prints:  non
+prior:  False positive
+priorities:  non
+priority:  non
+prison:  non
+prisoner:  non
+prisoners:  non
+privacy:  non
+private:  non
+privilege:  non
+privileges:  non
+prix:  False positive
+prize:  False positive
+prizes:  non
+pro:  non
+probability:  non
+probably:  non
+probe:  False positive
+problem:  non
+problems:  non
+proc:  False positive
+procedure:  non
+procedures:  non
+proceed:  non
+proceeding:  non
+proceedings:  non
+proceeds:  non
+process:  non
+processed:  non
+processes:  non
+processing:  non
+processor:  non
+processors:  non
+procurement:  non
+produce:  non
+produced:  non
+producer:  non
+producers:  non
+produces:  non
+producing:  non
+product:  non
+production:  non
+productions:  non
+productive:  non
+productivity:  non
+products:  non
+prof:  False positive
+profession:  non
+professional:  non
+professionals:  non
+professor:  non
+profile:  non
+profiles:  non
+profit:  non
+profits:  non
+program:  non
+programme:  non
+programmer:  non
+programmers:  non
+programmes:  non
+programming:  non
+programs:  non
+progress:  non
+progressive:  non
+prohibited:  non
+project:  non
+projected:  non
+projection:  non
+projector:  non
+projectors:  non
+projects:  non
+prominent:  non
+promise:  non
+promised:  non
+promises:  non
+promising:  non
+promo:  False positive
+promote:  non
+promoted:  non
+promotes:  non
+promoting:  non
+promotion:  non
+promotional:  non
+promotions:  non
+prompt:  non
+promptly:  non
+proof:  False positive
+propecia:  non
+proper:  non
+properly:  non
+properties:  non
+property:  non
+prophet:  non
+proportion:  non
+proposal:  non
+proposals:  non
+propose:  non
+proposed:  non
+proposition:  non
+proprietary:  non
+pros:  False positive
+prospect:  non
+prospective:  non
+prospects:  non
+prostate:  non
+prostores:  non
+prot:  False positive
+protect:  non
+protected:  non
+protecting:  non
+protection:  non
+protective:  non
+protein:  non
+proteins:  non
+protest:  non
+protocol:  non
+protocols:  non
+prototype:  non
+proud:  False positive
+proudly:  non
+prove:  yes
+proved:  non
+proven:  non
+provide:  non
+provided:  non
+providence:  non
+provider:  non
+providers:  non
+provides:  non
+providing:  non
+province:  non
+provinces:  non
+provincial:  non
+provision:  non
+provisions:  non
+proxy:  False positive
+prozac:  non
+ps:  non
+psi:  non
+psp:  non
+pst:  non
+psychiatry:  non
+psychological:  non
+psychology:  non
+pt:  non
+pts:  non
+pty:  non
+pub:  non
+public:  non
+publication:  non
+publications:  non
+publicity:  non
+publicly:  non
+publish:  non
+published:  non
+publisher:  non
+publishers:  non
+publishing:  non
+pubmed:  non
+pubs:  False positive
+puerto:  non
+pull:  yes
+pulled:  non
+pulling:  non
+pulse:  False positive
+pump:  False positive
+pumps:  False positive
+punch:  False positive
+punishment:  non
+punk:  False positive
+pupils:  non
+puppy:  False positive
+purchase:  non
+purchased:  non
+purchases:  non
+purchasing:  non
+pure:  False positive
+purple:  non
+purpose:  non
+purposes:  non
+purse:  False positive
+pursuant:  non
+pursue:  non
+pursuit:  non
+push:  yes
+pushed:  non
+pushing:  non
+pussy:  False positive
+put:  non
+puts:  False positive
+putting:  non
+puzzle:  non
+puzzles:  non
+pvc:  non
+python:  non
+q:  non
+qatar:  False positive
+qc:  non
+qld:  non
+qt:  non
+qty:  non
+quad:  non
+qualification:  non
+qualifications:  non
+qualified:  non
+qualify:  non
+qualifying:  non
+qualities:  non
+quality:  non
+quantitative:  non
+quantities:  non
+quantity:  non
+quantum:  non
+quarter:  non
+quarterly:  non
+quarters:  non
+que:  non
+quebec:  non
+queen:  False positive
+queens:  non
+queensland:  non
+queries:  non
+query:  False positive
+quest:  False positive
+question:  non
+questionnaire:  non
+questions:  non
+queue:  False positive
+qui:  non
+quick:  False positive
+quickly:  non
+quiet:  False positive
+quilt:  False positive
+quit:  non
+quite:  yes
+quiz:  non
+quizzes:  non
+quotations:  non
+quote:  False positive
+quoted:  non
+quotes:  non
+r:  non
+ra:  non
+rabbit:  non
+race:  yes
+races:  False positive
+rachel:  non
+racial:  non
+racing:  non
+rack:  False positive
+racks:  False positive
+radar:  False positive
+radiation:  non
+radical:  non
+radio:  yes
+radios:  non
+radius:  non
+rage:  False positive
+raid:  False positive
+rail:  False positive
+railroad:  non
+railway:  non
+rain:  False positive
+rainbow:  non
+raise:  yes
+raised:  non
+raises:  non
+raising:  non
+raleigh:  non
+rally:  False positive
+ralph:  False positive
+ram:  non
+ran:  non
+ranch:  False positive
+rand:  False positive
+random:  non
+randy:  False positive
+range:  yes
+rangers:  non
+ranges:  non
+ranging:  non
+rank:  False positive
+ranked:  non
+ranking:  non
+rankings:  non
+ranks:  False positive
+rap:  non
+rape:  False positive
+rapid:  False positive
+rapidly:  non
+rapids:  non
+rare:  False positive
+rarely:  non
+rat:  non
+rate:  yes
+rated:  False positive
+rates:  False positive
+rather:  non
+rating:  non
+ratings:  non
+ratio:  False positive
+rational:  non
+ratios:  non
+rats:  False positive
+raw:  non
+ray:  non
+raymond:  non
+rays:  non
+rb:  non
+rc:  non
+rca:  non
+rd:  non
+re:  non
+reach:  yes
+reached:  non
+reaches:  non
+reaching:  non
+reaction:  non
+reactions:  non
+read:  yes
+reader:  non
+readers:  non
+readily:  non
+reading:  non
+readings:  non
+reads:  False positive
+ready:  yes
+real:  yes
+realistic:  non
+reality:  non
+realize:  non
+realized:  non
+really:  non
+realm:  False positive
+realtor:  non
+realtors:  non
+realty:  non
+rear:  False positive
+reason:  non
+reasonable:  non
+reasonably:  non
+reasoning:  non
+reasons:  non
+rebate:  non
+rebates:  non
+rebecca:  non
+rebel:  False positive
+rebound:  non
+rec:  non
+recall:  non
+receipt:  non
+receive:  non
+received:  non
+receiver:  non
+receivers:  non
+receives:  non
+receiving:  non
+recent:  non
+recently:  non
+reception:  non
+receptor:  non
+receptors:  non
+recipe:  non
+recipes:  non
+recipient:  non
+recipients:  non
+recognised:  non
+recognition:  non
+recognize:  non
+recognized:  non
+recommend:  non
+recommendation:  non
+recommendations:  non
+recommended:  non
+recommends:  non
+reconstruction:  non
+record:  non
+recorded:  non
+recorder:  non
+recorders:  non
+recording:  non
+recordings:  non
+records:  non
+recover:  non
+recovered:  non
+recovery:  non
+recreation:  non
+recreational:  non
+recruiting:  non
+recruitment:  non
+recycling:  non
+red:  non
+redeem:  non
+redhead:  non
+reduce:  non
+reduced:  non
+reduces:  non
+reducing:  non
+reduction:  non
+reductions:  non
+reed:  False positive
+reef:  False positive
+reel:  False positive
+ref:  non
+refer:  False positive
+reference:  non
+referenced:  non
+references:  non
+referral:  non
+referrals:  non
+referred:  non
+referring:  non
+refers:  non
+refinance:  non
+refine:  non
+refined:  non
+reflect:  non
+reflected:  non
+reflection:  non
+reflections:  non
+reflects:  non
+reform:  non
+reforms:  non
+refresh:  non
+refrigerator:  non
+refugees:  non
+refund:  non
+refurbished:  non
+refuse:  non
+refused:  non
+reg:  non
+regard:  non
+regarded:  non
+regarding:  non
+regardless:  non
+regards:  non
+reggae:  non
+regime:  non
+region:  non
+regional:  non
+regions:  non
+register:  non
+registered:  non
+registrar:  non
+registration:  non
+registry:  non
+regression:  non
+regular:  non
+regularly:  non
+regulated:  non
+regulation:  non
+regulations:  non
+regulatory:  non
+rehab:  False positive
+rehabilitation:  non
+reid:  False positive
+reject:  non
+rejected:  non
+rel:  non
+relate:  non
+related:  non
+relates:  non
+relating:  non
+relation:  non
+relations:  non
+relationship:  non
+relationships:  non
+relative:  non
+relatively:  non
+relatives:  non
+relax:  False positive
+relaxation:  non
+relay:  False positive
+release:  non
+released:  non
+releases:  non
+relevance:  non
+relevant:  non
+reliability:  non
+reliable:  non
+reliance:  non
+relief:  non
+religion:  non
+religions:  non
+religious:  non
+reload:  non
+relocation:  non
+rely:  False positive
+relying:  non
+remain:  non
+remainder:  non
+remained:  non
+remaining:  non
+remains:  non
+remark:  non
+remarkable:  non
+remarks:  non
+remedies:  non
+remedy:  non
+remember:  non
+remembered:  non
+remind:  non
+reminder:  non
+remix:  False positive
+remote:  non
+removable:  non
+removal:  non
+remove:  non
+removed:  non
+removing:  non
+renaissance:  non
+render:  non
+rendered:  non
+rendering:  non
+renew:  False positive
+renewable:  non
+renewal:  non
+reno:  False positive
+rent:  False positive
+rental:  non
+rentals:  non
+rentcom:  non
+rep:  non
+repair:  non
+repairs:  non
+repeat:  non
+repeated:  non
+replace:  non
+replaced:  non
+replacement:  non
+replacing:  non
+replica:  non
+replication:  non
+replied:  non
+replies:  non
+reply:  False positive
+report:  non
+reported:  non
+reporter:  non
+reporters:  non
+reporting:  non
+reports:  non
+repository:  non
+represent:  non
+representation:  non
+representations:  non
+representative:  non
+representatives:  non
+represented:  non
+representing:  non
+represents:  non
+reprint:  non
+reprints:  non
+reproduce:  non
+reproduced:  non
+reproduction:  non
+reproductive:  non
+republic:  non
+republican:  non
+republicans:  non
+reputation:  non
+request:  non
+requested:  non
+requesting:  non
+requests:  non
+require:  non
+required:  non
+requirement:  non
+requirements:  non
+requires:  non
+requiring:  non
+res:  non
+rescue:  non
+research:  non
+researcher:  non
+researchers:  non
+reseller:  non
+reservation:  non
+reservations:  non
+reserve:  non
+reserved:  non
+reserves:  non
+reservoir:  non
+reset:  False positive
+residence:  non
+resident:  non
+residential:  non
+residents:  non
+resist:  non
+resistance:  non
+resistant:  non
+resolution:  non
+resolutions:  non
+resolve:  non
+resolved:  non
+resort:  non
+resorts:  non
+resource:  non
+resources:  non
+respect:  non
+respected:  non
+respective:  non
+respectively:  non
+respiratory:  non
+respond:  non
+responded:  non
+respondent:  non
+respondents:  non
+responding:  non
+response:  non
+responses:  non
+responsibilities:  non
+responsibility:  non
+responsible:  non
+rest:  yes
+restaurant:  non
+restaurants:  non
+restoration:  non
+restore:  non
+restored:  non
+restrict:  non
+restricted:  non
+restriction:  non
+restrictions:  non
+restructuring:  non
+result:  non
+resulted:  non
+resulting:  non
+results:  non
+resume:  non
+resumes:  non
+retail:  non
+retailer:  non
+retailers:  non
+retain:  non
+retained:  non
+retention:  non
+retired:  non
+retirement:  non
+retreat:  non
+retrieval:  non
+retrieve:  non
+retrieved:  non
+retro:  False positive
+return:  non
+returned:  non
+returning:  non
+returns:  non
+reunion:  non
+reuters:  non
+rev:  non
+reveal:  non
+revealed:  non
+reveals:  non
+revelation:  non
+revenge:  non
+revenue:  non
+revenues:  non
+reverse:  non
+review:  non
+reviewed:  non
+reviewer:  non
+reviewing:  non
+reviews:  non
+revised:  non
+revision:  non
+revisions:  non
+revolution:  non
+revolutionary:  non
+reward:  non
+rewards:  non
+reynolds:  non
+rf:  non
+rfc:  non
+rg:  non
+rh:  non
+rhode:  False positive
+rhythm:  non
+ri:  non
+ribbon:  non
+rica:  False positive
+rice:  False positive
+rich:  yes
+richard:  non
+richards:  non
+richardson:  non
+richmond:  non
+rick:  False positive
+rico:  False positive
+rid:  non
+ride:  False positive
+rider:  False positive
+riders:  non
+rides:  False positive
+ridge:  False positive
+riding:  non
+right:  yes
+rights:  non
+rim:  non
+ring:  False positive
+rings:  False positive
+ringtone:  non
+ringtones:  non
+rio:  non
+rip:  non
+ripe:  False positive
+rise:  yes
+rising:  non
+risk:  yes
+risks:  False positive
+river:  False positive
+rivers:  non
+riverside:  non
+rj:  non
+rl:  non
+rm:  non
+rn:  non
+rna:  non
+ro:  non
+road:  yes
+roads:  False positive
+rob:  non
+robert:  non
+roberts:  non
+robertson:  non
+robin:  False positive
+robinson:  non
+robot:  False positive
+robots:  non
+robust:  non
+rochester:  non
+rock:  yes
+rocket:  non
+rocks:  False positive
+rocky:  False positive
+rod:  non
+roger:  False positive
+rogers:  non
+roland:  non
+role:  yes
+roles:  False positive
+roll:  False positive
+rolled:  non
+roller:  non
+rolling:  non
+rolls:  False positive
+rom:  non
+roman:  False positive
+romance:  non
+romania:  non
+romantic:  non
+rome:  False positive
+ron:  non
+ronald:  non
+roof:  False positive
+room:  yes
+roommate:  non
+roommates:  non
+rooms:  False positive
+root:  False positive
+roots:  False positive
+rope:  False positive
+rosa:  False positive
+rose:  False positive
+roses:  False positive
+ross:  False positive
+roster:  non
+rotary:  non
+rotation:  non
+rouge:  False positive
+rough:  False positive
+roughly:  non
+roulette:  non
+round:  False positive
+rounds:  non
+route:  False positive
+router:  non
+routers:  non
+routes:  non
+routine:  non
+routines:  non
+routing:  non
+rover:  False positive
+row:  non
+rows:  False positive
+roy:  non
+royal:  False positive
+royalty:  non
+rp:  non
+rpg:  non
+rpm:  non
+rr:  non
+rrp:  non
+rs:  non
+rss:  non
+rt:  non
+ru:  non
+rubber:  non
+ruby:  False positive
+rug:  non
+rugby:  False positive
+rugs:  False positive
+rule:  yes
+ruled:  False positive
+rules:  False positive
+ruling:  non
+run:  non
+runner:  non
+running:  non
+runs:  False positive
+runtime:  non
+rural:  False positive
+rush:  False positive
+russell:  non
+russia:  non
+russian:  non
+ruth:  False positive
+rv:  non
+rw:  non
+rwanda:  non
+rx:  non
+ryan:  False positive
+s:  non
+sa:  non
+sacramento:  non
+sacred:  non
+sacrifice:  non
+sad:  non
+saddam:  non
+safari:  non
+safe:  yes
+safely:  non
+safer:  False positive
+safety:  non
+sage:  False positive
+sagem:  False positive
+said:  False positive
+sail:  False positive
+sailing:  non
+saint:  False positive
+saints:  non
+sake:  False positive
+salad:  False positive
+salaries:  non
+salary:  non
+sale:  False positive
+salem:  False positive
+sales:  False positive
+sally:  False positive
+salmon:  non
+salon:  False positive
+salt:  False positive
+salvador:  non
+salvation:  non
+sam:  non
+samba:  False positive
+same:  yes
+samoa:  False positive
+sample:  non
+samples:  non
+sampling:  non
+samsung:  non
+samuel:  non
+san:  non
+sand:  False positive
+sandra:  non
+sandwich:  non
+sandy:  False positive
+sans:  False positive
+santa:  False positive
+sanyo:  False positive
+sao:  non
+sap:  non
+sapphire:  non
+sara:  False positive
+sarah:  False positive
+sas:  non
+saskatchewan:  non
+sat:  non
+satellite:  non
+satin:  False positive
+satisfaction:  non
+satisfactory:  non
+satisfied:  non
+satisfy:  non
+saturday:  non
+saturn:  non
+sauce:  False positive
+saudi:  False positive
+savage:  non
+savannah:  non
+save:  yes
+saved:  False positive
+saver:  False positive
+saves:  False positive
+saving:  non
+savings:  non
+saw:  non
+say:  non
+saying:  non
+says:  non
+sb:  non
+sbjct:  False positive
+sc:  non
+scale:  False positive
+scales:  non
+scan:  non
+scanned:  non
+scanner:  non
+scanners:  non
+scanning:  non
+scary:  False positive
+scenario:  non
+scenarios:  non
+scene:  yes
+scenes:  non
+scenic:  non
+schedule:  non
+scheduled:  non
+schedules:  non
+scheduling:  non
+schema:  non
+scheme:  non
+schemes:  non
+scholar:  non
+scholars:  non
+scholarship:  non
+scholarships:  non
+school:  non
+schools:  non
+sci:  non
+science:  non
+sciences:  non
+scientific:  non
+scientist:  non
+scientists:  non
+scoop:  False positive
+scope:  False positive
+score:  yes
+scored:  non
+scores:  non
+scoring:  non
+scotia:  non
+scotland:  non
+scott:  False positive
+scottish:  non
+scout:  False positive
+scratch:  non
+screen:  non
+screening:  non
+screens:  non
+screensaver:  non
+screensavers:  non
+screenshot:  non
+screenshots:  non
+screw:  False positive
+script:  non
+scripting:  non
+scripts:  non
+scroll:  non
+scsi:  non
+scuba:  False positive
+sculpture:  non
+sd:  non
+se:  non
+sea:  non
+seafood:  non
+seal:  False positive
+sealed:  non
+sean:  False positive
+search:  non
+searchcom:  non
+searched:  non
+searches:  non
+searching:  non
+seas:  False positive
+season:  non
+seasonal:  non
+seasons:  non
+seat:  yes
+seating:  non
+seats:  False positive
+seattle:  non
+sec:  non
+second:  non
+secondary:  non
+seconds:  non
+secret:  non
+secretariat:  non
+secretary:  non
+secrets:  non
+section:  non
+sections:  non
+sector:  non
+sectors:  non
+secure:  non
+secured:  non
+securely:  non
+securities:  non
+security:  non
+see:  non
+seed:  False positive
+seeds:  False positive
+seeing:  non
+seek:  yes
+seeker:  non
+seekers:  non
+seeking:  non
+seeks:  False positive
+seem:  yes
+seemed:  non
+seems:  False positive
+seen:  False positive
+sees:  False positive
+sega:  False positive
+segment:  non
+segments:  non
+select:  non
+selected:  non
+selecting:  non
+selection:  non
+selections:  non
+selective:  non
+self:  False positive
+sell:  yes
+seller:  non
+sellers:  non
+selling:  non
+sells:  False positive
+semester:  non
+semi:  False positive
+semiconductor:  non
+seminar:  non
+seminars:  non
+sen:  non
+senate:  non
+senator:  non
+senators:  non
+send:  yes
+sender:  non
+sending:  non
+sends:  False positive
+senegal:  non
+senior:  non
+seniors:  non
+sense:  yes
+sensitive:  non
+sensitivity:  non
+sensor:  non
+sensors:  non
+sent:  False positive
+sentence:  non
+sentences:  non
+seo:  non
+sep:  non
+separate:  non
+separated:  non
+separately:  non
+separation:  non
+sept:  False positive
+september:  non
+seq:  non
+sequence:  non
+sequences:  non
+ser:  non
+serbia:  non
+serial:  non
+series:  non
+serious:  non
+seriously:  non
+serum:  False positive
+serve:  yes
+served:  non
+server:  non
+servers:  non
+serves:  non
+service:  non
+services:  non
+serving:  non
+session:  non
+sessions:  non
+set:  non
+sets:  False positive
+setting:  non
+settings:  non
+settle:  non
+settled:  non
+settlement:  non
+setup:  False positive
+seven:  yes
+seventh:  non
+several:  non
+severe:  non
+sewing:  non
+sex:  non
+sexcam:  non
+sexo:  False positive
+sexual:  non
+sexuality:  non
+sexually:  non
+sexy:  False positive
+sf:  non
+sg:  non
+sh:  non
+shade:  False positive
+shades:  non
+shadow:  non
+shadows:  non
+shaft:  False positive
+shake:  yes
+shakespeare:  non
+shakira:  non
+shall:  False positive
+shame:  False positive
+shanghai:  non
+shannon:  non
+shape:  False positive
+shaped:  non
+shapes:  non
+share:  yes
+shared:  non
+shareholders:  non
+shares:  non
+shareware:  non
+sharing:  non
+shark:  False positive
+sharon:  non
+sharp:  False positive
+shaved:  non
+shaw:  False positive
+she:  non
+shed:  False positive
+sheep:  False positive
+sheer:  False positive
+sheet:  False positive
+sheets:  non
+sheffield:  non
+shelf:  False positive
+shell:  False positive
+shelter:  non
+shemale:  non
+shemales:  non
+shepherd:  non
+sheriff:  non
+sherman:  non
+shield:  non
+shift:  False positive
+shine:  False positive
+ship:  False positive
+shipment:  non
+shipments:  non
+shipped:  non
+shipping:  non
+ships:  False positive
+shirt:  False positive
+shirts:  non
+shit:  False positive
+shock:  False positive
+shoe:  False positive
+shoes:  False positive
+shoot:  yes
+shooting:  non
+shop:  False positive
+shopper:  non
+shoppercom:  non
+shoppers:  non
+shopping:  non
+shoppingcom:  non
+shops:  False positive
+shopzilla:  non
+shore:  False positive
+short:  yes
+shortcuts:  non
+shorter:  non
+shortly:  non
+shorts:  non
+shot:  yes
+shots:  False positive
+should:  non
+shoulder:  non
+show:  yes
+showcase:  non
+showed:  non
+shower:  non
+showers:  non
+showing:  non
+shown:  False positive
+shows:  False positive
+showtimes:  non
+shut:  False positive
+shuttle:  non
+si:  non
+sic:  non
+sick:  False positive
+side:  yes
+sides:  False positive
+sie:  non
+siemens:  non
+sierra:  non
+sig:  non
+sight:  False positive
+sigma:  False positive
+sign:  yes
+signal:  non
+signals:  non
+signature:  non
+signatures:  non
+signed:  non
+significance:  non
+significant:  non
+significantly:  non
+signing:  non
+signs:  False positive
+signup:  non
+silence:  non
+silent:  non
+silicon:  non
+silk:  False positive
+silly:  False positive
+silver:  non
+sim:  non
+similar:  non
+similarly:  non
+simon:  False positive
+simple:  non
+simplified:  non
+simply:  non
+simpson:  non
+simpsons:  non
+sims:  False positive
+simulation:  non
+simulations:  non
+simultaneously:  non
+sin:  non
+since:  yes
+sing:  yes
+singapore:  non
+singer:  non
+singh:  False positive
+singing:  non
+single:  non
+singles:  non
+sink:  False positive
+sip:  non
+sir:  non
+sister:  non
+sisters:  non
+sit:  non
+site:  yes
+sitemap:  non
+sites:  False positive
+sitting:  non
+situated:  non
+situation:  non
+situations:  non
+six:  non
+sixth:  non
+size:  yes
+sized:  non
+sizes:  non
+sk:  non
+skating:  non
+ski:  non
+skiing:  non
+skill:  yes
+skilled:  non
+skills:  non
+skin:  yes
+skins:  False positive
+skip:  False positive
+skirt:  False positive
+skirts:  non
+sku:  non
+sky:  non
+skype:  False positive
+sl:  non
+slave:  False positive
+sleep:  False positive
+sleeping:  non
+sleeps:  non
+sleeve:  non
+slide:  False positive
+slides:  non
+slideshow:  non
+slight:  non
+slightly:  non
+slim:  False positive
+slip:  False positive
+slope:  False positive
+slot:  False positive
+slots:  False positive
+slovak:  non
+slovakia:  non
+slovenia:  non
+slow:  False positive
+slowly:  non
+slut:  False positive
+sluts:  False positive
+sm:  non
+small:  yes
+smaller:  non
+smart:  False positive
+smell:  False positive
+smile:  yes
+smilies:  non
+smith:  False positive
+smithsonian:  non
+smoke:  False positive
+smoking:  non
+smooth:  non
+sms:  non
+smtp:  non
+sn:  non
+snake:  False positive
+snap:  False positive
+snapshot:  non
+snow:  False positive
+snowboard:  non
+so:  non
+soa:  non
+soap:  False positive
+soc:  non
+soccer:  non
+social:  non
+societies:  non
+society:  non
+sociology:  non
+socket:  non
+socks:  False positive
+sodium:  non
+sofa:  False positive
+soft:  False positive
+softball:  non
+software:  non
+soil:  False positive
+sol:  non
+solar:  False positive
+solaris:  non
+sold:  False positive
+soldier:  non
+soldiers:  non
+sole:  False positive
+solely:  non
+solid:  False positive
+solo:  False positive
+solomon:  non
+solution:  non
+solutions:  non
+solve:  False positive
+solved:  non
+solving:  non
+soma:  False positive
+somalia:  non
+some:  yes
+somebody:  non
+somehow:  non
+someone:  non
+somerset:  non
+something:  non
+sometimes:  non
+somewhat:  non
+somewhere:  non
+son:  non
+song:  yes
+songs:  False positive
+sonic:  False positive
+sons:  False positive
+sony:  False positive
+soon:  yes
+soonest:  non
+sophisticated:  non
+sorry:  False positive
+sort:  yes
+sorted:  non
+sorts:  False positive
+sought:  non
+soul:  False positive
+souls:  False positive
+sound:  yes
+sounds:  non
+soundtrack:  non
+soup:  False positive
+source:  non
+sources:  non
+south:  yes
+southampton:  non
+southeast:  non
+southern:  non
+southwest:  non
+soviet:  non
+sox:  non
+sp:  non
+spa:  non
+space:  yes
+spaces:  non
+spain:  False positive
+spam:  False positive
+span:  False positive
+spanish:  non
+spank:  False positive
+spanking:  non
+sparc:  False positive
+spare:  False positive
+spas:  False positive
+spatial:  non
+speak:  yes
+speaker:  non
+speakers:  non
+speaking:  non
+speaks:  non
+spears:  non
+spec:  False positive
+special:  non
+specialist:  non
+specialists:  non
+specialized:  non
+specializing:  non
+specially:  non
+specials:  non
+specialties:  non
+specialty:  non
+species:  non
+specific:  non
+specifically:  non
+specification:  non
+specifications:  non
+specifics:  non
+specified:  non
+specifies:  non
+specify:  non
+specs:  False positive
+spectacular:  non
+spectrum:  non
+speech:  non
+speeches:  non
+speed:  False positive
+speeds:  non
+spell:  False positive
+spelling:  non
+spencer:  non
+spend:  yes
+spending:  non
+spent:  False positive
+sperm:  False positive
+sphere:  non
+spice:  False positive
+spider:  non
+spies:  False positive
+spin:  False positive
+spine:  False positive
+spirit:  non
+spirits:  non
+spiritual:  non
+spirituality:  non
+split:  False positive
+spoke:  False positive
+spoken:  non
+spokesman:  non
+sponsor:  non
+sponsored:  non
+sponsors:  non
+sponsorship:  non
+sport:  yes
+sporting:  non
+sports:  non
+spot:  False positive
+spotlight:  non
+spots:  False positive
+spouse:  non
+spray:  False positive
+spread:  non
+spreading:  non
+spring:  non
+springer:  non
+springfield:  non
+springs:  non
+sprint:  non
+spy:  non
+spyware:  non
+sq:  non
+sql:  non
+squad:  non
+square:  non
+squirt:  non
+squirting:  non
+sr:  non
+src:  non
+sri:  non
+ss:  non
+ssl:  non
+st:  non
+stability:  non
+stable:  non
+stack:  False positive
+stadium:  non
+staff:  yes
+staffing:  non
+stage:  yes
+stages:  non
+stainless:  non
+stakeholders:  non
+stamp:  False positive
+stamps:  non
+stan:  False positive
+stand:  yes
+standard:  non
+standards:  non
+standing:  non
+standings:  non
+stands:  non
+stanford:  non
+stanley:  non
+star:  yes
+starring:  non
+stars:  False positive
+starsmerchant:  non
+start:  yes
+started:  non
+starter:  non
+starting:  non
+starts:  non
+startup:  non
+stat:  False positive
+state:  yes
+stated:  non
+statement:  non
+statements:  non
+states:  non
+statewide:  non
+static:  non
+stating:  non
+station:  non
+stationery:  non
+stations:  non
+statistical:  non
+statistics:  non
+stats:  False positive
+status:  non
+statute:  non
+statutes:  non
+statutory:  non
+stay:  yes
+stayed:  non
+staying:  non
+stays:  False positive
+std:  non
+ste:  non
+steady:  non
+steal:  False positive
+steam:  False positive
+steel:  False positive
+steering:  non
+stem:  False positive
+step:  yes
+stephanie:  non
+stephen:  non
+steps:  False positive
+stereo:  non
+sterling:  non
+steve:  False positive
+steven:  non
+stevens:  non
+stewart:  non
+stick:  False positive
+sticker:  non
+stickers:  non
+sticks:  non
+sticky:  non
+still:  yes
+stock:  yes
+stockholm:  non
+stockings:  non
+stocks:  non
+stolen:  non
+stomach:  non
+stone:  False positive
+stones:  non
+stood:  False positive
+stop:  yes
+stopped:  non
+stopping:  non
+stops:  False positive
+storage:  non
+store:  yes
+stored:  non
+stores:  non
+stories:  non
+storm:  False positive
+story:  yes
+str:  non
+straight:  non
+strain:  non
+strand:  non
+strange:  non
+stranger:  non
+strap:  False positive
+strategic:  non
+strategies:  non
+strategy:  non
+stream:  non
+streaming:  non
+streams:  non
+street:  non
+streets:  non
+strength:  non
+strengthen:  non
+strengthening:  non
+strengths:  non
+stress:  non
+stretch:  non
+strict:  non
+strictly:  non
+strike:  non
+strikes:  non
+striking:  non
+string:  non
+strings:  non
+strip:  False positive
+stripes:  non
+strips:  non
+stroke:  non
+strong:  non
+stronger:  non
+strongly:  non
+struck:  non
+struct:  non
+structural:  non
+structure:  non
+structured:  non
+structures:  non
+struggle:  non
+stuart:  non
+stuck:  False positive
+stud:  False positive
+student:  non
+students:  non
+studied:  non
+studies:  non
+studio:  non
+studios:  non
+study:  yes
+studying:  non
+stuff:  yes
+stuffed:  non
+stunning:  non
+stupid:  non
+style:  yes
+styles:  non
+stylish:  non
+stylus:  non
+su:  non
+sub:  non
+subaru:  non
+subcommittee:  non
+subdivision:  non
+subject:  non
+subjects:  non
+sublime:  non
+sublimedirectory:  non
+submission:  non
+submissions:  non
+submit:  non
+submitted:  non
+submitting:  non
+subscribe:  non
+subscriber:  non
+subscribers:  non
+subscription:  non
+subscriptions:  non
+subsection:  non
+subsequent:  non
+subsequently:  non
+subsidiaries:  non
+subsidiary:  non
+substance:  non
+substances:  non
+substantial:  non
+substantially:  non
+substitute:  non
+subtle:  non
+suburban:  non
+succeed:  non
+success:  non
+successful:  non
+successfully:  non
+such:  yes
+suck:  False positive
+sucking:  non
+sucks:  False positive
+sudan:  False positive
+sudden:  non
+suddenly:  non
+sue:  non
+suffer:  non
+suffered:  non
+suffering:  non
+sufficient:  non
+sufficiently:  non
+sugar:  False positive
+suggest:  non
+suggested:  non
+suggesting:  non
+suggestion:  non
+suggestions:  non
+suggests:  non
+suicide:  non
+suit:  False positive
+suitable:  non
+suite:  False positive
+suited:  non
+suites:  non
+suits:  False positive
+sullivan:  non
+sum:  non
+summaries:  non
+summary:  non
+summer:  non
+summit:  non
+sun:  non
+sunday:  non
+sunglasses:  non
+sunny:  False positive
+sunrise:  non
+sunset:  non
+sunshine:  non
+super:  False positive
+superb:  non
+superintendent:  non
+superior:  non
+supervision:  non
+supervisor:  non
+supervisors:  non
+supplement:  non
+supplemental:  non
+supplements:  non
+supplied:  non
+supplier:  non
+suppliers:  non
+supplies:  non
+supply:  non
+support:  non
+supported:  non
+supporters:  non
+supporting:  non
+supports:  non
+suppose:  non
+supposed:  non
+supreme:  non
+sur:  non
+sure:  yes
+surely:  non
+surf:  False positive
+surface:  non
+surfaces:  non
+surfing:  non
+surge:  False positive
+surgeon:  non
+surgeons:  non
+surgery:  non
+surgical:  non
+surname:  non
+surplus:  non
+surprise:  non
+surprised:  non
+surprising:  non
+surrey:  non
+surround:  non
+surrounded:  non
+surrounding:  non
+surveillance:  non
+survey:  non
+surveys:  non
+survival:  non
+survive:  non
+survivor:  non
+survivors:  non
+susan:  False positive
+suse:  False positive
+suspect:  non
+suspected:  non
+suspended:  non
+suspension:  non
+sussex:  non
+sustainability:  non
+sustainable:  non
+sustained:  non
+suzuki:  non
+sv:  non
+sw:  non
+swap:  False positive
+sweden:  non
+swedish:  non
+sweet:  False positive
+swift:  False positive
+swim:  False positive
+swimming:  non
+swing:  False positive
+swingers:  non
+swiss:  False positive
+switch:  non
+switched:  non
+switches:  non
+switching:  non
+switzerland:  non
+sword:  False positive
+sydney:  non
+symantec:  non
+symbol:  non
+symbols:  non
+sympathy:  non
+symphony:  non
+symposium:  non
+symptoms:  non
+sync:  False positive
+syndicate:  non
+syndication:  non
+syndrome:  non
+synopsis:  non
+syntax:  non
+synthesis:  non
+synthetic:  non
+syracuse:  non
+syria:  non
+sys:  non
+system:  non
+systematic:  non
+systems:  non
+t:  non
+ta:  non
+tab:  non
+table:  yes
+tables:  non
+tablet:  non
+tablets:  non
+tabs:  False positive
+tackle:  non
+tactics:  non
+tag:  non
+tagged:  non
+tags:  False positive
+tahoe:  False positive
+tail:  False positive
+taiwan:  non
+take:  yes
+taken:  non
+takes:  non
+taking:  non
+tale:  False positive
+talent:  non
+talented:  non
+tales:  False positive
+talk:  yes
+talked:  non
+talking:  non
+talks:  False positive
+tall:  False positive
+tamil:  False positive
+tampa:  False positive
+tan:  non
+tank:  False positive
+tanks:  False positive
+tanzania:  non
+tap:  non
+tape:  False positive
+tapes:  False positive
+tar:  non
+target:  non
+targeted:  non
+targets:  non
+tariff:  non
+task:  yes
+tasks:  False positive
+taste:  False positive
+tattoo:  non
+taught:  non
+tax:  non
+taxation:  non
+taxes:  non
+taxi:  False positive
+taylor:  non
+tb:  non
+tba:  non
+tc:  non
+tcp:  non
+td:  non
+te:  non
+tea:  non
+teach:  yes
+teacher:  non
+teachers:  non
+teaches:  non
+teaching:  non
+team:  yes
+teams:  False positive
+tear:  False positive
+tears:  False positive
+tech:  False positive
+technical:  non
+technician:  non
+technique:  non
+techniques:  non
+techno:  non
+technological:  non
+technologies:  non
+technology:  non
+techrepublic:  non
+ted:  non
+teddy:  False positive
+tee:  non
+teen:  False positive
+teenage:  non
+teens:  False positive
+teeth:  False positive
+tel:  non
+telecharger:  non
+telecom:  non
+telecommunications:  non
+telephone:  non
+telephony:  non
+telescope:  non
+television:  non
+televisions:  non
+tell:  yes
+telling:  non
+tells:  False positive
+temp:  False positive
+temperature:  non
+temperatures:  non
+template:  non
+templates:  non
+temple:  non
+temporal:  non
+temporarily:  non
+temporary:  non
+ten:  non
+tenant:  non
+tend:  yes
+tender:  non
+tennessee:  non
+tennis:  non
+tension:  non
+tent:  False positive
+term:  yes
+terminal:  non
+terminals:  non
+termination:  non
+terminology:  non
+terms:  False positive
+terrace:  non
+terrain:  non
+terrible:  non
+territories:  non
+territory:  non
+terror:  non
+terrorism:  non
+terrorist:  non
+terrorists:  non
+terry:  False positive
+test:  yes
+testament:  non
+tested:  non
+testimonials:  non
+testimony:  non
+testing:  non
+tests:  False positive
+tex:  non
+texas:  non
+text:  False positive
+textbook:  non
+textbooks:  non
+textile:  non
+textiles:  non
+texts:  non
+texture:  non
+tf:  non
+tft:  non
+tgp:  non
+th:  non
+thai:  False positive
+thailand:  non
+than:  yes
+thank:  yes
+thanks:  non
+thanksgiving:  non
+that:  yes
+thats:  False positive
+the:  non
+theater:  non
+theaters:  non
+theatre:  non
+thee:  False positive
+theft:  False positive
+thehun:  non
+their:  yes
+them:  yes
+theme:  False positive
+themes:  non
+themselves:  non
+then:  yes
+theology:  non
+theorem:  non
+theoretical:  non
+theories:  non
+theory:  non
+therapeutic:  non
+therapist:  non
+therapy:  non
+there:  yes
+thereafter:  non
+thereby:  non
+therefore:  non
+thereof:  non
+thermal:  non
+thesaurus:  non
+these:  yes
+thesis:  non
+they:  yes
+thick:  False positive
+thickness:  non
+thin:  False positive
+thing:  yes
+things:  non
+think:  yes
+thinking:  non
+thinkpad:  non
+thinks:  non
+third:  yes
+thirty:  non
+this:  yes
+thomas:  non
+thompson:  non
+thomson:  non
+thong:  False positive
+thongs:  non
+thorough:  non
+thoroughly:  non
+those:  yes
+thou:  False positive
+though:  non
+thought:  non
+thoughts:  non
+thousand:  non
+thousands:  non
+thread:  non
+threaded:  non
+threads:  non
+threat:  non
+threatened:  non
+threatening:  non
+threats:  non
+three:  yes
+threesome:  non
+threshold:  non
+thriller:  non
+throat:  non
+through:  non
+throughout:  non
+throw:  yes
+throwing:  non
+thrown:  non
+throws:  non
+thru:  False positive
+thu:  non
+thumb:  False positive
+thumbnail:  non
+thumbnails:  non
+thumbs:  non
+thumbzilla:  non
+thunder:  non
+thursday:  non
+thus:  yes
+thy:  non
+ti:  non
+ticket:  non
+tickets:  non
+tide:  False positive
+tie:  non
+tied:  False positive
+tier:  False positive
+ties:  False positive
+tiffany:  non
+tiger:  False positive
+tigers:  non
+tight:  False positive
+til:  non
+tile:  False positive
+tiles:  False positive
+till:  False positive
+tim:  non
+timber:  non
+time:  yes
+timeline:  non
+timely:  non
+timer:  False positive
+times:  False positive
+timing:  non
+timothy:  non
+tin:  non
+tiny:  False positive
+tion:  False positive
+tions:  False positive
+tip:  non
+tips:  False positive
+tire:  False positive
+tired:  False positive
+tires:  False positive
+tissue:  non
+tit:  non
+titanium:  non
+titans:  non
+title:  False positive
+titled:  non
+titles:  non
+tits:  False positive
+titten:  non
+tm:  non
+tmp:  non
+tn:  non
+to:  non
+tobacco:  non
+tobago:  non
+today:  yes
+todd:  False positive
+toddler:  non
+toe:  non
+together:  non
+toilet:  non
+token:  non
+tokyo:  non
+told:  False positive
+tolerance:  non
+toll:  False positive
+tom:  non
+tomato:  non
+tomatoes:  non
+tommy:  False positive
+tomorrow:  non
+ton:  non
+tone:  False positive
+toner:  False positive
+tones:  False positive
+tongue:  non
+tonight:  non
+tons:  False positive
+tony:  False positive
+too:  non
+took:  False positive
+tool:  False positive
+toolbar:  non
+toolbox:  non
+toolkit:  non
+tools:  False positive
+tooth:  False positive
+top:  non
+topic:  False positive
+topics:  non
+topless:  non
+tops:  False positive
+toronto:  non
+torture:  non
+toshiba:  non
+total:  yes
+totally:  non
+totals:  non
+touch:  False positive
+touched:  non
+tough:  yes
+tour:  False positive
+touring:  non
+tourism:  non
+tourist:  non
+tournament:  non
+tournaments:  non
+tours:  False positive
+toward:  non
+towards:  non
+tower:  False positive
+towers:  non
+town:  yes
+towns:  False positive
+township:  non
+toxic:  non
+toy:  non
+toyota:  non
+toys:  non
+tp:  non
+tr:  non
+trace:  False positive
+track:  False positive
+trackback:  non
+trackbacks:  non
+tracked:  non
+tracker:  non
+tracking:  non
+tracks:  non
+tract:  False positive
+tractor:  non
+tracy:  False positive
+trade:  yes
+trademark:  non
+trademarks:  non
+trader:  non
+trades:  non
+trading:  non
+tradition:  non
+traditional:  non
+traditions:  non
+traffic:  non
+tragedy:  non
+trail:  False positive
+trailer:  non
+trailers:  non
+trails:  non
+train:  False positive
+trained:  non
+trainer:  non
+trainers:  non
+training:  non
+trains:  non
+tramadol:  non
+trance:  non
+tranny:  non
+trans:  False positive
+transaction:  non
+transactions:  non
+transcript:  non
+transcription:  non
+transcripts:  non
+transexual:  non
+transexuales:  non
+transfer:  non
+transferred:  non
+transfers:  non
+transform:  non
+transformation:  non
+transit:  non
+transition:  non
+translate:  non
+translated:  non
+translation:  non
+translations:  non
+translator:  non
+transmission:  non
+transmit:  non
+transmitted:  non
+transparency:  non
+transparent:  non
+transport:  non
+transportation:  non
+transsexual:  non
+trap:  False positive
+trash:  False positive
+trauma:  non
+travel:  non
+traveler:  non
+travelers:  non
+traveling:  non
+traveller:  non
+travelling:  non
+travels:  non
+travesti:  non
+travis:  non
+tray:  False positive
+treasure:  non
+treasurer:  non
+treasures:  non
+treasury:  non
+treat:  yes
+treated:  non
+treating:  non
+treatment:  non
+treatments:  non
+treaty:  non
+tree:  yes
+trees:  False positive
+trek:  False positive
+trembl:  non
+tremendous:  non
+trend:  False positive
+trends:  non
+treo:  False positive
+tri:  non
+trial:  yes
+trials:  non
+triangle:  non
+tribal:  non
+tribe:  False positive
+tribes:  non
+tribunal:  non
+tribune:  non
+tribute:  non
+trick:  False positive
+tricks:  non
+tried:  False positive
+tries:  False positive
+trigger:  non
+trim:  False positive
+trinidad:  non
+trinity:  non
+trio:  False positive
+trip:  yes
+tripadvisor:  non
+triple:  non
+trips:  False positive
+triumph:  non
+trivia:  non
+troops:  non
+tropical:  non
+trouble:  non
+troubleshooting:  non
+trout:  False positive
+troy:  False positive
+truck:  False positive
+trucks:  non
+true:  yes
+truly:  False positive
+trunk:  False positive
+trust:  False positive
+trusted:  non
+trustee:  non
+trustees:  non
+trusts:  non
+truth:  yes
+try:  non
+trying:  non
+ts:  non
+tsunami:  non
+tt:  non
+tu:  non
+tub:  non
+tube:  False positive
+tubes:  False positive
+tucson:  non
+tue:  non
+tuesday:  non
+tuition:  non
+tulsa:  False positive
+tumor:  False positive
+tune:  False positive
+tuner:  False positive
+tunes:  False positive
+tuning:  non
+tunisia:  non
+tunnel:  non
+turbo:  False positive
+turkey:  non
+turkish:  non
+turn:  yes
+turned:  non
+turner:  non
+turning:  non
+turns:  False positive
+turtle:  non
+tutorial:  non
+tutorials:  non
+tv:  non
+tvcom:  False positive
+tvs:  non
+twelve:  non
+twenty:  non
+twice:  False positive
+twiki:  False positive
+twin:  False positive
+twinks:  non
+twins:  False positive
+twist:  False positive
+twisted:  non
+two:  non
+tx:  non
+ty:  non
+tyler:  non
+type:  yes
+types:  non
+typical:  non
+typically:  non
+typing:  non
+u:  non
+uc:  non
+uganda:  non
+ugly:  non
+uh:  non
+ui:  non
+uk:  non
+ukraine:  non
+ul:  non
+ultimate:  non
+ultimately:  non
+ultra:  False positive
+ultram:  non
+um:  non
+un:  non
+una:  non
+unable:  non
+unauthorized:  non
+unavailable:  non
+uncertainty:  non
+uncle:  False positive
+und:  non
+undefined:  non
+under:  yes
+undergraduate:  non
+underground:  non
+underlying:  non
+understand:  non
+understanding:  non
+understood:  non
+undertake:  non
+undertaken:  non
+underwear:  non
+undo:  False positive
+une:  non
+unemployment:  non
+unexpected:  non
+unfortunately:  non
+uni:  non
+unified:  non
+uniform:  non
+union:  False positive
+unions:  non
+uniprotkb:  non
+unique:  non
+unit:  yes
+united:  non
+units:  False positive
+unity:  False positive
+univ:  False positive
+universal:  non
+universe:  non
+universities:  non
+university:  non
+unix:  False positive
+unknown:  non
+unless:  non
+unlike:  non
+unlikely:  non
+unlimited:  non
+unlock:  non
+unnecessary:  non
+unsigned:  non
+unsubscribe:  non
+until:  yes
+untitled:  non
+unto:  False positive
+unusual:  non
+unwrap:  non
+up:  non
+upc:  non
+upcoming:  non
+update:  non
+updated:  non
+updates:  non
+updating:  non
+upgrade:  non
+upgrades:  non
+upgrading:  non
+upload:  non
+uploaded:  non
+upon:  yes
+upper:  False positive
+ups:  non
+upset:  False positive
+upskirt:  non
+upskirts:  non
+ur:  non
+urban:  False positive
+urge:  False positive
+urgent:  non
+uri:  non
+url:  non
+urls:  False positive
+uruguay:  non
+urw:  non
+us:  non
+usa:  non
+usage:  False positive
+usb:  non
+usc:  non
+usd:  non
+usda:  non
+use:  non
+used:  non
+useful:  non
+user:  non
+username:  non
+users:  False positive
+uses:  non
+usgs:  non
+using:  False positive
+usps:  non
+usr:  non
+usual:  False positive
+usually:  non
+ut:  non
+utah:  False positive
+utc:  non
+utilities:  non
+utility:  non
+utilization:  non
+utilize:  non
+utils:  False positive
+uv:  non
+uw:  non
+uzbekistan:  non
+v:  non
+va:  non
+vacancies:  non
+vacation:  non
+vacations:  non
+vaccine:  non
+vacuum:  non
+vagina:  non
+val:  non
+valentine:  non
+valid:  False positive
+validation:  non
+validity:  non
+valium:  non
+valley:  non
+valuable:  non
+valuation:  non
+value:  yes
+valued:  non
+values:  non
+valve:  False positive
+valves:  non
+vampire:  non
+van:  non
+vancouver:  non
+vanilla:  non
+var:  non
+variable:  non
+variables:  non
+variance:  non
+variation:  non
+variations:  non
+varied:  non
+varies:  non
+variety:  non
+various:  non
+vary:  False positive
+varying:  non
+vast:  False positive
+vat:  non
+vatican:  non
+vault:  False positive
+vb:  non
+vbulletin:  non
+vc:  non
+vcr:  non
+ve:  non
+vector:  non
+vegas:  False positive
+vegetable:  non
+vegetables:  non
+vegetarian:  non
+vegetation:  non
+vehicle:  non
+vehicles:  non
+velocity:  non
+velvet:  non
+vendor:  non
+vendors:  non
+venezuela:  non
+venice:  non
+venture:  non
+ventures:  non
+venue:  False positive
+venues:  non
+ver:  non
+verbal:  non
+verde:  False positive
+verification:  non
+verified:  non
+verify:  non
+verizon:  non
+vermont:  non
+vernon:  non
+verse:  False positive
+version:  non
+versions:  non
+versus:  non
+vertex:  non
+vertical:  non
+very:  yes
+verzeichnis:  non
+vessel:  non
+vessels:  non
+veteran:  non
+veterans:  non
+veterinary:  non
+vg:  non
+vhs:  non
+vi:  non
+via:  non
+viagra:  non
+vibrator:  non
+vibrators:  non
+vic:  non
+vice:  False positive
+victim:  non
+victims:  non
+victor:  non
+victoria:  non
+victorian:  non
+victory:  non
+vid:  non
+video:  False positive
+videos:  non
+vids:  False positive
+vienna:  non
+vietnam:  non
+vietnamese:  non
+view:  yes
+viewed:  non
+viewer:  non
+viewers:  non
+viewing:  non
+viewpicture:  non
+views:  False positive
+vii:  non
+viii:  False positive
+viking:  non
+villa:  False positive
+village:  non
+villages:  non
+villas:  non
+vincent:  non
+vintage:  non
+vinyl:  False positive
+violation:  non
+violations:  non
+violence:  non
+violent:  non
+violin:  non
+vip:  non
+viral:  False positive
+virgin:  non
+virginia:  non
+virtual:  non
+virtually:  non
+virtue:  non
+virus:  False positive
+viruses:  non
+visa:  False positive
+visibility:  non
+visible:  non
+vision:  non
+visit:  yes
+visited:  non
+visiting:  non
+visitor:  non
+visitors:  non
+visits:  non
+vista:  False positive
+visual:  non
+vital:  False positive
+vitamin:  non
+vitamins:  non
+vocabulary:  non
+vocal:  False positive
+vocals:  non
+vocational:  non
+voice:  yes
+voices:  non
+void:  False positive
+voip:  False positive
+vol:  non
+volkswagen:  non
+volleyball:  non
+volt:  False positive
+voltage:  non
+volume:  non
+volumes:  non
+voluntary:  non
+volunteer:  non
+volunteers:  non
+volvo:  False positive
+von:  non
+vote:  yes
+voted:  False positive
+voters:  non
+votes:  False positive
+voting:  non
+voyeur:  non
+voyeurweb:  non
+voyuer:  non
+vp:  non
+vpn:  non
+vs:  non
+vsnet:  False positive
+vt:  non
+vulnerability:  non
+vulnerable:  non
+w:  non
+wa:  non
+wage:  False positive
+wages:  False positive
+wagner:  non
+wagon:  False positive
+wait:  yes
+waiting:  non
+waiver:  non
+wake:  False positive
+wal:  non
+wales:  False positive
+walk:  yes
+walked:  non
+walker:  non
+walking:  non
+walks:  False positive
+wall:  yes
+wallace:  non
+wallet:  non
+wallpaper:  non
+wallpapers:  non
+walls:  False positive
+walnut:  non
+walt:  False positive
+walter:  non
+wan:  non
+wang:  False positive
+wanna:  False positive
+want:  yes
+wanted:  non
+wanting:  non
+wants:  False positive
+war:  non
+warcraft:  non
+ward:  False positive
+ware:  False positive
+warehouse:  non
+warm:  False positive
+warming:  non
+warned:  non
+warner:  non
+warning:  non
+warnings:  non
+warrant:  non
+warranties:  non
+warranty:  non
+warren:  non
+warrior:  non
+warriors:  non
+wars:  False positive
+was:  non
+wash:  False positive
+washer:  non
+washing:  non
+washington:  non
+waste:  False positive
+watch:  yes
+watched:  non
+watches:  non
+watching:  non
+water:  yes
+waterproof:  non
+waters:  non
+watershed:  non
+watson:  non
+watt:  False positive
+watts:  False positive
+wav:  non
+wave:  False positive
+waves:  False positive
+wax:  non
+way:  non
+wayne:  False positive
+ways:  non
+wb:  non
+wc:  non
+we:  non
+weak:  False positive
+wealth:  non
+weapon:  non
+weapons:  non
+wear:  yes
+wearing:  non
+weather:  non
+web:  non
+webcam:  non
+webcams:  non
+webcast:  non
+weblog:  non
+weblogs:  non
+webmaster:  non
+webmasters:  non
+webpage:  non
+webshots:  non
+website:  non
+websites:  non
+webster:  non
+wed:  non
+wedding:  non
+weddings:  non
+wednesday:  non
+weed:  False positive
+week:  yes
+weekend:  non
+weekends:  non
+weekly:  non
+weeks:  False positive
+weight:  non
+weighted:  non
+weights:  non
+weird:  False positive
+welcome:  non
+welding:  non
+welfare:  non
+well:  yes
+wellington:  non
+wellness:  non
+wells:  False positive
+welsh:  False positive
+wendy:  False positive
+went:  False positive
+were:  False positive
+wesley:  non
+west:  yes
+western:  non
+westminster:  non
+wet:  non
+whale:  False positive
+what:  yes
+whatever:  non
+whats:  False positive
+wheat:  False positive
+wheel:  False positive
+wheels:  non
+when:  yes
+whenever:  non
+where:  yes
+whereas:  non
+wherever:  non
+whether:  non
+which:  yes
+while:  yes
+whilst:  non
+white:  yes
+who:  non
+whole:  yes
+wholesale:  non
+whom:  yes
+whore:  False positive
+whose:  yes
+why:  non
+wi:  non
+wichita:  non
+wicked:  non
+wide:  yes
+widely:  non
+wider:  False positive
+widescreen:  non
+widespread:  non
+width:  False positive
+wife:  yes
+wifi:  False positive
+wiki:  False positive
+wikipedia:  non
+wild:  False positive
+wilderness:  non
+wildlife:  non
+wiley:  False positive
+will:  yes
+william:  non
+williams:  non
+willing:  non
+willow:  non
+wilson:  non
+win:  non
+wind:  yes
+window:  non
+windows:  non
+winds:  False positive
+windsor:  non
+wine:  False positive
+wines:  False positive
+wing:  False positive
+wings:  False positive
+winner:  non
+winners:  non
+winning:  non
+wins:  False positive
+winston:  non
+winter:  non
+wire:  False positive
+wired:  False positive
+wireless:  non
+wires:  False positive
+wiring:  non
+wisconsin:  non
+wisdom:  non
+wise:  False positive
+wish:  yes
+wishes:  non
+wishlist:  non
+wit:  non
+witch:  False positive
+with:  yes
+withdrawal:  non
+within:  non
+without:  non
+witness:  non
+witnesses:  non
+wives:  False positive
+wizard:  non
+wm:  non
+wma:  non
+wn:  non
+wolf:  False positive
+woman:  yes
+women:  False positive
+womens:  non
+won:  non
+wonder:  non
+wonderful:  non
+wondering:  non
+wood:  False positive
+wooden:  non
+woods:  False positive
+wool:  False positive
+worcester:  non
+word:  yes
+wordpress:  non
+words:  False positive
+work:  yes
+worked:  non
+worker:  non
+workers:  non
+workflow:  non
+workforce:  non
+working:  non
+workout:  non
+workplace:  non
+works:  False positive
+workshop:  non
+workshops:  non
+workstation:  non
+world:  yes
+worldcat:  non
+worlds:  non
+worldsex:  non
+worldwide:  non
+worm:  False positive
+worn:  False positive
+worried:  non
+worry:  yes
+worse:  False positive
+worship:  non
+worst:  False positive
+worth:  False positive
+worthy:  non
+would:  yes
+wound:  False positive
+wow:  non
+wp:  non
+wr:  non
+wrap:  False positive
+wrapped:  non
+wrapping:  non
+wrestling:  non
+wright:  non
+wrist:  False positive
+write:  yes
+writer:  non
+writers:  non
+writes:  non
+writing:  

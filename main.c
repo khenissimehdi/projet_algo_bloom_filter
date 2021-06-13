@@ -7,43 +7,13 @@
 #include "hashTable.h"
 #include <readline/readline.h>
 #include <readline/history.h>
-
+#include "tree.h"
 #define MAX_WORD_LENGTH 80
 char *fileInName;
 char *fileOutName;
 int main(int argc, char *argv[])
 {
 
-  /*int SIZE = 10000;
-
-  bitarray *barray = create_bitarray(SIZE);
-
-  clock_t start, end;
-  double cpu_time_used;
-
-  start = clock();
-  clear_bitarray(barray);
-  end = clock();
-  cpu_time_used = ((double) (end - start)) / CLOCKS_PER_SEC;
-  printf("clear_bitarray with new allocation, time taken: %f\n\n", cpu_time_used);
-
-  start = clock();
-  clear_bitarray_for(barray);
-  end = clock();
-  cpu_time_used = ((double) (end - start)) / CLOCKS_PER_SEC;
-  printf("clear_bitarray with loop through bitarray->array, time taken: %f\n", cpu_time_used);
-*/
-  /*char *mdp = "abc";
-  int len = strlen(mdp);
-  filter *f = create_filter(5, len);
-  unsigned hashes[len];
-  hash(f, "abc", hashes);
-  printf("%d \n", hashes[0]);
-  add_filter(f, "abc");
-  add_filter(f, "dce");
-  print_filter(f);
-  printf("is_member_filter : %d\n", is_member_filter(f, "abc"));
-  printf("is_member_filter : %d\n", is_member_filter(f, "dce"));*/
   char *line;
   FILE *fin = NULL;
   FILE *fileIn = NULL;
@@ -62,7 +32,9 @@ int main(int argc, char *argv[])
       printf(" - Load a password file up : 		     	     enter 'f' then '<password file path>' (file loaded)\n");
     }
     printf(" - Define m the number of bits in the bitarray 	     enter 'm' then '<number of bits>' (default value: %d)\n", m);
-    printf(" - Run stats using s \n");
+    printf(" - Run stats bloom using b \n");
+    printf(" - Run stats tree using  t \n");
+    printf(" - Run stats hash table using  h \n");
     printf(" - Define stats files using g \n");
     printf(" - Define k the number of different hash functions   enter 'k' then '<number of hash f>' (default value: %d)\n", k);
     printf(" - Run the bloom filter program                      enter 'r', must have a password file loaded up first !\n");
@@ -102,7 +74,152 @@ int main(int argc, char *argv[])
         launched = 1;
       }
     }
-    else if (line[0] == 's')
+
+    else if (line[0] == 't')
+    {
+
+      fileInName = readline("file input name :");
+      fileOutName = readline("file ouput name :");
+      if (fileInName != NULL)
+      {
+        fileInName[strlen(fileInName) - 1] = '\0';
+      }
+      if (fileOutName != NULL)
+      {
+        fileOutName[strlen(fileOutName) - 1] = '\0';
+      }
+
+      fileIn = fopen(fileInName, "r");
+      fileOut = fopen(fileOutName, "w+");
+      size_t word_length;
+      char *mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
+      node *node = NULL;
+      clock_t treeT;
+      treeT = clock();
+
+      while (fscanf(fileIn, "%s ", mdp) != -1)
+      {
+
+        word_length = strlen(mdp);
+        if (word_length == 4 || word_length == 5)
+        {
+          node = insert_bst(node, mdp);
+        }
+      }
+
+      int yes = 0, no = 0;
+
+      fclose(fileIn);
+      fileInName = readline("file input name :");
+      if (fileInName != NULL)
+      {
+        fileInName[strlen(fileInName) - 1] = '\0';
+      }
+
+      free(mdp);
+      fileIn = fopen(fileInName, "r");
+      fileOut = fopen(fileOutName, "w+");
+
+      while (fscanf(fileIn, "%s ", mdp) != -1)
+      {
+
+        if (find_bst(node, mdp))
+        {
+          fprintf(fileOut, "%s:  yes\n", mdp);
+          yes++;
+        }
+        else
+        {
+          fprintf(fileOut, "%s:  non\n", mdp);
+          no++;
+        }
+      }
+      treeT = clock() - treeT;
+      double time_takenTree = ((double)treeT) / CLOCKS_PER_SEC;
+
+      printf(" yes : %d   no : %d,  time : %f\n", yes, no, time_takenTree);
+
+      free(line);
+      free_tree(node);
+    }
+
+    else if (line[0] == 'h')
+    {
+
+      fileInName = readline("file input name :");
+      fileOutName = readline("file ouput name :");
+      if (fileInName != NULL)
+      {
+        fileInName[strlen(fileInName) - 1] = '\0';
+      }
+      if (fileOutName != NULL)
+      {
+        fileOutName[strlen(fileOutName) - 1] = '\0';
+      }
+
+      fileIn = fopen(fileInName, "r");
+      fileOut = fopen(fileOutName, "w+");
+      size_t word_length;
+      char *mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
+      table *hash_table;
+
+      hash_table = create_table(m);
+      clock_t hashT;
+      hashT = clock();
+
+      while (fscanf(fileIn, "%s ", mdp) != -1)
+      {
+
+        word_length = strlen(mdp);
+        if (word_length == 4 || word_length == 5)
+        {
+          add_occ_table(hash_table, mdp);
+        }
+      }
+
+      int yes = 0, no = 0;
+
+      fclose(fileIn);
+      fileInName = readline("file input name :");
+      if (fileInName != NULL)
+      {
+        fileInName[strlen(fileInName) - 1] = '\0';
+      }
+      fileIn = fopen(fileInName, "r");
+
+      fileOut = fopen(fileOutName, "w+");
+
+      free(mdp);
+
+      while (fscanf(fileIn, "%s ", mdp) != -1)
+      {
+
+        if (find(hash_table, mdp))
+        {
+          fprintf(fileOut, "%s:  yes\n", mdp);
+          yes++;
+        }
+        else
+        {
+          fprintf(fileOut, "%s:  no\n", mdp);
+          no++;
+        }
+      }
+      hashT = clock() - hashT;
+      double time_takenHash = ((double)hashT) / CLOCKS_PER_SEC;
+      printf(" yes : %d   no : %d  tile : %f \n", yes, no, time_takenHash);
+      int i;
+      for (i = 0; i < hash_table->M; i++)
+      {
+        if (hash_table->bucket[i] != NULL)
+        {
+          free_list(hash_table->bucket[i]);
+        }
+      }
+
+      free(line);
+    }
+    else if (line[0] == 'b')
     {
 
       fileInName = readline("file input name :");
@@ -123,6 +240,8 @@ int main(int argc, char *argv[])
       table *hash_table;
       filter *f = create_filter(m, k);
       hash_table = create_table(m);
+      clock_t Bloom;
+      Bloom = clock();
 
       while (fscanf(fileIn, "%s ", mdp) != -1)
       {
@@ -146,8 +265,6 @@ int main(int argc, char *argv[])
       fileIn = fopen(fileInName, "r");
 
       fileOut = fopen(fileOutName, "w+");
-
-      int i;
 
       free(mdp);
 
@@ -177,15 +294,19 @@ int main(int argc, char *argv[])
           no++;
         }
       }
+      Bloom = clock() - Bloom;
+      double time_takenBloom = ((double)Bloom) / CLOCKS_PER_SEC;
 
-      printf(" maybes : %d   no : %d,   false positives :  %d ,  percentage of false positive : %f \n",
-             maybe, no, falseP, (float)(falseP * 100.0) / n);
+      printf(" maybes : %d   no : %d,   false positives :  %d ,  percentage of false positive : %f  time : %f\n",
+             maybe, no, falseP, (float)(falseP * 100.0) / n, time_takenBloom);
 
       free(line);
       free_filter(f);
     }
+
     putchar('\n');
   }
+
   if (launched)
   {
     char *mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
