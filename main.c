@@ -302,6 +302,14 @@ int main(int argc, char *argv[])
 
       free(line);
       free_filter(f);
+      int i;
+      for (i = 0; i < hash_table->M; i++)
+      {
+        if (hash_table->bucket[i] != NULL)
+        {
+          free_list(hash_table->bucket[i]);
+        }
+      }
     }
 
     putchar('\n');
