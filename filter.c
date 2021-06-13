@@ -45,7 +45,9 @@ void hash(filter *f, char *str, unsigned hashes[])
     hash = 0;
     for (j = 0; str[j] != '\0'; j++)
     {
-      hash = (f->weights[i] * hash + str[j]) % f->bitarray->size;
+      //hash += pow((double)(f->weights[i]), (double)(len - i)) * str[i];
+      //hash += str[j] * pow(f->weights[i], len - (j + 1));
+      hash = (f->weights[i] * hash + str[i]) % f->bitarray->size;
     }
     hashes[i] = hash;
   }

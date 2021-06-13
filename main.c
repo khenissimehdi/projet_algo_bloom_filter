@@ -9,7 +9,8 @@
 #include <readline/history.h>
 
 #define MAX_WORD_LENGTH 80
-
+char *fileInName;
+char *fileOutName;
 int main(int argc, char *argv[])
 {
 
@@ -47,8 +48,8 @@ int main(int argc, char *argv[])
   FILE *fin = NULL;
   FILE *fileIn = NULL;
   FILE *fileOut = NULL;
-  int m = 20;
-  int k = 5;
+  int m = 7000;
+  int k = 3;
   int launched = 0;
   /* readline = ? = fgets ou bien ??? */
   printf("Bloom filter : choose between the following options :\n\n");
@@ -101,10 +102,11 @@ int main(int argc, char *argv[])
         launched = 1;
       }
     }
-    else if (line[0] == 'g')
+    else if (line[0] == 's')
     {
-      char *fileInName = readline("file input name :");
-      char *fileOutName = readline("file ouput name :");
+
+      fileInName = readline("file input name :");
+      fileOutName = readline("file ouput name :");
       if (fileInName != NULL)
       {
         fileInName[strlen(fileInName) - 1] = '\0';
@@ -114,34 +116,72 @@ int main(int argc, char *argv[])
         fileOutName[strlen(fileOutName) - 1] = '\0';
       }
 
-      putchar('\n');
       fileIn = fopen(fileInName, "r");
-      fileOut = fopen(fileOutName, "r");
-    }
-
-    else if (line[0] == 's')
-    {
-
-      if (fileIn == NULL || fileOut == NULL)
-      {
-        printf("Please load up a password file before running the program");
-      }
-      else
+      fileOut = fopen(fileOutName, "w+");
+      size_t word_length;
+      char *mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
+      table *hash_table;
+      filter *f = create_filter(m, k);
+      hash_table = create_table(m);
+      while (fscanf(fileIn, "%s ", mdp) != -1)
       {
 
-        launched = 2;
+        word_length = strlen(mdp);
+        if (word_length == 4 || word_length == 5)
+        {
+          add_filter(f, mdp);
+          add_occ_table(hash_table, mdp);
+        }
       }
+
+      int yes = 0, maybe = 0, falseP = 0, no = 0;
+      float n = 0.0;
+      fclose(fileIn);
+
+      fileIn = fopen(fileInName, "r");
+      fileOut = fopen(fileOutName, "w+");
+      while (fscanf(fileIn, "%s ", mdp) != -1)
+      {
+
+        if (is_member_filter(f, mdp))
+        {
+
+          if (find(hash_table, mdp))
+          {
+
+            fprintf(fileOut, "%s:  yes\n", mdp);
+            yes++;
+          }
+          else
+          {
+            fprintf(fileOut, "%s:  False positive\n", mdp);
+            falseP++;
+          }
+
+          maybe++;
+        }
+        else
+        {
+          fprintf(fileOut, "%s:  non\n", mdp);
+          no++;
+        }
+      }
+
+      printf(" maybes : %d   no : %d,   false positives :  %d ,  percentage of false positive : %f \n",
+             maybe, no, falseP, (float)(falseP * 100.0) / n);
+
+      free(line);
+      free_filter(f);
     }
     putchar('\n');
   }
-  if (launched == 1)
+  if (launched)
   {
     char *mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
     filter *f = create_filter(m, k);
     while (fscanf(fin, "%s ", mdp) != -1)
     {
       add_filter(f, mdp);
-      /*printf("%s\n",mdp);*/
     }
 
     free(mdp);
@@ -153,72 +193,21 @@ int main(int argc, char *argv[])
     printf(" -If you want to check if a password might be in the database or not, type it below :\n");
     printf(" -To quit the program , type 'q'.\n");
 
-    line = readline(">>>");
-    if (is_member_filter(f, line))
+    while (line[0] != 'q')
     {
-      printf("%s is maybe in the database   (MAYBE).\n", line);
-    }
-    else
-    {
-      printf("%s is not in the database     (NO)\n", line);
-    }
-
-    free(line);
-    free_filter(f);
-  }
-  if (launched == 2)
-  {
-    printf("hello");
-    size_t word_length;
-    char *mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
-    table *hash_table;
-    filter *f = create_filter(m, k);
-    hash_table = create_table(m);
-    while (fscanf(fileIn, "%s ", mdp) != -1)
-    {
-
-      word_length = strlen(mdp);
-      if (word_length == 4 || word_length == 5)
+      line = readline(">>>");
+      if (is_member_filter(f, line))
       {
-        add_filter(f, mdp);
-        add_occ_table(hash_table, mdp);
-      }
-    }
-
-    free(mdp);
-    putchar('\n');
-
-    int yes = 0, maybe = 0, falseP = 0, no = 0;
-    float n = 0.0;
-    while (fscanf(fileIn, "%s ", mdp) != -1)
-    {
-
-      if (is_member_filter(f, mdp))
-      {
-        if (find(hash_table, mdp))
-        {
-          fprintf(fileOut, "%s:  yes\n", mdp);
-          yes++;
-        }
-        else
-        {
-          fprintf(fileOut, "%s:  False positive\n", mdp);
-          falseP++;
-        }
-
-        maybe++;
+        printf("%s is maybe in the database   (MAYBE).\n", line);
       }
       else
       {
-        fprintf(fileOut, "%s:  non\n", mdp);
-        no++;
+        printf("%s is not in the database     (NO)\n", line);
       }
+
+      free(line);
     }
 
-    printf(" maybes : %d   no : %d,   false positives :  %d ,  percentage of false positive : %f \n",
-           maybe, no, falseP, (float)(falseP * 100.0) / n);
-
-    free(line);
     free_filter(f);
   }
 
