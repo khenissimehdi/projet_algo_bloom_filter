@@ -120,7 +120,7 @@ int main(int argc, char *argv[])
       fileOut = fopen(fileOutName, "w+");
       size_t word_length;
       char *mdp = (char *)malloc(MAX_WORD_LENGTH * sizeof(char));
-      table *hash_table;
+      hashtable *hash_table;
       filter *f = create_filter(m, k);
       hash_table = create_table(m);
       while (fscanf(fileIn, "%s ", mdp) != -1)
@@ -146,9 +146,8 @@ int main(int argc, char *argv[])
         if (is_member_filter(f, mdp))
         {
 
-          if (find(hash_table, mdp))
+          if (find_table(hash_table, mdp))
           {
-
             fprintf(fileOut, "%s:  yes\n", mdp);
             yes++;
           }

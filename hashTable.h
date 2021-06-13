@@ -1,37 +1,46 @@
-#ifndef __LIST_H__
-#define __LIST_H__
+#ifndef BLOOMFILTERC_HASHTABLE_H
+#define BLOOMFILTERC_HASHTABLE_H
 
-typedef struct _olink
-{
-    int pos;
-    struct _olink *next;
-} olink;
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <assert.h>
 
-typedef struct _link
-{
+typedef struct _link {
     char *word;
-    olink *occurrences; /* liste des occurrences */
+    int count;
     struct _link *next;
 } link;
 
-typedef struct _table
-{
+typedef struct _hashtable {
     link **bucket;
-    int M;    /* nombre de seaux */
+    int M; /* nombre de seaux */
     int size; /* nombre de mots dans la table */
-} table;
+} hashtable;
+
+hashtable *create_table(int M);
+
+void free_hash_table(hashtable *hash_table);
+
+void add_occ_table(hashtable *tab, char word[]);
 
 void free_list(link *lst);
-table *create_table(int M);
-unsigned hashFunc(char *elt, int M);
-void add_occ_table(table *tab, char word[]);
-link *add_occurrence(link *lnk);
-int find(table *tab, char word[]);
-link *create_link(char word[]);
+
 link *find_list(link *lst, char word[]);
-olink *create_olink(int pos);
+
 link *insert_first_list(link *lst, char word[]);
 
 void display_list(link *lst);
 
-#endif
+link *add_occurrence(link *lnk);
+
+/**
+ * Find the word in the hashtable
+ *
+ * @param tab the hastable
+ * @param word the word
+ * @return 1 if the word is in the hashtable, 0 otherwise
+ */
+int find_table(hashtable *tab, char word[]);
+
+#endif /* BLOOMFILTERC_HASHTABLE_H */
